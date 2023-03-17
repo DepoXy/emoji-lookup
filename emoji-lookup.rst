@@ -1327,7 +1327,7 @@ arts & crafts
 =============
 
 U+1F3AD  🎭  performing arts - art | mask | theater | theatre
-U+1F5BC  🖼  framed picture - art | frame | museum | painting
+U+1F5BC  🖼️  framed picture - art | frame | museum | painting | 🖼
 U+1F3A8  🎨  artist palette - art | museum | painting
 U+1F9F5  🧵  thread - needle | sewing | spool | string ║ v11.0
 U+1FAA1  🪡  sewing needle - embroidery | stitches | sutures | tailoring ║ v13.0
