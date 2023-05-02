@@ -1454,7 +1454,7 @@ computer
 
 U+1F50B  🔋  battery - battery
 U+1FAAB  🪫  low battery - electronic | low energy ║ v14.0
-U+1F50C  🔌  electric plug - electric | electricity | plug
+U+1F50C  🔌  electric plug - electric | electricity | plug | (cable)
 U+1F4BB  💻  laptop computer - computer | laptop computer | pc | personal
 U+1F5A5  🖥️  desktop computer - computer | desktop 🖥
 U+1F5A8  🖨️  printer - computer | printer | (copy) 🖨
@@ -1908,8 +1908,8 @@ U+2714   ✔  check mark - ✓ | (checkmark)
  U+FE0F  ✔️  check mark - ✓ | (checkmark) ∦ *Var Selector-16* ∦ ✔
 U+274C   ❌  cross mark - × | cancel | multiplication | multiply | x
 U+274E   ❎  cross mark button - × | square | x
-U+27B0   ➰  curly loop - curl
-U+27BF   ➿  double curly loop - curl
+U+27B0   ➰  curly loop - curl | (cable)
+U+27BF   ➿  double curly loop - curl | (cable)
 U+303D   〽  part alternation mark
 U+2733   ✳  eight-spoked asterisk - *
  U+FE0F  ✳️  eight-spoked asterisk - * ∦ *Var Selector-16* ∦ ✳
