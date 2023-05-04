@@ -259,7 +259,7 @@ U+1F90E  🤎  brown heart - (love | appreciation) | ║ v12.0
 U+1F5A4  🖤  black heart - | evil | wicked
 U+1FA76  🩶  grey heart - gray | silver | slate ║ v15.0
 U+1F90D  🤍  white heart - (affection | like) ║ v12.0
-U+1F4AF  💯  hundred points - 100 | full | score
+U+1F4AF  💯  hundred points - 100 points | full | score
 U+1F4A2  💢  anger symbol - angry | comic | mad
 U+1F4A5  💥  collision - boom | comic | (destroy)
 U+1F4AB  💫  dizzy - comic | star
@@ -1021,56 +1021,56 @@ U+1F3AA  🎪  circus tent - circus | tent
 transport-ground
 ================
 
-U+1F682  🚂  locomotive - engine | locomotive | railway | steam | train
-U+1F683  🚃  railway car - car | electric | railway | train | tram | trolleybus
-U+1F684  🚄  high-speed train - high-speed train | railway | shinkansen | speed | train
-U+1F685  🚅  bullet train - bullet | railway | shinkansen | speed | train
-U+1F686  🚆  train - railway | train
-U+1F687  🚇  metro - metro | subway
-U+1F688  🚈  light rail - light rail | railway
-U+1F689  🚉  station - railway | station | train
+U+1F682  🚂  locomotive - engine | railway | steam | train
+U+1F683  🚃  railway car - electric | train | tram | trolleybus
+U+1F684  🚄  high-speed train - railway | shinkansen | speed
+U+1F685  🚅  bullet train - railway | shinkansen | speed
+U+1F686  🚆  train - railway
+U+1F687  🚇  metro - subway
+U+1F688  🚈  light rail - railway
+U+1F689  🚉  station - railway | train
 U+1F68A  🚊  tram - tram | trolleybus
-U+1F69D  🚝  monorail - monorail | vehicle
-U+1F69E  🚞  mountain railway - car | mountain | railway
-U+1F68B  🚋  tram car - car | tram | trolleybus
-U+1F68C  🚌  bus - bus | vehicle
-U+1F68D  🚍  oncoming bus - bus | oncoming
-U+1F68E  🚎  trolleybus - bus | tram | trolley | trolleybus
-U+1F690  🚐  minibus - bus | minibus
-U+1F691  🚑  ambulance - ambulance | vehicle
-U+1F692  🚒  fire engine - engine | fire | truck
-U+1F693  🚓  police car - car | patrol | police
-U+1F694  🚔  oncoming police car - car | oncoming | police
-U+1F695  🚕  taxi - taxi | vehicle
-U+1F696  🚖  oncoming taxi - oncoming | taxi
-U+1F697  🚗  automobile - automobile | car
-U+1F698  🚘  oncoming automobile - automobile | car | oncoming
-U+1F699  🚙  sport utility vehicle - recreational | sport utility | sport utility vehicle
-U+1F6FB  🛻  pickup truck - pick-up | pickup | truck ║ v13.0
-U+1F69A  🚚  delivery truck - delivery | truck
-U+1F69B  🚛  articulated lorry - articulated lorry | lorry | semi | truck
-U+1F69C  🚜  tractor - tractor | vehicle
-U+1F3CE  🏎️  racing car - car | racing | (🏎)
-U+1F3CD  🏍️  motorcycle - motorcycle | racing | (🏍)
-U+1F6F5  🛵  motor scooter - motor | scooter
-U+1F9BD  🦽  manual wheelchair - accessibility | manual wheelchair ║ v12.0
-U+1F9BC  🦼  motorized wheelchair - accessibility | motorized wheelchair ║ v12.0
-U+1F6FA  🛺  auto rickshaw - auto rickshaw | tuk tuk ║ v12.0
-U+1F6B2  🚲  bicycle - bicycle | bike
-U+1F6F4  🛴  kick scooter - kick | scooter
-U+1F6F9  🛹  skateboard - board | skateboard ║ v11.0
-U+1F6FC  🛼  roller skate - roller | skate ║ v13.0
-U+1F68F  🚏  bus stop - bus | busstop | stop
-U+1F6E3  🛣️  motorway - highway | motorway | road | (🛣)
-U+1F6E4  🛤️  railway track - railway | railway track | train | (🛤)
-U+1F6E2  🛢️  oil drum - drum | oil | (🛢)
-U+26FD   ⛽  fuel pump - diesel | fuel | fuelpump | gas | pump | station
+U+1F69D  🚝  monorail - vehicle
+U+1F69E  🚞  mountain railway - car
+U+1F68B  🚋  tram car - trolleybus
+U+1F68C  🚌  bus - vehicle
+U+1F68D  🚍  oncoming bus - 
+U+1F68E  🚎  trolleybus - bus | tram | trolley
+U+1F690  🚐  minibus - bus
+U+1F691  🚑  ambulance - vehicle
+U+1F692  🚒  fire engine - truck
+U+1F693  🚓  police car - patrol
+U+1F694  🚔  oncoming police car
+U+1F695  🚕  taxi - vehicle
+U+1F696  🚖  oncoming taxi
+U+1F697  🚗  automobile - car
+U+1F698  🚘  oncoming automobile - car
+U+1F699  🚙  sport utility vehicle - recreational
+U+1F6FB  🛻  pickup truck - pick-up | ║ v13.0
+U+1F69A  🚚  delivery truck - 
+U+1F69B  🚛  articulated lorry - semi | truck
+U+1F69C  🚜  tractor - vehicle
+U+1F3CE  🏎️  racing car - (🏎)
+U+1F3CD  🏍️  motorcycle - racing | (🏍)
+U+1F6F5  🛵  motor scooter - 
+U+1F9BD  🦽  manual wheelchair - accessibility ║ v12.0
+U+1F9BC  🦼  motorized wheelchair - accessibility ║ v12.0
+U+1F6FA  🛺  auto rickshaw - tuk tuk ║ v12.0
+U+1F6B2  🚲  bicycle - bike
+U+1F6F4  🛴  kick scooter - 
+U+1F6F9  🛹  skateboard - board ║ v11.0
+U+1F6FC  🛼  roller skate - ║ v13.0
+U+1F68F  🚏  bus stop - busstop
+U+1F6E3  🛣️  motorway - highway | road | (🛣)
+U+1F6E4  🛤️  railway track - rain | (🛤)
+U+1F6E2  🛢️  oil drum - (🛢)
+U+26FD   ⛽  fuel pump - diesel | fuelpump | gas | station
 U+1F6DE  🛞  wheel - circle | tire | turn ║ v14.0
-U+1F6A8  🚨  police car light - beacon | car | light | police | revolving | (alert | siren)
-U+1F6A5  🚥  horizontal traffic light - horizontal traffic light | light | signal | traffic
-U+1F6A6  🚦  vertical traffic light - light | signal | traffic | vertical traffic light
-U+1F6D1  🛑  stop sign - octagonal | sign | stop
-U+1F6A7  🚧  construction - barrier | construction
+U+1F6A8  🚨  police car light - beacon | revolving | (alert | siren)
+U+1F6A5  🚥  horizontal traffic light - signal
+U+1F6A6  🚦  vertical traffic light - signal
+U+1F6D1  🛑  stop sign - octagonal
+U+1F6A7  🚧  construction - barrier
 
 ===============
 transport-water
