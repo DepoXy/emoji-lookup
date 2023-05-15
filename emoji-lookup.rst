@@ -1548,19 +1548,19 @@ U+1F5F3  🗳️  ballot box with ballot - ballot | ballot box with ballot | box
 writing
 =======
 
-U+270F   ✏  pencil - pencil
- U+FE0F  ✏️  pencil - pencil ∦ *Var Selector-16* ∦ ✏
-U+2712   ✒  black nib - black nib | nib | pen
- U+FE0F  ✒️  black nib - black nib | nib | pen ∦ *Var Selector-16* ∦ ✒
-U+1F58B  🖋  fountain pen - fountain | pen
- U+FE0F  🖋️  fountain pen - fountain | pen ∦ 🖋
-U+1F58A  🖊  pen - ballpoint | pen
- U+FE0F  🖊️  fountain pen - fountain | pen ∦ 🖊
-U+1F58C  🖌  paintbrush - paintbrush | painting
- U+FE0F  🖌️  paintbrush - paintbrush | painting ∦ 🖌
-U+1F58D  🖍  crayon - crayon
- U+FE0F  🖍️  crayon - crayon ∦ 🖍
-U+1F4DD  📝  memo - memo | pencil
+U+270F   ✏  pencil -
+ U+FE0F  ✏️  pencil - ∦ *Var Selector-16* ∦ ✏
+U+2712   ✒  black nib - pen
+ U+FE0F  ✒️  black nib - pen ∦ *Var Selector-16* ∦ ✒
+U+1F58B  🖋  fountain pen -
+ U+FE0F  🖋️  fountain pen - ∦ 🖋
+U+1F58A  🖊  pen - ballpoint
+ U+FE0F  🖊️  fountain pen - ∦ 🖊
+U+1F58C  🖌  paintbrush - painting
+ U+FE0F  🖌️  paintbrush - painting ∦ 🖌
+U+1F58D  🖍  crayon -
+ U+FE0F  🖍️  crayon - ∦ 🖍
+U+1F4DD  📝  memo - pencil
 
 ======
 office
@@ -1784,7 +1784,7 @@ U+1F549  🕉  om - Hindu | religion
 U+2721   ✡  star of David - Jew | Jewish | religion
  U+FE0F  ✡️  star of David - Jew | Jewish | religion ∦ *Var Selector-16* ∦ ✡
 U+2638   ☸  wheel of dharma - Buddhist | religion
-U+262F   ☯  yin yang - religion | tao | taoist
+U+262F   ☯️  yin yang - religion | tao | taoist ∦ ☯
 U+271D   ✝  latin cross - Christian | religion
  U+FE0F  ✝️  latin cross - Christian | religion ∦ *Var Selector-16* ∦ ✝
 U+2626   ☦  orthodox cross - Christian | religion
