@@ -1105,7 +1105,7 @@ U+1F6A1  🚡  aerial tramway - cable | car | gondola
 U+1F6F0  🛰  satellite - space | (radar | RADAR)
  U+FE0F  🛰️  satellite - space | (radar | RADAR) ∦ 🛰
 U+1F680  🚀  rocket - space | (travel | going somewhere)
-U+1F6F8  🛸  flying saucer - UFO
+U+1F6F8  🛸  flying saucer - UFO | (probe)
 
 =====
 hotel
