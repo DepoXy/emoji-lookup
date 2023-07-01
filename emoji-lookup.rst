@@ -245,7 +245,7 @@ U+1F495  💕  two hearts - love | (flirtatious vibes | romantic | platonic)
 U+1F49F  💟  heart decoration
 U+2763   ❣  heart exclamation - mark | punctuation
  U+FE0F  ❣️  heart exclamation - mark | punctuation ∦ *Var Selector-16* ∦ ❣
-U+1F494  💔  broken heart - break
+U+1F494  💔  broken heart - break | (divorce)
 U+2764   ❤  red heart - (romantic) ∦ ❤︎ ❤️
  U+FE0F  ❤️  red heart - (romantic | ♡ Digraph `cH`) ∦ *Var Selector-16* ∦ ❤
 U+1FA77  🩷  pink heart - cute | heart | like | love ║ v15.0
@@ -1783,8 +1783,8 @@ U+269B   ⚛  atom symbol - atheist
 U+1F549  🕉  om - Hindu | religion
 U+2721   ✡  star of David - Jew | Jewish | religion
  U+FE0F  ✡️  star of David - Jew | Jewish | religion ∦ *Var Selector-16* ∦ ✡
-U+2638   ☸  wheel of dharma - Buddhist | religion
-U+262F   ☯️  yin yang - religion | tao | taoist ∦ ☯
+U+2638   ☸️  wheel of dharma - Buddhist | religion ∦ ☸
+U+262F   ☯️  yin yang - religion | tao | taoist ∦ ☯ (karma)
 U+271D   ✝  latin cross - Christian | religion
  U+FE0F  ✝️  latin cross - Christian | religion ∦ *Var Selector-16* ∦ ✝
 U+2626   ☦  orthodox cross - Christian | religion
@@ -1896,7 +1896,7 @@ other-symbol
 
 U+2695   ⚕  medical symbol - aesculapius | medicine | staff
  U+FE0F  ⚕️  medical symbol - aesculapius | medicine | staff ∦ *Var Selector-16* ∦ ⚕
-U+267B   ♻  recycling symbol - recycle
+U+267B   ♻️  recycling symbol - recycle ∦ ♻
 U+269C   ⚜  fleur-de-lis
 U+1F531  🔱  trident emblem - anchor | ship | tool
 U+1F4DB  📛  name badge
@@ -3303,7 +3303,7 @@ Mathematical Operators
 https://en.wikipedia.org/wiki/Mathematical_Operators_(Unicode_block)
 https://www.compart.com/en/unicode/block/U+2200
 
-U+220x	∀	∁	∂	∃	∄	∅	∆	∇	∈	∉	∊	∋	∌	∍	∎	∏   # ∀ For All, ∃ There Exists, ∅ Empty Set, ∈ Elem of, ∋ Contains as Mmbr
+U+220x	∀	∁	∂	∃	∄	∅	∆	∇	∈	∉	∊	∋	∌	∍	∎	∏   # ∀ For All, ∃ There Exists, ∅ Empty Set (Null Sign), ∈ Elem of, ∋ Contains as Mmbr
 U+221x	∐	∑	−	∓	∔	∕	∖	∗	∘	∙	√	∛	∜	∝	∞	∟   # N-Ary Summation ∑, √ Square Root, ∝	Proportional, ∞ Inf, ∟ Right Angl
 U+222x	∠	∡	∢	∣	∤	∥	∦	∧	∨	∩	∪	∫	∬	∭	∮	∯   # ∠ Agl, ∥ Prllel To, Logcl ∧ And/∨ Or, ∩ Intrsctn, ∪ Union, ∫ Integral
 U+223x	∰	∱	∲	∳	∴	∵	∶	∷	∸	∹	∺	∻	∼	∽	∾	∿   # ∴ Therefore, ∵ Because, ∶ Ratio, ∷ Proportion, ∹ Excess, ∿ Sine Wave
