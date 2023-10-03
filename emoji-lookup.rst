@@ -86,7 +86,7 @@ U+1FAE2  🫢  face with open eyes and hand over mouth - amazement
                       | awe | disbelief | embarrass | scared | surprise ║ v14.0
 U+1FAE3  🫣  face with peeking eye - captivated | peep | stare ║ v14.0
 U+1F92B  🤫  shushing face - quiet | shush | (shhhh)
-U+1F914  🤔  thinking face
+U+1F914  🤔  thinking face | (question | mystery)
 U+1FAE1  🫡  saluting face - ok | salute | sunny | troops | yes ║ v14.0
 
 ======================
@@ -95,7 +95,7 @@ face-neutral-skeptical
 
 U+1F910  🤐  zipper-mouth face - mouth | zipper
 U+1F928  🤨  face with raised eyebrow - distrust | skeptic | disapproval
-                      | disbelief | mild surprise | scepticism
+                      | disbelief | mild surprise | scepticism | (question | mystery)
 U+1F610  😐  neutral face - deadpan | meh ∦ 😐 😐︎ 😐️
 U+1F611  😑  expressionless face - inexpressive | meh | unexpressive
 U+1F636  😶  face without mouth - quiet | silent | (unsure | nothing to say)
@@ -147,7 +147,7 @@ face-glasses
 
 U+1F60E  😎  smiling face with sunglasses - bright | cool | sun
 U+1F913  🤓  nerd face - geek | (geeky | embarrassing)
-U+1F9D0  🧐  face with monocle - stuffy | wealthy
+U+1F9D0  🧐  face with monocle - stuffy | wealthy | (question | mystery)
 
 ==============
 face-concerned
@@ -1215,7 +1215,7 @@ U+2603   ☃  snowman - cold | snow
 U+26C4   ⛄  snowman without snow - cold
 U+2604   ☄  comet - space
 U+1F525  🔥  fire - flame | tool | (hotness | smoke | 420)
-U+1F4A7  💧  droplet - cold | comic | drop | sweat
+U+1F4A7  💧  droplet - cold | comic | drop | sweat | (water)
 U+1F30A  🌊  water wave - ocean
 
 ##########
@@ -1480,8 +1480,8 @@ U+1F4F7  📷  camera - camera | video
 U+1F4F8  📸  camera with flash - camera | camera with flash | flash | video
 U+1F4F9  📹  video camera - camera | video
 U+1F4FC  📼  videocassette - tape | vhs | video | videocassette
-U+1F50D  🔍  magnifying glass tilted left - glass | magnifying | magnifying glass tilted left | search | tool
-U+1F50E  🔎  magnifying glass tilted right - glass | magnifying | magnifying glass tilted right | search | tool
+U+1F50D  🔍  magnifying glass tilted left - search | tool
+U+1F50E  🔎  magnifying glass tilted right - search | tool | (question | mystery)
 U+1F56F  🕯  candle - candle | light
 U+1F4A1  💡  light bulb - comic | electric | idea | (lightbulb)
 U+1F526  🔦  flashlight - electric | light | tool | torch
