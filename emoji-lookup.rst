@@ -1482,7 +1482,7 @@ U+1F4F9  📹  video camera - camera | video
 U+1F4FC  📼  videocassette - tape | vhs | video | videocassette
 U+1F50D  🔍  magnifying glass tilted left - search | tool
 U+1F50E  🔎  magnifying glass tilted right - search | tool | (question | mystery)
-U+1F56F  🕯  candle - candle | light
+U+1F56F  🕯️  candle - candle | light 🕯
 U+1F4A1  💡  light bulb - comic | electric | idea | (lightbulb)
 U+1F526  🔦  flashlight - electric | light | tool | torch
 U+1F3EE  🏮  red paper lantern - bar | light
