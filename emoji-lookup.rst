@@ -1118,40 +1118,40 @@ U+1F9F3  🧳  luggage - luggage | packing | travel ║ v11.0
 time
 ====
 
-U+231B   ⌛  hourglass done - hourglass done | sand | timer
-U+23F3   ⏳  hourglass not done - hourglass | hourglass not done | sand | timer
-U+231A   ⌚  watch - clock | watch | (wait)
-U+23F0   ⏰  alarm clock - alarm | clock
-U+23F1   ⏱  stopwatch - clock | stopwatch
- U+FE0F  ⏱️  stopwatch - clock | stopwatch ∦ ⏱
-U+23F2   ⏲  timer clock - clock | timer
- U+FE0F  ⏲️  timer clock - clock | timer ∦ ⏲
-U+1F570  🕰  mantelpiece clock - clock | mantelpiece clock
- U+FE0F  🕰️  mantelpiece clock - clock | mantelpiece clock ∦ 🕰
-U+1F55B  🕛  twelve o’clock - 00 | 12 | 12:00 | clock | o’clock | twelve
-U+1F567  🕧  twelve-thirty - 12 | 12:30 | clock | thirty | twelve | twelve-thirty
-U+1F550  🕐  one o’clock - 00 | 1 | 1:00 | clock | o’clock | one
-U+1F55C  🕜  one-thirty - 1 | 1:30 | clock | one | one-thirty | thirty
-U+1F551  🕑  two o’clock - 00 | 2 | 2:00 | clock | o’clock | two
-U+1F55D  🕝  two-thirty - 2 | 2:30 | clock | thirty | two | two-thirty
-U+1F552  🕒  three o’clock - 00 | 3 | 3:00 | clock | o’clock | three
-U+1F55E  🕞  three-thirty - 3 | 3:30 | clock | thirty | three | three-thirty
-U+1F553  🕓  four o’clock - 00 | 4 | 4:00 | clock | four | o’clock
-U+1F55F  🕟  four-thirty - 4 | 4:30 | clock | four | four-thirty | thirty
-U+1F554  🕔  five o’clock - 00 | 5 | 5:00 | clock | five | o’clock
-U+1F560  🕠  five-thirty - 5 | 5:30 | clock | five | five-thirty | thirty
-U+1F555  🕕  six o’clock - 00 | 6 | 6:00 | clock | o’clock | six
-U+1F561  🕡  six-thirty - 6 | 6:30 | clock | six | six-thirty | thirty
-U+1F556  🕖  seven o’clock - 00 | 7 | 7:00 | clock | o’clock | seven
-U+1F562  🕢  seven-thirty - 7 | 7:30 | clock | seven | seven-thirty | thirty
-U+1F557  🕗  eight o’clock - 00 | 8 | 8:00 | clock | eight | o’clock
-U+1F563  🕣  eight-thirty - 8 | 8:30 | clock | eight | eight-thirty | thirty
-U+1F558  🕘  nine o’clock - 00 | 9 | 9:00 | clock | nine | o’clock
-U+1F564  🕤  nine-thirty - 9 | 9:30 | clock | nine | nine-thirty | thirty
-U+1F559  🕙  ten o’clock - 00 | 10 | 10:00 | clock | o’clock | ten
-U+1F565  🕥  ten-thirty - 10 | 10:30 | clock | ten | ten-thirty | thirty
-U+1F55A  🕚  eleven o’clock - 00 | 11 | 11:00 | clock | eleven | o’clock
-U+1F566  🕦  eleven-thirty - 11 | 11:30 | clock | eleven | eleven-thirty | thirty
+U+231B   ⌛  hourglass done - sand | timer
+U+23F3   ⏳  hourglass not done - sand | timer
+U+231A   ⌚  watch - clock | (wait)
+U+23F0   ⏰  alarm clock
+U+23F1   ⏱  stopwatch - clock
+ U+FE0F  ⏱️  stopwatch - clock ∦ ⏱
+U+23F2   ⏲  timer clock
+ U+FE0F  ⏲️  timer clock - ∦ ⏲
+U+1F570  🕰  mantelpiece clock
+ U+FE0F  🕰️  mantelpiece clock - ∦ 🕰
+U+1F55B  🕛  twelve o’clock - 00 | 12 | 12:00 
+U+1F567  🕧  twelve-thirty - 12 | 12:30
+U+1F550  🕐  one o’clock - 00 | 1 | 1:00
+U+1F55C  🕜  one-thirty - 1 | 1:30
+U+1F551  🕑  two o’clock - 00 | 2 | 2:00
+U+1F55D  🕝  two-thirty - 2 | 2:30
+U+1F552  🕒  three o’clock - 00 | 3 | 3:00
+U+1F55E  🕞  three-thirty - 3 | 3:30
+U+1F553  🕓  four o’clock - 00 | 4 | 4:00
+U+1F55F  🕟  four-thirty - 4 | 4:30
+U+1F554  🕔  five o’clock - 00 | 5 | 5:00
+U+1F560  🕠  five-thirty - 5 | 5:30
+U+1F555  🕕  six o’clock - 00 | 6 | 6:00
+U+1F561  🕡  six-thirty - 6 | 6:30
+U+1F556  🕖  seven o’clock - 00 | 7 | 7:00
+U+1F562  🕢  seven-thirty - 7 | 7:30
+U+1F557  🕗  eight o’clock - 00 | 8 | 8:00
+U+1F563  🕣  eight-thirty - 8 | 8:30
+U+1F558  🕘  nine o’clock - 00 | 9 | 9:00
+U+1F564  🕤  nine-thirty - 9 | 9:30
+U+1F559  🕙  ten o’clock - 00 | 10 | 10:00
+U+1F565  🕥  ten-thirty - 10 | 10:30
+U+1F55A  🕚  eleven o’clock - 00 | 11 | 11:00
+U+1F566  🕦  eleven-thirty - 11 | 11:30
 
 =============
 sky & weather
