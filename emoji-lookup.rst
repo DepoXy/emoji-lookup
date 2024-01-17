@@ -306,7 +306,7 @@ U+1F91E  🤞  crossed fingers - cross | finger | hand | luck
 U+1FAF0  🫰  hand with index finger and thumb crossed - expensive | heart | love | money | snap ║ v14.0
 U+1F91F  🤟  love-you gesture - hand | ILY
 U+1F918  🤘  sign of the horns - finger | hand | rock-on
-U+1F919  🤙  call me hand
+U+1F919  🤙  call me hand - (shaka brah, hang ten)
 
 ==================
 hand-single-finger
