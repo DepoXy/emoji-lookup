@@ -925,7 +925,7 @@ U+1F30D  🌍  globe showing ... - Africa | earth | Europe | globe | globe showi
 U+1F30E  🌎  globe showing ... - Americas | earth | globe | globe showing Americas | world
 U+1F30F  🌏  globe showing ... - Asia | Australia | earth | globe | globe showing Asia-Australia | world
 U+1F310  🌐  globe with meridians - earth | globe | globe with meridians | meridians | world
-U+1F5FA  🗺  world map - map | world
+U+1F5FA  🗺️  world map - map | world ∦ 🗺
 U+1F5FE  🗾  map of Japan - Japan | map | map of Japan
 U+1F9ED  🧭  compass - compass | magnetic | navigation | orienteering ║ v11.0
 
@@ -955,15 +955,15 @@ U+1F3DE  🏞  national park
 place-building
 ==============
 
-U+1F3DF  🏟  stadium - stadium
-U+1F3DB  🏛  classical building - classical | classical building
-U+1F3D7  🏗  building construction - building construction | construction
+U+1F3DF  🏟️  stadium - stadium ∦ 🏟
+U+1F3DB  🏛️  classical building - classical | classical building ∦ 🏛
+U+1F3D7  🏗️  building construction - building construction | construction ∦ 🏗
 U+1F9F1  🧱  brick - brick | bricks | clay | mortar | wall ║ v11.0
 U+1FAA8  🪨  rock - boulder | heavy | rock | solid | stone ║ v13.0
 U+1FAB5  🪵  wood - log | lumber | timber | wood ║ v13.0
 U+1F6D6  🛖  hut - house | hut | roundhouse | yurt ║ v13.0
-U+1F3D8  🏘  houses - houses
-U+1F3DA  🏚  derelict house - derelict | house
+U+1F3D8  🏘️  houses - houses ∦ 🏘
+U+1F3DA  🏚️  derelict house - derelict | house ∦ 🏚
 U+1F3E0  🏠  house - home | house
 U+1F3E1  🏡  house with garden - garden | home | house | house with garden
 U+1F3E2  🏢  office building - building | office building
@@ -991,7 +991,7 @@ U+26EA   ⛪  church - Christian | church | cross | religion
 U+1F54C  🕌  mosque - islam | mosque | Muslim | religion
 U+1F6D5  🛕  hindu temple - hindu | temple ║ v12.0
 U+1F54D  🕍  synagogue - Jew | Jewish | religion | synagogue | temple
-U+26E9   ⛩  shinto shrine - religion | shinto | shrine
+U+26E9   ⛩️  shinto shrine - religion | shinto | shrine ∦ ⛩
 U+1F54B  🕋  kaaba - islam | kaaba | Muslim | religion
 
 ===========
@@ -1002,7 +1002,7 @@ U+26F2   ⛲  fountain - fountain
 U+26FA   ⛺  tent - camping | tent
 U+1F301  🌁  foggy - fog | foggy
 U+1F303  🌃  night with stars - night | night with stars | star
-U+1F3D9  🏙  cityscape - city | cityscape
+U+1F3D9  🏙️  cityscape - city | cityscape ∦ 🏙
 U+1F304  🌄  sunrise over mountains - morning | mountain | sun | sunrise | sunrise over mountains
 U+1F305  🌅  sunrise - morning | sun | sunrise
 U+1F306  🌆  cityscape at dusk - city | cityscape at dusk | dusk | evening | landscape | sunset
@@ -1051,7 +1051,7 @@ U+1F69A  🚚  delivery truck -
 U+1F69B  🚛  articulated lorry - semi | truck
 U+1F69C  🚜  tractor - vehicle
 U+1F3CE  🏎️  racing car - (🏎)
-U+1F3CD  🏍️  motorcycle - racing | (🏍)
+U+1F3CD  🏍️  motorcycle - racing ∦ 🏍
 U+1F6F5  🛵  motor scooter - 
 U+1F9BD  🦽  manual wheelchair - accessibility ║ v12.0
 U+1F9BC  🦼  motorized wheelchair - accessibility ║ v12.0
@@ -1061,9 +1061,9 @@ U+1F6F4  🛴  kick scooter -
 U+1F6F9  🛹  skateboard - board ║ v11.0
 U+1F6FC  🛼  roller skate - ║ v13.0
 U+1F68F  🚏  bus stop - busstop
-U+1F6E3  🛣️  motorway - highway | road | (🛣)
-U+1F6E4  🛤️  railway track - rain | (🛤)
-U+1F6E2  🛢️  oil drum - (🛢)
+U+1F6E3  🛣️  motorway - highway | road ∦ 🛣
+U+1F6E4  🛤️  railway track - rain ∦ 🛤
+U+1F6E2  🛢️  oil drum - ∦ 🛢
 U+26FD   ⛽  fuel pump - diesel | fuelpump | gas | station
 U+1F6DE  🛞  wheel - circle | tire | turn ║ v14.0
 U+1F6A8  🚨  police car light - beacon | revolving | (alert | siren)
@@ -1081,9 +1081,9 @@ U+1F6DF  🛟  ring buoy - float | life preserver | life saver | rescue | safety
 U+26F5   ⛵  sailboat - boat | resort | sailboat | sea | yacht
 U+1F6F6  🛶  canoe - boat | canoe
 U+1F6A4  🚤  speedboat - boat | speedboat
-U+1F6F3  🛳  passenger ship - passenger | ship
-U+26F4   ⛴  ferry - boat | ferry | passenger
-U+1F6E5  🛥  motor boat - boat | motor boat | motorboat
+U+1F6F3  🛳️  passenger ship - passenger | ship ∦ 🛳
+U+26F4   ⛴️   ferry - boat | ferry | passenger ∦ ⛴
+U+1F6E5  🛥️  motor boat - boat | motor boat | motorboat ∦ 🛥
 U+1F6A2  🚢  ship - boat | passenger | ship
 
 =============
@@ -1312,11 +1312,11 @@ U+1F9F8  🧸  teddy bear - plaything | plush | stuffed | teddy bear | toy ║ v
 U+1FA85  🪅  piñata - celebration | party | piñata ║ v13.0
 U+1FAA9  🪩  mirror ball - dance | disco | glitter | party ║ v14.0
 U+1FA86  🪆  nesting dolls - doll | nesting | nesting dolls | russia ║ v13.0
-U+2660   ♠  spade suit - card | game | spade suit
-U+2665   ♥  heart suit - card | game | heart suit
-U+2666   ♦  diamond suit - card | diamond suit | game
-U+2663   ♣  club suit - card | club suit | game
-U+265F   ♟  chess pawn - chess | chess pawn | dupe | expendable | red shirt ║ v11.0
+U+2660   ♠️  spade suit - card | game | spade suit ∦ ♠
+U+2665   ♥️  heart suit - card | game | heart suit ∦ ♥
+U+2666   ♦️  diamond suit - card | diamond suit | game ∦ ♦
+U+2663   ♣️  club suit - card | club suit | game ∦ ♣
+U+265F   ♟️  chess pawn - chess | chess pawn | dupe | expendable | red shirt ║ v11.0 ∦ ♟
             ➯ emojification of pre-existing character
 U+1F0CF  🃏  joker - card | game | joker | wildcard
 U+1F004  🀄  mahjong red dragon - game | mahjong | mahjong red dragon | red
@@ -1473,7 +1473,7 @@ light & video
 
 U+1F3A5  🎥  movie camera - camera | cinema | movie
 U+1F39E  🎞  film frames - cinema | film | frames | movie
-U+1F4FD  📽  film projector - cinema | film | movie | projector | video
+U+1F4FD  📽️  film projector - cinema | film | movie | projector | video ∦ 📽
 U+1F3AC  🎬  clapper board - clapper | clapper board | movie
 U+1F4FA  📺  television - television | tv | video
 U+1F4F7  📷  camera - camera | video
@@ -1697,9 +1697,9 @@ other-object
 ============
 
 U+1F6AC  🚬  cigarette - cigarette | smoking
-U+26B0   ⚰  coffin - coffin | death
+U+26B0   ⚰️  coffin - coffin | death ∦ ⚰
 U+1FAA6  🪦  headstone - cemetery | grave | graveyard | headstone | tombstone ║ v13.0
-U+26B1   ⚱  funeral urn - ashes | death | funeral | urn
+U+26B1   ⚱️  funeral urn - ashes | death | funeral | urn ∦ ⚱
 U+1F5FF  🗿  moai - face | moai | moyai | statue | (stoned | high)
 U+1FAA7  🪧  placard - demonstration | picket | placard | protest | sign ║ v13.0
 U+1FAAA  🪪  identification card - credentials | ID | license | security ║ v14.0
@@ -1751,45 +1751,45 @@ U+2623   ☣  biohazard - sign
 arrow
 =====
 
-U+2B06   ⬆  up arrow - arrow | cardinal | direction | north | up arrow
-U+2197   ↗  up-right arrow - arrow | direction | intercardinal | northeast | up-right arrow ∦ ↗︎ ↗️
-U+27A1   ➡  right arrow - arrow | cardinal | direction | east | right arrow
- U+FE0F  ➡️  right arrow - arrow | cardinal | direction | east | right arrow ∦ *Var Selector-16* ∦ ➡
-U+2198   ↘  down-right arrow - arrow | direction | down-right arrow | intercardinal | southeast ∦ ↘︎ ↘️
-U+2B07   ⬇  down arrow - arrow | cardinal | direction | down | south
-U+2199   ↙  down-left arrow - arrow | direction | down-left arrow | intercardinal | southwest ∦ ↙︎ ↙️
-U+2B05   ⬅  left arrow - arrow | cardinal | direction | left arrow | west
-U+2196   ↖  up-left arrow - arrow | direction | intercardinal | northwest | up-left arrow ∦ ↖︎ ↖️
-U+2195   ↕  up-down arrow - arrow | up-down arrow ∦ ↕︎ ↕️
-U+2194   ↔  left-right arrow - arrow | left-right arrow ∦ ↔︎ ↔️
-U+21A9   ↩  right arrow curving left - arrow | right arrow curving left ∦ ↩︎ ↩️
-U+21AA   ↪  left arrow curving right - arrow | left arrow curving right ∦ ↪︎ ↪️
-U+2934   ⤴  right arrow curving up - arrow | right arrow curving up
-U+2935   ⤵  right arrow curving down - arrow | down | right arrow curving down
+U+2B06   ⬆️  up arrow - cardinal | direction | north ∦ ⬆
+U+2197   ↗️  up-right arrow - direction | intercardinal | northeast ∦ ↗ ↗︎
+U+27A1   ➡  right arrow - cardinal | direction | east
+ U+FE0F  ➡️  right arrow - cardinal | direction | east ∦ *Var Selector-16* ∦ ➡ ➡️
+U+2198   ↘️  down-right arrow - direction | intercardinal | southeast ∦ ↘ ↘︎
+U+2B07   ⬇️  down arrow - cardinal | direction | south ∦ ⬇
+U+2199   ↙️  down-left arrow - direction | intercardinal | southwest ∦ ↙ ↙︎
+U+2B05   ⬅️  left arrow - cardinal | direction | west ∦ ⬅
+U+2196   ↖️  up-left arrow - direction | intercardinal | northwest ∦ ↖ ↖︎
+U+2195   ↕️  up-down arrow - ∦ ↕ ↕︎
+U+2194   ↔️  left-right arrow - ∦ ↔ ↔︎
+U+21A9   ↩️  right arrow curving left - ∦ ↩ ↩︎ ↩️
+U+21AA   ↪️  left arrow curving right - ∦ ↪ ↪︎ ↪️
+U+2934   ⤴️  right arrow curving up - ∦ ⤴
+U+2935   ⤵️  right arrow curving down - ∦ ⤵
 U+1F503  🔃  clockwise vertical arrows - arrow | clockwise | clockwise vertical arrows | reload
 U+1F504  🔄  ... - anticlockwise | arrow | counterclockwise | counterclockwise arrows button | withershins
-U+1F519  🔙  BACK arrow - arrow | back | BACK arrow
-U+1F51A  🔚  END arrow - arrow | end | END arrow
-U+1F51B  🔛  ON! arrow - arrow | mark | on | ON! arrow
-U+1F51C  🔜  SOON arrow - arrow | soon | SOON arrow
-U+1F51D  🔝  TOP arrow - arrow | top | TOP arrow | up
+U+1F519  🔙  BACK arrow -
+U+1F51A  🔚  END arrow -
+U+1F51B  🔛  ON! arrow - mark
+U+1F51C  🔜  SOON arrow -
+U+1F51D  🔝  TOP arrow - up
 
 ========
 religion
 ========
 
 U+1F6D0  🛐  place of worship - religion
-U+269B   ⚛  atom symbol - atheist
-U+1F549  🕉  om - Hindu | religion
+U+269B   ⚛️  atom symbol - atheist ∦ ⚛
+U+1F549  🕉️  om - Hindu | religion ∦ 🕉
 U+2721   ✡  star of David - Jew | Jewish | religion
  U+FE0F  ✡️  star of David - Jew | Jewish | religion ∦ *Var Selector-16* ∦ ✡
 U+2638   ☸️  wheel of dharma - Buddhist | religion ∦ ☸
 U+262F   ☯️  yin yang - religion | tao | taoist ∦ ☯ (karma)
 U+271D   ✝  latin cross - Christian | religion
  U+FE0F  ✝️  latin cross - Christian | religion ∦ *Var Selector-16* ∦ ✝
-U+2626   ☦  orthodox cross - Christian | religion
-U+262A   ☪  star and crescent - islam | Muslim | religion
-U+262E   ☮  peace symbol
+U+2626   ☦️  orthodox cross - Christian | religion ∦ ☦
+U+262A   ☪️  star and crescent - islam | Muslim | religion ∦ ☪
+U+262E   ☮️  peace symbol ∦ ☮
 U+1F54E  🕎  menorah - candelabrum | candlestick | religion
 U+1F52F  🔯  dotted six-pointed star - | fortune
 U+1FAAF  🪯  khanda - religion | Sikh ║ v15.0
@@ -1818,30 +1818,30 @@ av-symbol
 =========
 
 U+1F500  🔀  shuffle tracks button - arrow | crossed | (branch | merge)
-U+1F501  🔁  repeat button - arrow | clockwise | repeat | repeat button
-U+1F502  🔂  repeat single button - arrow | clockwise | once | repeat single button
-U+25B6   ▶  play button - arrow | play | play button | right | triangle
-U+23E9   ⏩  fast-forward button - arrow | double | fast | fast-forward button | forward
-U+23ED   ⏭  next track button - arrow | next scene | next track | next track button | triangle
-U+23EF   ⏯  play or pause button - arrow | pause | play | play or pause button | right | triangle
-U+25C0   ◀  reverse button - arrow | left | reverse | reverse button | triangle
-U+23EA   ⏪  fast reverse button - arrow | double | fast reverse button | rewind
-U+23EE   ⏮  last track button - arrow | last track button | previous scene | previous track | triangle
-U+1F53C  🔼  upwards button - arrow | button | red | upwards button
-U+23EB   ⏫  fast up button - arrow | double | fast up button
-U+1F53D  🔽  downwards button - arrow | button | down | downwards button | red
-U+23EC   ⏬  fast down button - arrow | double | down | fast down button
-U+23F8   ⏸  pause button - bar | double | pause | pause button | vertical
-U+23F9   ⏹  stop button - square | stop | stop button
-U+23FA   ⏺  record button - circle | record | record button
-U+23CF   ⏏  eject button - eject | eject button
-U+1F3A6  🎦  cinema - camera | cinema | film | movie
-U+1F505  🔅  dim button - brightness | dim | dim button | low
-U+1F506  🔆  bright button - bright | bright button | brightness
-U+1F4F6  📶  antenna bars - antenna | antenna bars | bar | cell | mobile | phone
-U+1F6DC  🛜  wireless - computer | internet | network | wireless ║ v15.0
-U+1F4F3  📳  vibration mode - cell | mobile | mode | phone | telephone | vibration
-U+1F4F4  📴  mobile phone off - cell | mobile | off | phone | telephone
+U+1F501  🔁  repeat button - arrow | clockwise
+U+1F502  🔂  repeat single button - arrow | clockwise | once
+U+25B6   ▶️  play button - arrow | right | triangle ∦ ▶
+U+23E9   ⏩  fast-forward button - arrow | double
+U+23ED   ⏭️  next track button - arrow | next scene | triangle ∦ ⏭
+U+23EF   ⏯️  play or pause button - arrow | right | triangle ∦ ⏯
+U+25C0   ◀️  reverse button - arrow | left | triangle ∦ ◀
+U+23EA   ⏪  fast reverse button - arrow | double | rewind
+U+23EE   ⏮️  last track button - arrow | previous scene | previous track | triangle ∦ ⏮
+U+1F53C  🔼  upwards button - arrow | button | red
+U+23EB   ⏫  fast up button - arrow | double
+U+1F53D  🔽  downwards button - arrow | button | down | red
+U+23EC   ⏬  fast down button - arrow | double
+U+23F8   ⏸️  pause button - bar | double | vertical ∦ ⏸
+U+23F9   ⏹️  stop button - square ∦ ⏹
+U+23FA   ⏺️  record button - circle ∦ ⏺
+U+23CF   ⏏️  eject button - ∦ ⏏
+U+1F3A6  🎦  cinema - camera | film | movie
+U+1F505  🔅  dim button - brightness | low
+U+1F506  🔆  bright button - brightness
+U+1F4F6  📶  antenna bars - bar | cell | mobile | phone
+U+1F6DC  🛜  wireless - computer | internet | network ║ v15.0
+U+1F4F3  📳  vibration mode - cell | mobile | phone | telephone
+U+1F4F4  📴  mobile phone off - cell | telephone
 
 ======
 gender
@@ -1950,20 +1950,20 @@ U+1F521  🔡  input latin lowercase - abcd | letters
 U+1F522  🔢  input numbers - 1234
 U+1F523  🔣  input symbols - 〒♪&%
 U+1F524  🔤  input latin letters - abc | alphabet
-U+1F170  🅰  A button (blood type) - a
+U+1F170  🅰️  A button (blood type) - a ∦ 🅰
 U+1F18E  🆎  AB button (blood type) - ab
-U+1F171  🅱  B button (blood type) - b
+U+1F171  🅱️  B button (blood type) - b ∦ 🅱
 U+1F191  🆑  CL button - cl
 U+1F192  🆒  COOL button - cool | (irritated | sassy | annoyed)
 U+1F193  🆓  FREE button - free
-U+2139   ℹ  information - i
+U+2139   ℹ️  information - i ∦ ℹ
 U+1F194  🆔  ID button - id | identity
 U+24C2   Ⓜ  circled M - circle | m
 U+1F195  🆕  NEW button - new
 U+1F196  🆖  NG button - ng
-U+1F17E  🅾  O button (blood type) - o
+U+1F17E  🅾️  O button (blood type) - o ∦ 🅾
 U+1F197  🆗  OK button - ok
-U+1F17F  🅿  P button - parking
+U+1F17F  🅿️  P button - parking ∦ 🅿
 U+1F198  🆘  SOS button - help | sos
 U+1F199  🆙  UP! button - mark | up
 U+1F19A  🆚  VS button - versus | vs
