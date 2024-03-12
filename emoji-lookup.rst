@@ -476,7 +476,7 @@ person-sport
 
 U+1F93A  🤺  person fencing - fencer | fencing | person fencing | sword
 U+1F3C7  🏇  horse racing - horse | jockey | racehorse | racing
-U+26F7   ⛷  skier - ski | skier | snow
+U+26F7   ⛷️  skier - ski | skier | snow ∦ ⛷
 U+1F3C2  🏂  snowboarder - ski | snow | snowboard | snowboarder
 U+1F3CC  🏌  person golfing - ball | golf | person golfing
  U+FE0F  🏌️  person golfing - ball | golf | person golfing ∦ *Var Selector-16* ∦ 🏌
@@ -518,7 +518,7 @@ U+1F46A  👪  family - family
 person-symbol
 =============
 
-U+1F5E3  🗣  speaking head - face | head | silhouette | speak | speaking
+U+1F5E3  🗣️  speaking head - face | head | silhouette | speak | speaking ∦ 🗣
 U+1F464  👤  bust in silhouette - bust | bust in silhouette | silhouette
 U+1F465  👥  busts in silhouette - bust | busts in silhouette | silhouette
 U+1FAC2  🫂  people hugging - goodbye | hello | hug | people hugging | thanks ║ v13.0
@@ -726,7 +726,7 @@ U+1F334  🌴  palm tree - palm | tree
 U+1F335  🌵  cactus - cactus | plant
 U+1F33E  🌾  sheaf of rice - ear | grain | rice | sheaf of rice
 U+1F33F  🌿  herb - herb | leaf | (smoke | 420 | marijuana cigarettes | REEFERS)
-U+2618   ☘  shamrock - plant | shamrock
+U+2618   ☘️  shamrock - plant | shamrock ∦ ☘
 U+1F340  🍀  four leaf clover - 4 | clover | four | four-leaf clover | leaf
 U+1F341  🍁  maple leaf - falling | leaf | maple
 U+1F342  🍂  fallen leaf - fallen leaf | falling | leaf
