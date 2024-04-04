@@ -1440,7 +1440,7 @@ U+1FA88  🪈  flute - fife | flute | music | pipe | recorder | woodwind ║ v15
 phone
 =====
 
-U+1F4F1  📱  mobile phone - cell | mobile | phone | telephone
+U+1F4F1  📱  mobile phone - cell | mobile | phone | telephone | (cellphone)
 U+1F4F2  📲  mobile phone with arrow - arrow | cell | mobile | mobile phone with arrow | phone | receive
 U+260E   ☎  telephone - phone | telephone
  U+FE0F  ☎️  telephone - phone | telephone ∦ ☎
@@ -1452,9 +1452,9 @@ U+1F4E0  📠  fax machine - fax | fax machine
 computer
 ========
 
-U+1F50B  🔋  battery - battery
-U+1FAAB  🪫  low battery - electronic | low energy ║ v14.0
-U+1F50C  🔌  electric plug - electric | electricity | plug | (cable)
+U+1F50B  🔋  battery - battery | (power)
+U+1FAAB  🪫  low battery - electronic | low energy | (power) ║ v14.0
+U+1F50C  🔌  electric plug - electric | electricity | plug | (cable | power)
 U+1F4BB  💻  laptop computer - computer | laptop computer | pc | personal
 U+1F5A5  🖥️  desktop computer - computer | desktop 🖥
 U+1F5A8  🖨️  printer - computer | printer | (copy) 🖨
