@@ -2400,6 +2400,8 @@ U+1F3F3 U+FE0F U+200D U+1F308        🏳️‍🌈  rainbow flag - rainbow | ra
 U+1F3F3 U+FE0F U+200D U+26A7 U+FE0F  🏳️‍⚧️  transgender flag - flag | light blue | pink | transgender | white ║ v13.0
 U+1F3F4 U+200D U+2620 U+FE0F         🏴‍☠️  pirate flag - Jolly Roger | pirate | pirate flag | plunder | treasure ║ v11.0
 
+🦋⃤   ♡⃤   🌈⃤      🦋⃤♡⃤🌈⃤               https://www.reddit.com/r/pinkfloyd/comments/asy7dg/unicode_bug_makes_pink_floyd_emoji/
+
 ============
 country-flag
 ============
