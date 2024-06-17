@@ -2980,7 +2980,7 @@ I_SEE: Most Unicode characters show up without artifacts on macOS (MacVim),
 Braille Patterns
 https://en.wikipedia.org/wiki/Braille_Patterns
 
-U+280x	⠀	⠁	⠂	⠃	⠄	⠅	⠆	⠇	⠈	⠉	⠊	⠋	⠌	⠍	⠎	⠏
+U+280x	⠀	⠁	⠂	⠃	⠄	⠅	⠆	⠇	⠈	⠉	⠊	⠋	⠌	⠍	⠎	⠏   # 1st is Braille_Pattern_Blank
 U+281x	⠐	⠑	⠒	⠓	⠔	⠕	⠖	⠗	⠘	⠙	⠚	⠛	⠜	⠝	⠞	⠟
 U+282x	⠠	⠡	⠢	⠣	⠤	⠥	⠦	⠧	⠨	⠩	⠪	⠫	⠬	⠭	⠮	⠯
 U+283x	⠰	⠱	⠲	⠳	⠴	⠵	⠶	⠷	⠸	⠹	⠺	⠻	⠼	⠽	⠾	⠿
@@ -3945,6 +3945,7 @@ U+202F  NARROW NO-BREAK SPACE             foo bar   Narrower than NO-BREAK SPA
 U+205F  MEDIUM MATHEMATICAL SPACE         foo bar   4/18 em
 U+3000  IDEOGRAPHIC SPACE                 foo　bar  The width of ideographic (CJK) characters.  [Digraph: IS]
 U+FEFF  ZERO WIDTH NO-BREAK SPACE         foo﻿bar  0
+U+280x  Braille_Pattern_Blank             foo⠀bar   "while imaged as fixed-width blank in many fonts, not a space"
 
 USAGE:
 - I have used these to pad a Vim ``titlestring`` so that it maintains
