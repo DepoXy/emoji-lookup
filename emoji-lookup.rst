@@ -1170,7 +1170,7 @@ U+1F31A  🌚  new moon face - (dark moon | smug | entitled | judging)
 U+1F31B  🌛  first quarter moon face
 U+1F31C  🌜  last quarter moon face
 U+1F321  🌡  thermometer - weather
-U+2600   ☀  sun - bright | rays | sunny
+U+2600   ☀️  sun - bright | rays | sunny | ☀
 U+1F31D  🌝  full moon face - bright
 U+1F31E  🌞  sun with face - bright
 U+1FA90  🪐  ringed planet - saturn | saturnine | (vibes ?) ║ v12.0
