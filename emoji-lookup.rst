@@ -2904,6 +2904,26 @@ But other Unicode will be colored according to the foreground color, e.g.,::
 
 (Though not the case on GitHub, where everything above renders colorfully.)
 
+=========================================================================
+─ Most emoji are left-facing (🏃), and few are right-facing (🐿) ─
+=========================================================================
+
+It's because English is read left-to-right, but emoji evolved in Japan.
+
+- Per Suzy Styles, it was "probably motivated by Japanese SOV word order."
+
+  https://www.superlinguo.com/post/130501329351/emoji-deixis-when-emoji-dont-face-the-way-you
+
+- Per article author, these were only rightward bias glyphs that could
+  identify on their machine:
+
+    🐌 ✈️  🚀 🔉 💃 🏂 💺 💤 🔜 🔙
+
+  - So while you might not want to tell your loved one you're
+    🏃 🏠 (running away from home?) you can always 🐌 🏠.
+
+Neat, huh
+
 ===========================================================================
 ─ U+FE0F Var Selector-16 Explained ────────────────────────────────────────
 ===========================================================================
@@ -2998,6 +3018,8 @@ U+28Cx	⣀	⣁	⣂	⣃	⣄	⣅	⣆	⣇	⣈	⣉	⣊	⣋	⣌	⣍	⣎	⣏
 U+28Dx	⣐	⣑	⣒	⣓	⣔	⣕	⣖	⣗	⣘	⣙	⣚	⣛	⣜	⣝	⣞	⣟
 U+28Ex	⣠	⣡	⣢	⣣	⣤	⣥	⣦	⣧	⣨	⣩	⣪	⣫	⣬	⣭	⣮	⣯
 U+28Fx	⣰	⣱	⣲	⣳	⣴	⣵	⣶	⣷	⣸	⣹	⣺	⣻	⣼	⣽	⣾	⣿
+::
+          ⣀⣀⣀⣐⣔⣒⣔⣳⣒⣴⣶⣾⣿⣽⣿⣺⣽⣷⢵⣥⣔⣄⣑⣁⣃⣄⣀🐌
 
 ===========================================================================
 ─ ASCII Spinners ──────────────────────────────────────────────────────────
