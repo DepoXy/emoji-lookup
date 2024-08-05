@@ -1698,7 +1698,7 @@ other-object
 
 U+1F6AC  🚬  cigarette - cigarette | smoking
 U+26B0   ⚰️  coffin - coffin | death ∦ ⚰
-U+1FAA6  🪦  headstone - cemetery | grave | graveyard | headstone | tombstone ║ v13.0
+U+1FAA6  🪦  headstone - cemetery | grave | graveyard | headstone | tombstone | ✞ ║ v13.0
 U+26B1   ⚱️  funeral urn - ashes | death | funeral | urn ∦ ⚱
 U+1F5FF  🗿  moai - face | moai | moyai | statue | (stoned | high)
 U+1FAA7  🪧  placard - demonstration | picket | placard | protest | sign ║ v13.0
