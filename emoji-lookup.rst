@@ -3520,6 +3520,35 @@ U+23Fx	⏰	⏱	⏲	⏳	⏴	⏵	⏶	⏷	⏸	⏹	⏺	⏻	⏼	⏽	⏾	⏿
 
 - The DC Voltage symbol is used like, e.g., "5.0V ⎓ 3.0A".
 
+-------
+
+List of Keyboard Key icons #key_icons:
+
+    ^  - Control (aka Ctrl) key
+    ⌥  - Option (aka Alt, Meta) key
+    ⇧  - Shift ("Upwards White Arrow", see also: ↑) key
+    ⌘  - Command (aka Windows, Super) key
+    🌐 - Function (aka Globe) key
+
+    ⇥  - Tab (Rightwards Arrow to Bar) (see also: ⇤ Tab left)
+    ⇪  - Caps Lock (Upwards White Arrow from Bar)
+    ⏏  - Eject (Eject Symbol)
+    ⏎  - Return (Return Symbol)
+    ⌫  - Delete (Erase to the Left) (see also: ⌦  Fwd. Del.)
+    ⎋  - Escape (Broken Circle w/ NW Arrow; aka ISO 9995-7 ESC ch.)
+    ⌽  - On/Off/Power symbol (maybe?) (APL Functional Symbol Circle Stile)
+      - Apple logo approximation (U+F8FF, try Option (⌥)-Shift (⇧)-K on a Mac)
+         (Apple devices only: Uses last private-use codepoint.
+          Looks like Pi symbol in a solid square on Linux/Hack Font.)
+    ⊞  - Windows logo approximation (Squared Plus)
+    🐧 - Linux (Tux) approximation (Penguin).
+  ⇞⇟↖︎↘︎ - ⇞ Page Up / ⇟ Page Down / ↖︎ Top (Home) / ↘︎ End
+
+  - macOS display order: Ctrl-Option-Shift-Command-<key> / ^⌥ ⇧⌘ <key>
+
+REFER: Apple Support's *Mac keyboard shortcuts*
+  https://support.apple.com/en-us/HT201236
+
 ===========================================================================
 ─ Geometric Shapes ────────────────────────────────────────────────────────
 ===========================================================================
