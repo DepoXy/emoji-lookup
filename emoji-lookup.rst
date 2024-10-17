@@ -1050,7 +1050,7 @@ U+1F6FB  🛻  pickup truck - pick-up | ║ v13.0
 U+1F69A  🚚  delivery truck - 
 U+1F69B  🚛  articulated lorry - semi | truck
 U+1F69C  🚜  tractor - vehicle
-U+1F3CE  🏎️  racing car - (🏎)
+U+1F3CE  🏎️  racing car - 🏎️💨 ∦ 🏎
 U+1F3CD  🏍️  motorcycle - racing ∦ 🏍
 U+1F6F5  🛵  motor scooter - 
 U+1F9BD  🦽  manual wheelchair - accessibility ║ v12.0
