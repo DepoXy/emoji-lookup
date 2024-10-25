@@ -2703,11 +2703,25 @@ Some Notes & Links
 ===========================================================================
 
 The list above is based on Unicode v15.0:
+
 - *[Unicode] Emoji Charts / Emoji List, v11.0*
+
   https://unicode.org/emoji/charts-15.0/emoji-list.html
-Unicode v15.0 is the latest Unicode as of 2022-09-15.
-- For the latest version, see:
-  https://www.unicode.org/emoji/charts/emoji-list.html
+
+Unicode v15.0 was the latest Unicode as of 2022-09-15.
+
+Unicode v16.0 will arrive on platforms in late 2024/throughout 2025.
+
+REFER
+-----
+
+- *Full Emoji List* (latest version)
+
+  https://unicode.org/emoji/charts/full-emoji-list.html
+
+- *emoji-cheat-sheet* — *A markdown version emoji cheat sheet*
+
+  https://github.com/ikatyang/emoji-cheat-sheet/
 
 ===========================================================================
 ─ Install fonts with the latest Emoji characters ──────────────────────────
