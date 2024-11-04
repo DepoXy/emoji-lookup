@@ -1,5 +1,9 @@
 𝗨𝗡𝗜𝗖𝗢𝗗𝗘 𝗘𝗠𝗢𝗝𝗜 𝙫𝟭𝟱.𝟬 🙄 𝙇𝙊𝙊𝙆𝙐𝙋
 
+.. Author: Landon Bouma <https://tallybark.com/> / 𝓛𝓪𝓷𝓭𝓸𝓷 𝓑𝓸𝓾𝓶𝓪
+.. Project: https://github.com/DepoXy/emoji-lookup#🙄
+.. License: MIT
+
 USAGE: Open this file in a text editor using a reST syntax highlight.
 
 ALERT: This file is not formatted for HTML, but for your text editor.
