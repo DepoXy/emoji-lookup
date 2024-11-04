@@ -8,8 +8,8 @@ USAGE: Open this file in a text editor using a reST syntax highlight.
 
 ALERT: This file is not formatted for HTML, but for your text editor.
 
-BONUS: Wire this file to a global keybinding (e.g., <Cmd-u> on Linux
-       works well) to open it quickly, and look for symbols to copy.
+BONUS: Wire this file to a global keybinding (e.g., <Cmd-U> on Linux
+       works well) to open it quickly, & to look for symbols to copy.
 
 TOC
 ===
