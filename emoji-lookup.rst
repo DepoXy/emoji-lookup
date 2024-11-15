@@ -3994,7 +3994,16 @@ CPYST::
 ─ Extended ASCII characters ───────────────────────────────────────────────
 ===========================================================================
 
-Extended ASCII characters:
+Extended ASCII characters
+
+- BWARE: There are over 200 different "extended" (8 bit) versions of the
+  ASCII character set. So this set won't necessarily match what you see
+  on your machine!
+  https://www.lookuptables.com/text/extended-ascii-table
+
+  - This particular table is the CP437 (Code Page 437) version which was
+    present on the original IBM PC, based on characters used in Wang word
+    processing machines.
 
 128 Ç     144 É    160 á     176 ░     192 └     208 ð      224 Ó    240 ≡
 129 ü     145 æ    161 í     177 ▒     193 ┴     209 Ð      225 ß    241 ±
@@ -4012,6 +4021,26 @@ Extended ASCII characters:
 141 ì     157 Ø    173 ¡     189 ¢     205 ═     221 ¦      237 Ý    253 ²
 142 Ä     158 ×    174 «     190 ¥     206 ╬     222 Ì      238 ¯    254 ■
 143 Å     159 ƒ    175 »     191 ┐     207 ¤     223 ▀      239 ´    255 nbsp
+
+- ALTLY: On author's Mac Mini, chars. 128-142 are control characters (e.g.,
+  ), and the remaining characters are different from the previous table.
+
+                   160     | 192 À   | 224 à   | 176 °   | 208 Ð   | 240 ð
+                   161 ¡   | 193 Á   | 225 á   | 177 ±   | 209 Ñ   | 241 ñ
+                   162 ¢   | 194 Â   | 226 â   | 178 ²   | 210 Ò   | 242 ò
+                   163 £   | 195 Ã   | 227 ã   | 179 ³   | 211 Ó   | 243 ó
+                   164 ¤   | 196 Ä   | 228 ä   | 180 ´   | 212 Ô   | 244 ô
+                   165 ¥   | 197 Å   | 229 å   | 181 µ   | 213 Õ   | 245 õ
+                   166 ¦   | 198 Æ   | 230 æ   | 182 ¶   | 214 Ö   | 246 ö
+                   167 §   | 199 Ç   | 231 ç   | 183 ·   | 215 ×   | 247 ÷
+                   168 ¨   | 200 È   | 232 è   | 184 ¸   | 216 Ø   | 248 ø
+                   169 ©   | 201 É   | 233 é   | 185 ¹   | 217 Ù   | 249 ù
+                   170 ª   | 202 Ê   | 234 ê   | 186 º   | 218 Ú   | 250 ú
+                   171 «   | 203 Ë   | 235 ë   | 187 »   | 219 Û   | 251 û
+                   172 ¬   | 204 Ì   | 236 ì   | 188 ¼   | 220 Ü   | 252 ü
+                   173 ­   | 205 Í   | 237 í   | 189 ½   | 221 Ý   | 253 ý
+                   174 ®   | 206 Î   | 238 î   | 190 ¾   | 222 Þ   | 254 þ
+                   175 ¯   | 207 Ï   | 239 ï   | 191 ¿   | 223 ß   | 255 ÿ
 
 ===========================================================================
 ─ Whitespace ──────────────────────────────────────────────────────────────
