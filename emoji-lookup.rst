@@ -3609,6 +3609,7 @@ Geometric Shapes
 https://en.wikipedia.org/wiki/Geometric_Shapes
 
 U+25Ax	■	□	▢	▣	▤	▥	▦	▧	▨	▩	▪	▫	▬	▭	▮	▯     aka Box Shapes, Square characters... *Squaracters*, Rectangles
+                                            ... Checkboxes □ (di: OS) ▢ (di: RO)
 U+25Bx	▰	▱	▲	△	▴	▵	▶	▷	▸	▹	►	▻	▼	▽	▾	▿     ... Parallelograms, Right-/Down-pointing triangles
 U+25Cx	◀	◁	◂	◃	◄	◅	◆	◇	◈	◉	◊	○	◌	◍	◎	●     ... Left-pnt'g tri's; Diamonds; Fisheye ◉; Lozenge ◊; White/
                                                 Open Circle, Dotted, w/ Vert. Fill ◍; Bullseye ◎; Black Circle
