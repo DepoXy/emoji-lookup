@@ -1217,7 +1217,7 @@ U+2744   ❄  snowflake - cold | snow
  U+FE0F  ❄️  snowflake - cold | snow ∦ *Var Selector-16* ∦ ❄
 U+2603   ☃  snowman - cold | snow
 U+26C4   ⛄  snowman without snow - cold
-U+2604   ☄  comet - space
+U+2604   ☄️  comet - space ∦ ☄
 U+1F525  🔥  fire - flame | tool | (hotness | smoke | 420)
 U+1F4A7  💧  droplet - cold | comic | drop | sweat | (water)
 U+1F30A  🌊  water wave - ocean
