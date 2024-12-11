@@ -3765,6 +3765,30 @@ U+1F75x	🝐	🝑	🝒	🝓	🝔	🝕	🝖	🝗	🝘	🝙	🝚	🝛	🝜	🝝	�
 U+1F76x	🝠	🝡	🝢	🝣	🝤	🝥	🝦	🝧	🝨	🝩	🝪	🝫	🝬	🝭	🝮	🝯
 U+1F77x	🝰	🝱	🝲	🝳	
 
+Egyptian Hieroglyphs
+https://en.wikipedia.org/wiki/Egyptian_Hieroglyphs_(Unicode_block)
+- These characters are very light, and it's mostly impossible
+  to see any detail on the monitor, at least in my experience.
+- But note you'll find *Parts of the human body* you won't find
+  in the emoji characterset, including genitalia (a few penis
+  options for males, but just one possible option for females,
+  perhaps, a "liquid issuing from lips" option).
+  - *Parts of the human body* subblock:
+    https://unicode-explorer.com/b/13000
+  - Includes 10 symbols for "Woman and her occupations",
+    as well as 80 symbols for "Man and his occupations".
+
+U+1300x	𓀀	𓀁	𓀂	𓀃	𓀄	𓀅	𓀆	𓀇	𓀈	𓀉	𓀊	𓀋	𓀌	𓀍	𓀎	𓀏
+  ...
+U+1309x	𓂐	𓂑	𓂒	𓂓	𓂔	𓂕	𓂖	𓂗	𓂘	𓂙	𓂚	𓂛	𓂜	𓂝	𓂞	𓂟     ... 𓂐 liquid issuing from lips,
+                                                𓂑 small breast, 𓂒 large breast
+U+130Ax	𓂠	𓂡	𓂢	𓂣	𓂤	𓂥	𓂦	𓂧	𓂨	𓂩	𓂪	𓂫	𓂬	𓂭	𓂮	𓂯
+U+130Bx	𓂰	𓂱	𓂲	𓂳	𓂴	𓂵	𓂶	𓂷	𓂸	𓂹	𓂺	𓂻	𓂼	𓂽	𓂾	𓂿     ... 𓂸 penis/phallus, 𓂺 p/p w/emission
+                                                𓂹  p/p w/ folded cloth
+U+130Bx	𓂰	𓂱	𓂲	𓂳	𓂴	𓂵	𓂶	𓂷	𓂸	𓂹	𓂺	𓂻	𓂼	𓂽	𓂾	𓂿     ... 𓂨  liquid falling from hand
+  ...
+U+1342x	𓐠	𓐡	𓐢	𓐣	𓐤	𓐥	𓐦	𓐧	𓐨	𓐩	𓐪	𓐫	𓐬	𓐭	𓐮	𓐯
+
 ===========================================================================
 ─ Domino & Mahjong Tiles, and Playing Cards ───────────────────────────────
 ===========================================================================
