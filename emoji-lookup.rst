@@ -61,7 +61,7 @@ U+1F60D  😍  smiling face with heart-eyes - eye | love | smile | (heart eyes |
 U+1F929  🤩  star-struck - eyes | face | grinning | star | starry-eyed | (lovey-dovey | friendly) ∦ 🤩︎
 U+1F618  😘  face blowing a kiss - (grateful | thanks | thank you) ∦ 😘︎
 U+1F617  😗  kissing face ∦ 😗︎
-U+263A   ☺  smiling face - outlined | relaxed | smile ∦ ☺︎
+U+263A†  ☺️  smiling face - outlined | relaxed | smile | († U+263A U+FE0F) ∦ ☺︎ ☺
 U+1F61A  😚  kissing face with closed eyes - eye | kiss ∦ 😚︎
 U+1F619  😙  kissing face with smiling eyes - eye | kiss | smile | (stoned | high) ∦ 😙︎
 U+1F972  🥲  smiling face with tear - grateful | proud | relieved | touched ║ v13.0 ∦ 🥲︎
@@ -133,7 +133,8 @@ U+1F92E  🤮  face vomiting - sick | vomit | (throw up | puke)
 U+1F927  🤧  sneezing face - gesundheit | sneeze
 U+1F975  🥵  hot face - feverish | heat stroke | red-faced | sweating ║ v11.0
 U+1F976  🥶  cold face - blue-faced | freezing | frostbite | icicles ║ v11.0
-U+1F974  🥴  woozy face - dizzy | intoxicated | tipsy | uneven eyes | wavy mouth | (sleepy | confused | stoned | high) ║ v11.0
+U+1F974  🥴  woozy face - dizzy | intoxicated | tipsy | uneven eyes | wavy mouth
+                      | (sleepy | confused | stoned | high) ║ v11.0
 U+1F635  😵  dizzy face
 U+1F92F  🤯  exploding head - shocked | (destroy)
 
@@ -161,7 +162,7 @@ U+1F615  😕  confused face - meh
 U+1FAE4  🫤  face with diagonal mouth - disappointed | meh | skeptical | unsure ║ v14.0
 U+1F61F  😟  worried face
 U+1F641  🙁  slightly frowning face - frown
-U+2639   ☹  frowning face - frown
+U+2639†  ☹️  frowning face - frown | († U+2639 U+FE0F) ∦ ☹
 U+1F62E  😮  face with open mouth - sympathy
 U+1F62F  😯  hushed face - stunned | surprised
 U+1F632  😲  astonished face - shocked | totally
@@ -195,8 +196,7 @@ U+1F92C  🤬  face with symbols on mouth - face with symbols on mouth | swearin
 U+1F608  😈  smiling face with horns - face | fairy tale | fantasy | horns | smile | smiling face with horns
 U+1F47F  👿  angry face with horns - angry face with horns | demon | devil | face | fantasy | imp
 U+1F480  💀  skull - death | face | fairy tale | monster | skull | (exhaustion)
-U+2620   ☠  skull and crossbones - crossbones | death | face | monster | skull | skull and crossbones
- U+FE0F  ☠️  sac - crossbones | death | face | monster | skull | skull and crossbones ∦ *Var Selector-16* ∦ ☠
+U+2620†  ☠️  skull and crossbones (sac) | death | face | monster | († U+2620 U+FE0F) ∦ ☠
 
 ============
 face-costume
@@ -247,11 +247,9 @@ U+1F493  💓  beating heart - heartbeat | pulsating | (vibing | apologies)
 U+1F49E  💞  revolving hearts
 U+1F495  💕  two hearts - love | (flirtatious vibes | romantic | platonic)
 U+1F49F  💟  heart decoration
-U+2763   ❣  heart exclamation - mark | punctuation
- U+FE0F  ❣️  heart exclamation - mark | punctuation ∦ *Var Selector-16* ∦ ❣
+U+2763†  ❣️  heart exclamation - mark | punctuation | († U+2763 U+FE0F) ∦ ❣
 U+1F494  💔  broken heart - break | (divorce)
-U+2764   ❤  red heart - (romantic) ∦ ❤︎ ❤️
- U+FE0F  ❤️  red heart - (romantic | ♡ Digraph `cH`) ∦ *Var Selector-16* ∦ ❤
+U+2764†  ❤️  red heart - (romantic | ♡ Digraph `cH`) | († U+2764 U+FE0F) ∦ ❤
 U+1FA77  🩷  pink heart - cute | heart | like | love ║ v15.0
 U+1F9E1  🧡  orange heart - (positivity)
 U+1F49B  💛  yellow heart - (friendship | happiness)
@@ -272,8 +270,7 @@ U+1F4A8  💨  dashing away - comic | dash | running [ wind | blow | gas | fart 
 U+1F573  🕳  hole - (hide)
 U+1F4A3  💣  bomb - comic | (destroy)
 U+1F4AC  💬  speech balloon - bubble | comic | dialog | (chat | text)
-U+1F5E8  🗨  left speech bubble - dialog | (chat)
- U+FE0F  🗨️  left speech bubble - dialog | (chat) ∦ *Var Selector-16* ∦ 🗨
+U+1F5E8† 🗨️  left speech bubble - dialog | (chat) | († U+1F5E8 U+FE0F) ∦ 🗨
 U+1F5EF  🗯  right anger bubble - angry | balloon | bubble | mad
 U+1F4AD  💭  thought balloon - bubble | comic
 U+1F4A4  💤  zzz - comic | sleep
@@ -305,7 +302,7 @@ hand-fingers-partial
 U+1F44C  👌  OK hand - (okay)
 U+1F90C  🤌  pinched fingers - hand gesture | interrogation | sarcastic ║ v13.0
 U+1F90F  🤏  pinching hand - small amount ║ v12.0
-U+270C   ✌  victory hand - v ∦ ✌ ✌︎ ✌️
+U+270C†  ✌️  victory hand - v | († U+270C U+FE0F) ∦ ✌✌︎✌️
 U+1F91E  🤞  crossed fingers - cross | finger | hand | luck
 U+1FAF0  🫰  hand with index finger and thumb crossed - expensive | heart | love | money | snap ║ v14.0
 U+1F91F  🤟  love-you gesture - hand | ILY
@@ -321,7 +318,7 @@ U+1F449  👉  backhand index pointing right | finger | hand | point
 U+1F446  👆  backhand index pointing up | finger | hand | point
 U+1F595  🖕  middle finger - hand
 U+1F447  👇  backhand index pointing down| finger | hand | point
-U+261D   ☝  index pointing up - finger | hand | point
+U+261D†  ☝️  index pointing up - finger | hand | point | († U+261D U+FE0F) ∦ ☝
 U+1FAF5  🫵  index pointing at the viewer - point | you ║ v14.0
 
 ===================
@@ -373,14 +370,13 @@ U+1FAC1  🫁  lungs - breath | exhalation | inhalation | organ | respiration | 
 U+1F9B7  🦷  tooth - dentist ║ v11.0
 U+1F9B4  🦴  bone - skeleton ║ v11.0
 U+1F440  👀  eyes - eye | face | ("did you see that?")
-U+1F441  👁  eye - body
- U+FE0F  👁️  eye - body ∦ *Var Selector-16* ∦ 👁
+U+1F441† 👁️  eye - body | († U+1F441 U+FE0F) ∦ 👁
 U+1F445  👅  tongue - body
 U+1F444  👄  mouth - lips
 U+1FAE6  🫦  biting lip - anxious | fear | flirting | nervous | uncomfortable | worried ║ v14.0
 
 ======
-person
+person 웃 유
 ======
 
 U+1F476  👶  baby - baby | young
@@ -416,27 +412,23 @@ U+1F937  🤷  person shrugging - doubt | ignorance | indifference | person shru
 person-role
 ===========
 
-U+1F46E  👮  police officer - cop | officer | police
-U+1F575  🕵  detective - detective | sleuth | spy
- U+FE0F  🕵️  detective | sleuth | spy ∦ *Var Selector-16* ∦ 🕵
-U+1F482  💂  guard - guard
-U+1F977  🥷  ninja - fighter | hidden | ninja | stealth ║ v13.0
-U+1F477  👷  construction worker - construction | hat | worker
+U+1F46E  👮  police officer - cop
+U+1F575† 🕵️  detective - sleuth | spy | († U+1F575 U+FE0F) ∦ 🕵
+U+1F482  💂  guard
+U+1F977  🥷  ninja - fighter | hidden | stealth ║ v13.0
+U+1F477  👷  construction worker - hat
 U+1FAC5  🫅  person with crown - monarch | noble | regal | royalty ║ v14.0
-U+1F934  🤴  prince - prince
-U+1F478  👸  princess - fairy tale | fantasy | princess
-U+1F473  👳  person wearing turban - person wearing turban | turban
-U+1F472  👲  person with skullcap - cap | gua pi mao | hat | person | person with skullcap | skullcap
-         👲  Was: man with Chinese cap - gua pi mao | hat | man | man with Chinese cap
+U+1F934  🤴  prince
+U+1F478  👸  princess - fairy tale | fantasy
+U+1F473  👳  person wearing turban
+U+1F472  👲  person with skullcap - cap | gua pi mao | hat | (née: man with Chinese cap)
 U+1F9D5  🧕  woman with headscarf - headscarf | hijab | mantilla | tichel | woman... | bandana | head kerchief
-U+1F935  🤵  person in tuxedo - groom | person | person in tuxedo | tuxedo | (marriage)
-         🤵  Was: man in tuxedo - groom | man | man in tuxedo | tuxedo | (marriage)
-U+1F470  👰  person with veil - bride | person | person with veil | veil | wedding | (marriage)
-         👰  Was: bride with veil - bride | bride with veil | veil | wedding | (marriage)
-U+1F930  🤰  pregnant woman - pregnant | woman
-U+1FAC3  🫃  pregnant man - belly | bloated | full | pregnant ║ v14.0
-U+1FAC4  🫄  pregnant person - belly | bloated | full | pregnant ║ v14.0
-U+1F931  🤱  breast-feeding - baby | breast | breast-feeding | nursing
+U+1F935  🤵  person in tuxedo - groom | wedding | (marriage) | (née: man in tuxedo)
+U+1F470  👰  person with veil - bride | wedding | (marriage) | (née: bride with veil)
+U+1F930  🤰  pregnant woman
+U+1FAC3  🫃  pregnant man - belly | bloated | full ║ v14.0
+U+1FAC4  🫄  pregnant person - belly | bloated | full ║ v14.0
+U+1F931  🤱  breast-feeding - baby | breast | nursing
 
 ==============
 person-fantasy
@@ -468,8 +460,7 @@ U+1F9CE  🧎  person kneeling - kneel | kneeling | person kneeling ║ v12.0
 U+1F3C3  🏃  person running - marathon | person running | running
 U+1F483  💃  woman dancing - dancing | woman
 U+1F57A  🕺  man dancing - dance | man | man dancing
-U+1F574  🕴  person in suit levitating - business | person | person in suit levitating | suit
-         🕴  Was: man in suit levitating - business | man | man in suit levitating | suit
+U+1F574  🕴️  person in suit levitating - business | (née: man in suit...) | († U+1F3CB U+FE0F) ∦ 🕴
 U+1F46F  👯  people with bunny ears - bunny ear | dancer | partying | people with bunny ears
 U+1F9D6  🧖  person in steamy room - person in steamy room | sauna | steam room | hamam | steambath
 U+1F9D7  🧗  person climbing - climber | person climbing
@@ -478,26 +469,23 @@ U+1F9D7  🧗  person climbing - climber | person climbing
 person-sport
 ============
 
-U+1F93A  🤺  person fencing - fencer | fencing | person fencing | sword
-U+1F3C7  🏇  horse racing - horse | jockey | racehorse | racing
-U+26F7   ⛷️  skier - ski | skier | snow ∦ ⛷
-U+1F3C2  🏂  snowboarder - ski | snow | snowboard | snowboarder
-U+1F3CC  🏌  person golfing - ball | golf | person golfing
- U+FE0F  🏌️  person golfing - ball | golf | person golfing ∦ *Var Selector-16* ∦ 🏌
-U+1F3C4  🏄  person surfing - person surfing | surfing
-U+1F6A3  🚣  person rowing boat - boat | person rowing boat | rowboat
-U+1F3CA  🏊  person swimming - person swimming | swim
-U+26F9   ⛹  person bouncing ball - ball | person bouncing ball
- U+FE0F  ⛹️  person bouncing ball - ball | person bouncing ball ∦ *Var Selector-16* ∦ ⛹
-U+1F3CB  🏋  person lifting weights - lifter | person lifting weights | weight
- U+FE0F  🏋️  plw - lifter | person lifting weights | weight lifter ∦ *Var Selector-16* ∦ 🏋
-U+1F6B4  🚴  person biking - bicycle | biking | cyclist | person biking
-U+1F6B5  🚵  ... - bicycle | bicyclist | bike | cyclist | mountain | person mountain biking
-U+1F938  🤸  person cartwheeling - cartwheel | gymnastics | person cartwheeling
-U+1F93C  🤼  people wrestling - people wrestling | wrestle | wrestler
-U+1F93D  🤽  person playing water polo - person playing water polo | polo | water
-U+1F93E  🤾  person playing handball - ball | handball | person playing handball
-U+1F939  🤹  person juggling - balance | juggle | multitask | person juggling | skill
+U+1F93A  🤺  person fencing - fencer | sword
+U+1F3C7  🏇  horse racing - jockey | racehorse
+U+26F7   ⛷️  skier - ski | snow ∦ ⛷
+U+1F3C2  🏂  snowboarder - ski | snow | snowboard
+U+1F3CC† 🏌️  person golfing - ball | golf | († U+1F3CC U+FE0F) ∦ 🏌
+U+1F3C4  🏄  person surfing
+U+1F6A3  🚣  person rowing boat - rowboat
+U+1F3CA  🏊  person swimming - swim
+U+26F9+  ⛹️  person bouncing ball - († U+26F9 U+FE0F) ∦ ⛹
+U+1F3CB† 🏋️  person lifting weights - weight lifter | († U+1F3CB U+FE0F) ∦ 🏋
+U+1F6B4  🚴  person biking - bicycle | cyclist
+U+1F6B5  🚵  mountain bicyclist - bicycle | bike | cyclist | person mountain biking
+U+1F938  🤸  person cartwheeling - gymnastics
+U+1F93C  🤼  people wrestling - wrestle | wrestler
+U+1F93D  🤽  person playing water polo
+U+1F93E  🤾  person playing handball - ball
+U+1F939  🤹  person juggling - balance | juggle | multitask | skill
 
 ==============
 person-resting
@@ -602,8 +590,7 @@ U+1F400  🐀  rat
 U+1F439  🐹  hamster - face | pet
 U+1F430  🐰  rabbit face - bunny | pet
 U+1F407  🐇  rabbit - bunny | pet
-U+1F43F  🐿  chipmunk - squirrel
- U+FE0F  🐿️  chipmunk - squirrel ∦ 🐿
+U+1F43F† 🐿️  chipmunk - squirrel | († U+1F43F U+FE0F) ∦ 🐿
 U+1F9AB  🦫  beaver - dam ║ v13.0
 U+1F994  🦔  hedgehog - spiny
 U+1F987  🦇  bat - vampire
@@ -682,24 +669,22 @@ U+1FABC  🪼  jellyfish - burn | invertebrate | jelly | jellyfish | marine | ou
 animal-bug
 ==========
 
-U+1F40C  🐌  snail - snail
-U+1F98B  🦋  butterfly - butterfly | insect | pretty
-U+1F41B  🐛  bug - bug | insect  # aka: worm, caterpillar
-U+1F41C  🐜  ant - ant | insect
-U+1F41D  🐝  honeybee - bee | honeybee | insect
-U+1FAB2  🪲  beetle - beetle | bug | insect ║ v13.0
-U+1F41E  🐞  lady beetle - beetle | insect | lady beetle | ladybird | ladybug
-U+1F997  🦗  cricket - cricket | grasshopper | Orthoptera
-U+1FAB3  🪳  cockroach - cockroach | insect | pest | roach ║ v13.0
-U+1F577  🕷  spider - insect | spider
- U+FE0F  🕷️  spider - insect | spider ∦ 🕷
-U+1F578  🕸  spider web
- U+FE0F  🕸️  spider web ∦ 🕸
-U+1F982  🦂  scorpion - scorpio | Scorpio | scorpion | zodiac
-U+1F99F  🦟  mosquito - disease | fever | insect | malaria | mosquito | virus ║ v11.0
-U+1FAB0  🪰  fly - disease | fly | maggot | pest | rotting ║ v13.0
-U+1FAB1  🪱  worm - annelid | earthworm | parasite | worm ║ v13.0
-U+1F9A0  🦠  microbe - amoeba | bacteria | microbe | virus ║ v11.0 | (spores)
+U+1F40C  🐌  snail
+U+1F98B  🦋  butterfly - insect | pretty
+U+1F41B  🐛  bug - insect  # aka: worm, caterpillar
+U+1F41C  🐜  ant - insect
+U+1F41D  🐝  honeybee - bee | insect
+U+1FAB2  🪲  beetle - bug | insect ║ v13.0
+U+1F41E  🐞  lady beetle - insect | ladybird | ladybug
+U+1F997  🦗  cricket - grasshopper | Orthoptera
+U+1FAB3  🪳  cockroach - insect | pest | roach ║ v13.0
+U+1F577† 🕷️  spider - insect | († U+1F577 U+FE0F) ∦ 🕷
+U+1F578† 🕸️  spider web - († U+1F578 U+FE0F) ∦ 🕸
+U+1F982  🦂  scorpion - scorpio | Scorpio | zodiac
+U+1F99F  🦟  mosquito - disease | fever | insect | malaria | virus ║ v11.0
+U+1FAB0  🪰  fly - disease | maggot | pest | rotting ║ v13.0
+U+1FAB1  🪱  worm - annelid | earthworm | parasite ║ v13.0
+U+1F9A0  🦠  microbe - amoeba | bacteria | virus ║ v11.0 | (spores)
 
 ============
 plant-flower
@@ -730,7 +715,7 @@ U+1F334  🌴  palm tree - palm | tree
 U+1F335  🌵  cactus - cactus | plant
 U+1F33E  🌾  sheaf of rice - ear | grain | rice | sheaf of rice
 U+1F33F  🌿  herb - herb | leaf | (smoke | 420 | marijuana cigarettes | REEFERS)
-U+2618   ☘️  shamrock - plant | shamrock ∦ ☘
+U+2618†  ☘️  shamrock - plant | shamrock | († U+2618 U+FE0F) ∦ ☘
 U+1F340  🍀  four leaf clover - 4 | clover | four | four-leaf clover | leaf
 U+1F341  🍁  maple leaf - falling | leaf | maple
 U+1F342  🍂  fallen leaf - fallen leaf | falling | leaf
@@ -775,8 +760,7 @@ U+1F346  🍆  eggplant - aubergine | eggplant | vegetable
 U+1F954  🥔  potato - food | potato | vegetable
 U+1F955  🥕  carrot - carrot | food | vegetable
 U+1F33D  🌽  ear of corn - corn | ear | ear of corn | maize | maze
-U+1F336  🌶  hot pepper - (fire | hotness)
- U+FE0F  🌶️  hot pepper - (fire | hotness) ∦ 🌶
+U+1F336† 🌶️  hot pepper - (fire | hotness) | († U+1F336 U+FE0F) ∦ 🌶
 U+1FAD1  🫑  bell pepper - bell pepper | capsicum | pepper | vegetable ║ v13.0
 U+1F952  🥒  cucumber - cucumber | food | pickle | vegetable
 U+1F96C  🥬  leafy green - bok choy | cabbage | kale | leafy green | lettuce ║ v11.0
@@ -937,23 +921,15 @@ U+1F9ED  🧭  compass - compass | magnetic | navigation | orienteering ║ v11.
 place-geographic
 ================
 
-U+1F3D4  🏔  snow-capped mountain - cold | snow
- U+FE0F  🏔️  snow-capped mountain - cold | snow ∦ 🏔
-U+26F0   ⛰  mountain
- U+FE0F  ⛰️  mountain ∦ ⛰
+U+1F3D4† 🏔️  snow-capped mountain - cold | snow | († U+1F3D4 U+FE0F) ∦ 🏔
+U+26F0†  ⛰️  mountain | († U+26F0 U+FE0F) ∦ ⛰
 U+1F30B  🌋  volcano - eruption | mountain
-U+1F5FB  🗻  mount fuji - mountain
- U+FE0F  🏖️  mount fuji - mountain ∦ 🗻
-U+1F3D5  🏕  camping
- U+FE0F  🏕️  camping ∦ 🏕
-U+1F3D6  🏖  beach with umbrella
- U+FE0F  🏖️  beach with umbrella ∦ 🏖
-U+1F3DC  🏜  desert
- U+FE0F  🏜️  desert ∦ 🏜
-U+1F3DD  🏝  desert island
- U+FE0F  🏝️  desert island ∦ 🏝
-U+1F3DE  🏞  national park
- U+FE0F  🏞️  national park ∦ 🏞
+U+1F5FB† 🏖️  mount fuji - mountain | († U+1F5FB U+FE0F) ∦ 🗻
+U+1F3D5† 🏕️  camping | († U+1F3D5 U+FE0F) ∦ 🏕
+U+1F3D6† 🏖️  beach with umbrella | († U+1F3D6 U+FE0F) ∦ 🏖
+U+1F3DC† 🏜️  desert | († U+1F3DC U+FE0F) ∦ 🏜
+U+1F3DD† 🏝️  desert island | († U+1F3DD U+FE0F) ∦ 🏝
+U+1F3DE† 🏞️  national park | († U+1F3DE U+FE0F) ∦ 🏞
 
 ==============
 place-building
@@ -1002,24 +978,24 @@ U+1F54B  🕋  kaaba - islam | kaaba | Muslim | religion
 place-other
 ===========
 
-U+26F2   ⛲  fountain - fountain
-U+26FA   ⛺  tent - camping | tent
-U+1F301  🌁  foggy - fog | foggy
-U+1F303  🌃  night with stars - night | night with stars | star
-U+1F3D9  🏙️  cityscape - city | cityscape ∦ 🏙
-U+1F304  🌄  sunrise over mountains - morning | mountain | sun | sunrise | sunrise over mountains
-U+1F305  🌅  sunrise - morning | sun | sunrise
-U+1F306  🌆  cityscape at dusk - city | cityscape at dusk | dusk | evening | landscape | sunset
-U+1F307  🌇  sunset - dusk | sun | sunset
-U+1F309  🌉  bridge at night - bridge | bridge at night | night
-U+2668   ♨  hot springs - hot | hotsprings | springs | steaming
-U+1F30C  🌌  milky way - milky way | space
-U+1F3A0  🎠  carousel horse - carousel | horse
+U+26F2   ⛲  fountain
+U+26FA   ⛺  tent - camping
+U+1F301  🌁  foggy - fog
+U+1F303  🌃  night with stars - night | star
+U+1F3D9  🏙️  cityscape - city | († U+1F3D9 U+FE0F) ∦ 🏙
+U+1F304  🌄  sunrise over mountains - morning | mountain | sun
+U+1F305  🌅  sunrise - morning | sun
+U+1F306  🌆  cityscape at dusk - city | evening | landscape | sunset
+U+1F307  🌇  sunset - dusk | sun
+U+1F309  🌉  bridge at night
+U+2668   ♨️  hot springs - hotsprings | steaming | († U+2668 U+FE0F) ∦ ♨
+U+1F30C  🌌  milky way - space
+U+1F3A0  🎠  carousel horse
 U+1F6DD  🛝  playground slide - amusement park | play ║ v14.0
-U+1F3A1  🎡  ferris wheel - amusement park | ferris | wheel
-U+1F3A2  🎢  roller coaster - amusement park | coaster | roller
-U+1F488  💈  barber pole - barber | haircut | pole
-U+1F3AA  🎪  circus tent - circus | tent
+U+1F3A1  🎡  ferris wheel - amusement park
+U+1F3A2  🎢  roller coaster - amusement park
+U+1F488  💈  barber pole - haircut
+U+1F3AA  🎪  circus tent
 
 ================
 transport-ground
@@ -1080,24 +1056,22 @@ U+1F6A7  🚧  construction - barrier
 transport-water
 ===============
 
-U+2693   ⚓  anchor - anchor | ship | tool ∦ ⚓︎
+U+2693   ⚓  anchor - ship | tool ∦ ⚓︎
 U+1F6DF  🛟  ring buoy - float | life preserver | life saver | rescue | safety ║ v14.0
-U+26F5   ⛵  sailboat - boat | resort | sailboat | sea | yacht
-U+1F6F6  🛶  canoe - boat | canoe
-U+1F6A4  🚤  speedboat - boat | speedboat
-U+1F6F3  🛳️  passenger ship - passenger | ship ∦ 🛳
-U+26F4   ⛴️   ferry - boat | ferry | passenger ∦ ⛴
-U+1F6E5  🛥️  motor boat - boat | motor boat | motorboat ∦ 🛥
-U+1F6A2  🚢  ship - boat | passenger | ship
+U+26F5   ⛵  sailboat - boat | resort | sea | yacht
+U+1F6F6  🛶  canoe - boat
+U+1F6A4  🚤  speedboat - boat
+U+1F6F3  🛳️  passenger ship - ∦ 🛳
+U+26F4†  ⛴️  ferry - boat | passenger | († U+26F4 U+FE0F) ∦ ⛴
+U+1F6E5† 🛥️  motor boat - motorboat | († U+1F6E5 U+FE0F) ∦ 🛥
+U+1F6A2  🚢  ship - boat | passenger
 
 =============
 transport-air
 =============
 
-U+2708   ✈  airplane - aeroplane
- U+FE0F  ✈️  airplane - aeroplane ∦ *Var Selector-16* ∦ ✈
-U+1F6E9  🛩  small airplane - aeroplane
- U+FE0F  🛩️  small airplane - aeroplane ∦ 🛩
+U+2708†  ✈️  airplane - aeroplane | († U+2708 U+FE0F) ∦ ✈
+U+1F6E9† 🛩️  small airplane - aeroplane | († U+1F6E9 U+FE0F) ∦ 🛩
 U+1F6EB  🛫  airplane departure - aeroplane | check-in | departures
 U+1F6EC  🛬  airplane arrival - aeroplane | arrivals | arriving | landing
 U+1FA82  🪂  parachute - hang-glide | parasail | skydive ║ v12.0
@@ -1106,8 +1080,7 @@ U+1F681  🚁  helicopter - vehicle
 U+1F69F  🚟  suspension railway
 U+1F6A0  🚠  mountain cableway - cable | gondola
 U+1F6A1  🚡  aerial tramway - cable | car | gondola
-U+1F6F0  🛰  satellite - space | (radar | RADAR)
- U+FE0F  🛰️  satellite - space | (radar | RADAR) ∦ 🛰
+U+1F6F0† 🛰️  satellite - space | (radar | RADAR) | († U+1F6F0 U+FE0F) ∦ 🛰
 U+1F680  🚀  rocket - space | (travel | going somewhere)
 U+1F6F8  🛸  flying saucer - UFO | (probe)
 
@@ -1126,12 +1099,9 @@ U+231B   ⌛  hourglass done - sand | timer | ⴵ
 U+23F3   ⏳  hourglass not done - sand | timer | ⴵ
 U+231A   ⌚  watch - clock | (wait)
 U+23F0   ⏰  alarm clock
-U+23F1   ⏱  stopwatch - clock
- U+FE0F  ⏱️  stopwatch - clock ∦ ⏱
-U+23F2   ⏲  timer clock
- U+FE0F  ⏲️  timer clock - ∦ ⏲
-U+1F570  🕰  mantelpiece clock
- U+FE0F  🕰️  mantelpiece clock - ∦ 🕰
+U+23F1†  ⏱️  stopwatch - clock | († U+23F1 U+FE0F) ∦ ⏱
+U+23F2†  ⏲️  timer clock - | († U+23F2 U+FE0F) ∦ ⏲
+U+1F570† 🕰️  mantelpiece clock | († U+1F570 U+FE0F) ∦ 🕰
 U+1F55B  🕛  twelve o’clock - 00 | 12 | 12:00 
 U+1F567  🕧  twelve-thirty - 12 | 12:30
 U+1F550  🕐  one o’clock - 00 | 1 | 1:00
@@ -1181,41 +1151,27 @@ U+1FA90  🪐  ringed planet - saturn | saturnine | (vibes ?) ║ v12.0
 U+2B50   ⭐  star
 U+1F31F  🌟  glowing star - glittery | glow | shining | sparkle
 U+1F320  🌠  shooting star - falling
-U+2601   ☁  cloud - weather
-         ☁️  cloud - weather ∦ ☁
+U+2601   ☁️  cloud - weather ∦ ☁
 U+26C5   ⛅  sun behind cloud
-U+26C8   ⛈  cloud with lightning and rain - thunder
-         ⛈️  cloud with lightning and rain - thunder ∦ ⛈
-U+1F324  🌤  sun behind small cloud
-         🌤️  sun behind small cloud ∦ 🌤
-U+1F325  🌥  sun behind large cloud
-         🌥️  sun behind large cloud ∦ 🌥
-U+1F326  🌦  sun behind rain cloud
-         🌦️  sun behind rain cloud ∦ 🌦
-U+1F327  🌧  cloud with rain
-         🌧️  cloud with rain ∦ 🌧
-U+1F328  🌨  cloud with snow - cold
-         🌨️  cloud with snow - cold ∦ 🌨
-U+1F329  🌩  cloud with lightning
-         🌩️  cloud with lightning ∦ 🌩
-U+1F32A  🌪  tornado - cloud | whirlwind
-         🌪️  tornado - cloud | whirlwind | (smoke | 420) ∦ 🌪
-U+1F32B  🌫  fog - cloud
-         🌫️  fog - cloud ∦ 🌫 | (smoke | 420 | vibes)
-U+1F32C  🌬  wind face - blow | cloud | (felicio | blowjob)
-         🌬️  wind face - blow | cloud | (felicio | blowjob)) ∦ 🌬
+U+26C8†  ⛈️  cloud with lightning and rain - thunder | († U+26C8 U+FE0F) ∦ ⛈
+U+1F324† 🌤️  sun behind small cloud | († U+1F324 U+FE0F) ∦ 🌤
+U+1F325† 🌥️  sun behind large cloud | († U+1F325 U+FE0F) ∦ 🌥
+U+1F326† 🌦️  sun behind rain cloud | († U+1F326 U+FE0F) ∦ 🌦
+U+1F327† 🌧️  cloud with rain | († U+1F327 U+FE0F) ∦ 🌧
+U+1F328† 🌨️  cloud with snow - cold | († U+1F328 U+FE0F) ∦ 🌨
+U+1F329† 🌩️  cloud with lightning | († U+1F329 U+FE0F) ∦ 🌩
+U+1F32A† 🌪️  tornado - cloud | whirlwind | (smoke | 420) | († U+1F32A U+FE0F) ∦ 🌪
+U+1F32B† 🌫️  fog - cloud | († U+1F32B U+FE0F) ∦ 🌫 | (smoke | 420 | vibes)
+U+1F32C† 🌬️  wind face - blow | cloud | (felicio | blowjob)) | († U+1F32C U+FE0F) ∦ 🌬
 U+1F300  🌀  cyclone - dizzy | hurricane | twister | typhoon | (daydreaming | foggy | turbulent)
 U+1F308  🌈  rainbow - rain
 U+1F302  🌂  closed umbrella - clothing | rain
-U+2602   ☂  umbrella - clothing | rain
-         ☂️  umbrella - clothing | rain ∦ ☂
+U+2602†  ☂️  umbrella - clothing | rain | († U+2602 U+FE0F) ∦ ☂
 U+2614   ☔  umbrella with rain drops - clothing | drop
-U+26F1   ⛱  umbrella on ground - rain | sun
-         ⛱️  umbrella on ground - rain | sun ∦ ⛱
+U+26F1†  ⛱️  umbrella on ground - rain | sun | († U+26F1 U+FE0F) ∦ ⛱
 U+26A1   ⚡  high voltage - danger | electric | lightning | zap
-U+2744   ❄  snowflake - cold | snow
- U+FE0F  ❄️  snowflake - cold | snow ∦ *Var Selector-16* ∦ ❄
-U+2603   ☃  snowman - cold | snow
+U+2744†  ❄️  snowflake - cold | snow | († U+2744 U+FE0F) ∦ ❄
+U+2603†  ☃️  snowman - cold | snow | († U+2603 U+FE0F) ∦ ☃
 U+26C4   ⛄  snowman without snow - cold
 U+2604   ☄️  comet - space ∦ ☄
 U+1F525  🔥  fire - flame | tool | (hotness | smoke | 420)
@@ -1347,8 +1303,7 @@ clothing
 ========
 
 U+1F453  👓  glasses - clothing | eye | eyeglasses | eyewear | glasses
-U+1F576  🕶  sunglasses - dark | eye | eyewear | glasses | sunglasses
- U+FE0F  🕶️  sunglasses - dark | eye | eyewear | glasses | sunglasses ∦ 🕶
+U+1F576† 🕶️  sunglasses - dark | eye | eyewear | glasses | sunglasses | († U+1F576 U+FE0F) ∦ 🕶
 U+1F97D  🥽  goggles - eye protection | goggles | swimming | welding ║ v11.0
 U+1F97C  🥼  lab coat - doctor | experiment | lab coat | scientist ║ v11.0
 U+1F9BA  🦺  safety vest - emergency | (➯ Used in a ZWJ sequence for service dog) ║ v12.0
@@ -1389,8 +1344,7 @@ U+1F3A9  🎩  top hat - clothing | hat | top | tophat
 U+1F393  🎓  graduation cap - cap | celebration | clothing | graduation | hat
 U+1F9E2  🧢  billed cap - baseball cap | billed cap
 U+1FA96  🪖  military helmet - army | helmet | military | soldier | warrior ║ v13.0
-U+26D1   ⛑  rescue worker’s helmet - aid | cross | face | hat | helmet | rescue worker’s helmet
- U+FE0F  ⛑️  rescue worker’s helmet - aid | cross | face | hat | helmet | rescue worker’s helmet ∦ ⛑
+U+26D1†  ⛑️  rescue worker’s helmet - aid | cross | face | hat | († U+26D1 U+FE0F) ∦ ⛑
 U+1F4FF  📿  prayer beads - beads | clothing | necklace | prayer | religion
 U+1F484  💄  lipstick - cosmetics | lipstick | makeup
 U+1F48D  💍  ring - diamond | ring
@@ -1446,8 +1400,7 @@ phone
 
 U+1F4F1  📱  mobile phone - cell | mobile | phone | telephone | (cellphone)
 U+1F4F2  📲  mobile phone with arrow - arrow | cell | mobile | mobile phone with arrow | phone | receive
-U+260E   ☎  telephone - phone | telephone
- U+FE0F  ☎️  telephone - phone | telephone ∦ ☎
+U+260E†  ☎️  telephone - phone | telephone | († U+260E U+FE0F) ∦ ☎
 U+1F4DE  📞  telephone receiver - phone | receiver | telephone
 U+1F4DF  📟  pager - pager
 U+1F4E0  📠  fax machine - fax | fax machine
@@ -1456,20 +1409,20 @@ U+1F4E0  📠  fax machine - fax | fax machine
 computer
 ========
 
-U+1F50B  🔋  battery - battery | (power)
+U+1F50B  🔋  battery - (power)
 U+1FAAB  🪫  low battery - electronic | low energy | (power) ║ v14.0
-U+1F50C  🔌  electric plug - electric | electricity | plug | (cable | power)
-U+1F4BB  💻  laptop computer - computer | laptop computer | pc | personal
-U+1F5A5  🖥️  desktop computer - computer | desktop 🖥
-U+1F5A8  🖨️  printer - computer | printer | (copy) 🖨
-U+2328   ⌨️   keyboard - computer | keyboard ⌨
-U+1F5B1  🖱️  computer mouse - computer | computer mouse 🖱
-U+1F5B2  🖲️  trackball - computer | trackball 🖲
-U+1F4BD  💽  computer disk - computer | disk | minidisk | optical
-U+1F4BE  💾  floppy disk - computer | disk | floppy
-U+1F4BF  💿  optical disk - cd | computer | disk | optical
-U+1F4C0  📀  dvd - blu-ray | computer | disk | dvd | optical
-U+1F9EE  🧮  abacus - abacus | calculation ║ v11.0
+U+1F50C  🔌  electric plug - electricity | (cable | power)
+U+1F4BB  💻  laptop computer - pc | personal
+U+1F5A5† 🖥️  desktop computer - († U+1F5A5 U+FE0F) ∦ 🖥
+U+1F5A8  🖨️  printer - computer | (copy) 🖨
+U+2328†  ⌨️  keyboard - computer | († U+2328 U+FE0F) ∦ ⌨
+U+1F5B1† 🖱️  computer mouse - († U+1F5B1 U+FE0F) ∦ 🖱
+U+1F5B2† 🖲️  trackball - computer | († U+1F5B2 U+FE0F) ∦ 🖲
+U+1F4BD  💽  computer disk - minidisk | optical
+U+1F4BE  💾  floppy disk - computer
+U+1F4BF  💿  optical disk - cd | computer
+U+1F4C0  📀  dvd - blu-ray | computer | disk | optical
+U+1F9EE  🧮  abacus - calculation ║ v11.0
 
 =============
 light & video
@@ -1533,8 +1486,7 @@ U+1F4B9  💹  chart increasing with yen - graph | growth | money
 mail
 ====
 
-U+2709   ✉  envelope - email | envelope | letter
- U+FE0F  ✉️  envelope - email | envelope | letter ∦ *Var Selector-16* ∦ ✉
+U+2709†  ✉️  envelope - email | envelope | letter | († U+2709 U+FE0F) ∦ ✉
 U+1F4E7  📧  e-mail - e-mail | email | letter | mail
 U+1F4E8  📨  incoming envelope - e-mail | email | envelope | incoming | letter | receive
 U+1F4E9  📩  envelope with arrow - arrow | e-mail | email | envelope | envelope with arrow | outgoing
@@ -1552,59 +1504,52 @@ U+1F5F3  🗳️  ballot box with ballot - ballot | ballot box with ballot | box
 writing
 =======
 
-U+270F   ✏  pencil -
- U+FE0F  ✏️  pencil - ∦ *Var Selector-16* ∦ ✏
-U+2712   ✒  black nib - pen
- U+FE0F  ✒️  black nib - pen ∦ *Var Selector-16* ∦ ✒
-U+1F58B  🖋  fountain pen -
- U+FE0F  🖋️  fountain pen - ∦ 🖋
-U+1F58A  🖊  pen - ballpoint
- U+FE0F  🖊️  fountain pen - ∦ 🖊
-U+1F58C  🖌  paintbrush - painting
- U+FE0F  🖌️  paintbrush - painting ∦ 🖌
-U+1F58D  🖍  crayon -
- U+FE0F  🖍️  crayon - ∦ 🖍
+U+270F†  ✏️  pencil - lead pencil | († U+270F U+FE0F) ∦ ✏
+U+2712†  ✒️  black nib - fountain pen | († U+2712 U+FE0F) ∦ ✒
+U+1F58B† 🖋️  fountain pen, lower left- | († U+1F58B U+FE0F) ∦ 🖋
+U+1F58A† 🖊️  ballpoint pen, lower left - | († U+1F58A U+FE0F) ∦ 🖊
+U+1F58C† 🖌️  paintbrush, lower left - painting | († U+1F58C U+FE0F) ∦ 🖌
+U+1F58D† 🖍️  crayon, lower left - | († U+1F58D U+FE0F) ∦ 🖍
 U+1F4DD  📝  memo - pencil
 
 ======
 office
 ======
 
-U+1F4BC  💼  briefcase - briefcase
-U+1F4C1  📁  file folder - file | folder
-U+1F4C2  📂  open file folder - file | folder | open
-U+1F5C2  🗂  card index dividers - card | dividers | index
-U+1F4C5  📅  calendar - calendar | date
-U+1F4C6  📆  tear-off calendar - calendar | tear-off calendar
-U+1F5D2  🗒  spiral notepad - note | pad | spiral | spiral notepad
-U+1F5D3  🗓  spiral calendar - calendar | pad | spiral
-U+1F4C7  📇  card index - card | index | rolodex
-U+1F4C8  📈  chart increasing - chart | chart increasing | graph | growth | trend | upward
-U+1F4C9  📉  chart decreasing - chart | chart decreasing | down | graph | trend
-U+1F4CA  📊  bar chart - bar | chart | graph
-U+1F4CB  📋  clipboard - clipboard
-U+1F4CC  📌  pushpin - pin | pushpin
-U+1F4CD  📍  round pushpin - pin | pushpin | round pushpin
-U+1F4CE  📎  paperclip - paperclip
-U+1F587  🖇  linked paperclips - link | linked paperclips | paperclip
-U+1F4CF  📏  straight ruler - ruler | straight edge | straight ruler
-U+1F4D0  📐  triangular ruler - ruler | set | triangle | triangular ruler
-U+2702   ✂  scissors - cutting | scissors | tool
- U+FE0F  ✂️  scissors - cutting | scissors | tool ∦ *Var Selector-16* ∦ ✂
-U+1F5C3  🗃️  card file box - box | card | file | (🗃)
-U+1F5C4  🗄️  file cabinet - cabinet | file | filing | (🗄)
-U+1F5D1  🗑️  wastebasket - wastebasket | (🗑)
+U+1F4BC  💼  briefcase
+U+1F4C1  📁  file folder
+U+1F4C2  📂  open file folder
+U+1F5C2  🗂  card index dividers
+U+1F4C5  📅  calendar - date
+U+1F4C6  📆  tear-off calendar
+U+1F5D2  🗒  spiral notepad - note | pad
+U+1F5D3  🗓  spiral calendar - pad
+U+1F4C7  📇  card index - rolodex
+U+1F4C8  📈  chart increasing - graph | growth | trend | upward
+U+1F4C9  📉  chart decreasing - down | graph | trend
+U+1F4CA  📊  bar chart - graph
+U+1F4CB  📋  clipboard
+U+1F4CC  📌  pushpin - pin
+U+1F4CD  📍  round pushpin - pin
+U+1F4CE  📎  paperclip
+U+1F587  🖇  linked paperclips - link | paperclip
+U+1F4CF  📏  straight ruler - straight edge
+U+1F4D0  📐  triangular ruler - set | triangle
+U+2702†  ✂️  scissors - cutting | tool | († U+2702 U+FE0F) ∦ ✂
+U+1F5C3  🗃️  card file box - ∦ 🗃
+U+1F5C4  🗄️  file cabinet - filing | ∦ 🗄
+U+1F5D1  🗑️  wastebasket - ∦ 🗑
 
 ====
 lock
 ====
 
-U+1F512  🔒  locked - closed | locked
-U+1F513  🔓  unlocked - lock | open | unlock | unlocked
-U+1F50F  🔏  locked with pen - ink | lock | locked with pen | nib | pen | privacy
-U+1F510  🔐  locked with key - closed | key | lock | locked with key | secure
-U+1F511  🔑  key - key | lock | password
-U+1F5DD  🗝  old key - clue | key | lock | old
+U+1F512  🔒  locked - closed
+U+1F513  🔓  unlocked - lock | open | unlock
+U+1F50F  🔏  locked with pen - ink | lock | nib | privacy
+U+1F510  🔐  locked with key - closed | lock | secure
+U+1F511  🔑  key - lock | password
+U+1F5DD  🗝  old key - clue | lock
 
 ====
 tool
@@ -1617,8 +1562,7 @@ U+2692   ⚒️  hammer and pick - hammer | hammer and pick | pick | tool | (⚒
 U+1F6E0  🛠️  hammer and wrench - hammer | hammer and wrench | spanner | tool | wrench | (🛠)
 U+1F5E1  🗡️  dagger - dagger | knife | weapon | (🗡)
 U+2694   ⚔️  crossed swords - crossed | swords | weapon | (⚔)
-U+1F52B  🔫  water pistol - gun | handgun | pistol | revolver | tool | water | weapon
-         🔫  Was: pistol - gun | handgun | pistol | revolver | tool | weapon
+U+1F52B  🔫  (water) pistol - gun | handgun | revolver | tool | weapon
 U+1FA83  🪃  boomerang - australia | boomerang | rebound | repercussion ║ v13.0
 U+1F3F9  🏹  bow and arrow - archer | arrow | bow | bow and arrow | Sagittarius | zodiac | (archery)
 U+1F6E1  🛡️  shield - shield | weapon | (🛡)
@@ -1628,8 +1572,7 @@ U+1FA9B  🪛  screwdriver - screw | screwdriver | tool ║ v13.0
 U+1F529  🔩  nut and bolt - bolt | nut | nut and bolt | tool
 U+2699   ⚙️  gear - cog | cogwheel | gear | tool | (⚙)
 U+1F5DC  🗜️  clamp - clamp | compress | tool | vice | (🗜)
-U+2696   ⚖  balance scale - balance | justice | Libra | scale | zodiac
- U+FE0F  ⚖️  balance scale - balance | justice | Libra | scale | zodiac ∦ *Var Selector-16* ∦ ⚖
+U+2696†  ⚖️  balance scale - balance | justice | Libra | scale | zodiac | († U+2696 U+FE0F) ∦ ⚖
 U+1F9AF  🦯  probing cane - accessibility | blind | probing cane ║ v12.0
 U+1F517  🔗  link - link
 U+26D3   ⛓️  chains - chain | chains | (⛓)
@@ -1642,8 +1585,7 @@ U+1FA9C  🪜  ladder - climb | ladder | rung | step ║ v13.0
 science
 =======
 
-U+2697   ⚗  alembic - alembic | chemistry | tool
-         ⚗️
+U+2697†  ⚗️  alembic - alembic | chemistry | tool | († U+2697 U+FE0F) ∦ ⚗
 U+1F9EA  🧪  test tube - chemist | chemistry | experiment | lab | science | test tube ║ v11.0
 U+1F9EB  🧫  petri dish - bacteria | biologist | biology | culture | lab | petri dish ║ v11.0
 U+1F9EC  🧬  dna - biologist | dna | evolution | gene | genetics | life ║ v11.0
@@ -1671,16 +1613,13 @@ U+1F6AA  🚪  door
 U+1F6D7  🛗  elevator - accessibility | hoist | lift ║ v13.0
 U+1FA9E  🪞  mirror - reflection | reflector | speculum ║ v13.0
 U+1FA9F  🪟  window - frame | fresh air | opening | transparent | view ║ v13.0
-U+1F6CF  🛏  bed - hotel | sleep
- U+FE0F  🛏️  bed - hotel | sleep ∦ 🛏
-U+1F6CB  🛋  couch and lamp - hotel
- U+FE0F  🛋️  couch and lamp - hotel ∦ 🛋
+U+1F6CF† 🛏️  bed - hotel | sleep | († U+1F6CF U+FE0F) ∦ 🛏
+U+1F6CB† 🛋️  couch and lamp - hotel | († U+1F6CB U+FE0F) ∦ 🛋
 U+1FA91  🪑  chair - seat | sit ║ v12.0
 U+1F6BD  🚽  toilet
 U+1FAA0  🪠  plunger - force cup | plumber | suction | toilet ║ v13.0
 U+1F6BF  🚿  shower - water | (wetness | squirting | golden)
-U+1F6C1  🛁  bathtub - bath
- U+FE0F  🛀  bathtub - bath ∦ 🛁
+U+1F6C1† 🛀  bathtub - bath | († U+1F6C1 U+FE0F) ∦ 🛁
 U+1FAA4  🪤  mouse trap - bait | mousetrap | snare ║ v13.0
 U+1FA92  🪒  razor - sharp | shave ║ v12.0
 U+1F9F4  🧴  lotion bottle - moisturizer | shampoo | sunscreen | (chemical | glue) ║ v11.0
@@ -1734,8 +1673,7 @@ U+1F6C5  🛅  left luggage - baggage | locker
 warning
 =======
 
-U+26A0   ⚠  warning - (triangle alert with exclamation mark)
- U+FE0F  ⚠️  warning - (triangle alert with exclamation mark) ∦ *Var Selector-16* ∦ ⚠
+U+26A0†  ⚠️  warning - (triangle alert with exclamation mark) | († U+26A0 U+FE0F) ∦ ⚠
 U+1F6B8  🚸  children crossing - child | pedestrian | traffic
 U+26D4   ⛔  no entry - forbidden | not | prohibited | traffic | (shut down | stop talking)
 U+1F6AB  🚫  prohibited - entry | forbidden | no | not | (canceled | cancelled)
@@ -1746,10 +1684,8 @@ U+1F6B1  🚱  non-potable water - non-drinking
 U+1F6B7  🚷  no pedestrians - forbidden | not | pedestrian | prohibited
 U+1F4F5  📵  no mobile phones - cell | forbidden | phone
 U+1F51E  🔞  no one under eighteen - 18 | age restriction | prohibited | underage
-U+2622   ☢  radioactive - sign
- U+FE0F  ☢️  radioactive - sign
-U+2623   ☣  biohazard - sign
- U+FE0F  ☣️  biohazard - sign
+U+2622†  ☢️  radioactive - sign | († U+2622 U+FE0F) ∦ ☢
+U+2623†  ☣️  biohazard - sign | († U+2623 U+FE0F) ∦ ☣
 
 =====
 arrow
@@ -1757,8 +1693,7 @@ arrow
 
 U+2B06   ⬆️  up arrow - cardinal | direction | north ∦ ⬆
 U+2197   ↗️  up-right arrow - direction | intercardinal | northeast ∦ ↗ ↗︎
-U+27A1   ➡  right arrow - cardinal | direction | east
- U+FE0F  ➡️  right arrow - cardinal | direction | east ∦ *Var Selector-16* ∦ ➡ ➡️
+U+27A1†  ➡️  right arrow - cardinal | direction | east | († U+27A1 U+FE0F) ∦ ➡ ➡️
 U+2198   ↘️  down-right arrow - direction | intercardinal | southeast ∦ ↘ ↘︎
 U+2B07   ⬇️  down arrow - cardinal | direction | south ∦ ⬇
 U+2199   ↙️  down-left arrow - direction | intercardinal | southwest ∦ ↙ ↙︎
@@ -1785,12 +1720,10 @@ religion
 U+1F6D0  🛐  place of worship - religion
 U+269B   ⚛️  atom symbol - atheist ∦ ⚛
 U+1F549  🕉️  om - Hindu | religion ∦ 🕉
-U+2721   ✡  star of David - Jew | Jewish | religion
- U+FE0F  ✡️  star of David - Jew | Jewish | religion ∦ *Var Selector-16* ∦ ✡
+U+2721†  ✡️  star of David - Jew | Jewish | religion | († U+2721 U+FE0F) ∦ ✡
 U+2638   ☸️  wheel of dharma - Buddhist | religion ∦ ☸
 U+262F   ☯️  yin yang - religion | tao | taoist ∦ ☯ (karma)
-U+271D   ✝  latin cross - Christian | religion
- U+FE0F  ✝️  latin cross - Christian | religion ∦ *Var Selector-16* ∦ ✝
+U+271D†  ✝️  latin cross - Christian | religion | († U+271D U+FE0F) ∦ ✝
 U+2626   ☦️  orthodox cross - Christian | religion ∦ ☦
 U+262A   ☪️  star and crescent - islam | Muslim | religion ∦ ☪
 U+262E   ☮️  peace symbol ∦ ☮
@@ -1851,27 +1784,20 @@ U+1F4F4  📴  mobile phone off - cell | telephone
 gender
 ======
 
-U+2640   ♀  female sign - female sign | woman
- U+FE0F  ♀️  female sign - female sign | woman ∦ *Var Selector-16* ∦ ♀
-U+2642   ♂  male sign - male sign | man
- U+FE0F  ♂️  male sign - male sign | man ∦ *Var Selector-16* ∦ ♂
-U+26A7   ⚧  transgender symbol - transgender | transgender symbol ║ v13.0
+U+2640†  ♀️  female sign - female sign | woman | († U+2640 U+FE0F) ∦ ♀ 
+U+2642†  ♂️  male sign - male sign | man | († U+2642 U+FE0F) ∦ ♂
+U+26A7†  ⚧️  transgender symbol - transgender | transgender symbol ║ v13.0 | († U+26A7 U+FE0F) ∦ ⚧
 
 ====
 math
 ====
 
-U+2716   ✖  multiply - × | cancel | multiplication | multiply | sign | x
-         ✖  Was: multiplication sign - × | cancel | heavy multiplication x | multiplication | multiply | sign | x
- U+FE0F  ✖️  multiply - × | cancel | multiplication | multiply | sign | x ∦ *Var Selector-16* ∦ ✖
+U+2716†  ✖️  multiply - × | cancel | (heavy) multiplication | multiply | sign | x | († U+2716 U+FE0F) ∦ ✖
 U+2795   ➕  plus - + | math | plus | sign
-         ➕  Was: plus sign - + | math | plus | sign
 U+2796   ➖  minus - - | − | math | minus | sign
-         ➖  Was: minus sign - - | − | math | minus | sign
 U+2797   ➗  divide - ÷ | divide | division | math | sign
-         ➗  Was: division sign - ÷ | division | math | sign
 U+1F7F0  🟰  heavy equals sign - equality | math ║ v14.0
-U+267E   ♾  infinity - forever | infinity | unbounded | universal ║ v11.0
+U+267E†  ♾️  infinity - forever | infinity | unbounded | universal ║ v11.0 | († U+267E U+FE0F) ∦ ♾  ∞  Ꝏ 	ꝏ 	ထ
             ➯ emojification of pre-existing character
             See also: Digraph 00 (infinity): ∞
 
@@ -1879,13 +1805,13 @@ U+267E   ♾  infinity - forever | infinity | unbounded | universal ║ v11.0
 punctuation
 ===========
 
-U+203C   ‼  double ... - ! | !! | bangbang | double exclamation mark | exclamation | mark | punctuation
-U+2049   ⁉  exclamation question mark - ! | !? | ? | excla. | interrobang | mark | punctuation | quest.
+U+203C†  ‼️  double ... - ! | !! | bangbang | double exclamation mark | exclamation | mark | punctuation | († U+203C U+FE0F) ∦ ‼
+U+2049†  ⁉️  exclamation question mark - ! | !? | ? | excla. | interrobang | mark | punctuation | quest. | († U+2049 U+FE0F) ∦ ⁉
 U+2753   ❓  question mark - ? | mark | punctuation | question ∦ ❓︎ ❓️
 U+2754   ❔  white question mark - ? | mark | outlined | punctuation | question | white question mark
 U+2755   ❕  white exclamation mark - ! | exclamation | mark | outlined | punctuation | w.e.m.
 U+2757   ❗  exclamation mark - ! | exclamation | mark | punctuation ∦ ❗︎ ❗️
-U+3030   〰  wavy dash - dash | punctuation | wavy
+U+3030†  〰️  wavy dash - dash | punctuation | wavy | († U+3030 U+FE0F) ∦ 〰
 
 ========
 currency
@@ -1898,32 +1824,27 @@ U+1F4B2  💲  heavy dollar sign - currency | dollar | heavy dollar sign | money
 other-symbol
 ============
 
-U+2695   ⚕  medical symbol - aesculapius | medicine | staff
- U+FE0F  ⚕️  medical symbol - aesculapius | medicine | staff ∦ *Var Selector-16* ∦ ⚕
+U+2695†  ⚕️  medical symbol - aesculapius | medicine | staff | († U+2695 U+FE0F) ∦ ⚕
 U+267B   ♻️  recycling symbol - recycle ∦ ♻
-U+269C   ⚜  fleur-de-lis
+U+269C†  ⚜️  fleur-de-lis | († U+269C U+FE0F) ∦ ⚜
 U+1F531  🔱  trident emblem - anchor | ship | tool
 U+1F4DB  📛  name badge
 U+1F530  🔰  Japanese symbol for beginner - chevron | leaf
 U+2B55   ⭕  hollow red circle - large | o
 U+2705   ✅  check mark button - ✓ | (checkmark)
-U+2611   ☑  check box with check - ✓ | (checkbox)
-U+2714   ✔  check mark - ✓ | (checkmark)
- U+FE0F  ✔️  check mark - ✓ | (checkmark) ∦ *Var Selector-16* ∦ ✔
+U+2611†  ☑️  check box with check - ✓ | (checkbox) | († U+2611 U+FE0F) ∦ ☑
+U+2714†  ✔️  check mark - ✓ | (checkmark) | († U+2714 U+FE0F) ∦ ✔
 U+274C   ❌  cross mark - × | cancel | multiplication | multiply | x
 U+274E   ❎  cross mark button - × | square | x
 U+27B0   ➰  curly loop - curl | (cable)
 U+27BF   ➿  double curly loop - curl | (cable)
 U+303D   〽  part alternation mark
-U+2733   ✳  eight-spoked asterisk - *
- U+FE0F  ✳️  eight-spoked asterisk - * ∦ *Var Selector-16* ∦ ✳
-U+2734   ✴  eight-pointed star - *
- U+FE0F  ✴️  eight-pointed star - * ∦ *Var Selector-16* ∦ ✴
-U+2747   ❇  sparkle - *
- U+FE0F  ❇️  sparkle - * ∦ *Var Selector-16* ∦ ❇
-U+00A9   ©  copyright - c | (Co)
-U+00AE   ®  registered - r | (Rg)
-U+2122   ™  trade mark - tm | trademark | (TM)
+U+2733†  ✳️  eight-spoked asterisk - * | († U+2733 U+FE0F) ∦ ✳
+U+2734†  ✴️  eight-pointed star - * | († U+2734 U+FE0F) ∦ ✴
+U+2747†  ❇️  sparkle - * | († U+2747 U+FE0F) ∦ ❇
+U+00A9†  ©️  copyright - c | (Co) | († U+00A9 U+FE0F) ∦ ©
+U+00AE†  ®️  registered - r | (Rg) | († U+00AE U+FE0F) ∦ ®
+U+2122†  ™️  trade mark - tm | trademark | (TM) | († U+2122 U+FE0F) ∦ ™
 
 ======
 keycap
@@ -1962,7 +1883,7 @@ U+1F192  🆒  COOL button - cool | (irritated | sassy | annoyed)
 U+1F193  🆓  FREE button - free
 U+2139   ℹ️  information - i ∦ ℹ
 U+1F194  🆔  ID button - id | identity
-U+24C2   Ⓜ  circled M - circle | m
+U+24C2†  Ⓜ️  circled M - circle | m | († U+24C2 U+FE0F) ∦ Ⓜ
 U+1F195  🆕  NEW button - new
 U+1F196  🆖  NG button - ng
 U+1F17E  🅾️  O button (blood type) - o ∦ 🅾
@@ -1972,8 +1893,8 @@ U+1F198  🆘  SOS button - help | sos
 U+1F199  🆙  UP! button - mark | up
 U+1F19A  🆚  VS button - versus | vs
 U+1F201  🈁  Japanese “here” button - katakana | ココ
-U+1F202  🈂  “service charge” | Japanese | Japanese “service charge” button | katakana | サ
-U+1F237  🈷  “monthly amount” | ideograph | Japanese | Japanese “monthly amount” button | 月
+U+1F202† 🈂️  “service charge” | Japanese | Japanese “service charge” button | katakana | († U+1F202 U+FE0F) ∦ サ🈂
+U+1F237† 🈷️  “monthly amount” | ideograph | Japanese | Japanese “monthly amount” button | († U+1F237 U+FE0F) ∦ 月🈷
 U+1F236  🈶  “not free of charge” | ideograph | Japanese | Japanese “not free of charge” button | 有
 U+1F22F  🈯  “reserved” | ideograph | Japanese | Japanese “reserved” button | 指
 U+1F250  🉐  “bargain” | ideograph | Japanese | Japanese “bargain” button | 得
@@ -1984,8 +1905,8 @@ U+1F251  🉑  “acceptable” | ideograph | Japanese | Japanese “acceptable�
 U+1F238  🈸  “application” | ideograph | Japanese | Japanese “application” button | 申
 U+1F234  🈴  “passing grade” | ideograph | Japanese | Japanese “passing grade” button | 合
 U+1F233  🈳  “vacancy” | ideograph | Japanese | Japanese “vacancy” button | 空
-U+3297   ㊗  “congratulations” | ideograph | Japanese | Japanese “congratulations” button | 祝
-U+3299   ㊙  “secret” | ideograph | Japanese | Japanese “secret” button | 秘
+U+3297†  ㊗️  “congratulations” | ideograph | Japanese | Japanese “congratulations” button | († U+3297 U+FE0F) ∦ 祝㊗
+U+3299†  ㊙️  “secret” | ideograph | Japanese | Japanese “secret” button | († U+3299 U+FE0F) ∦ 秘㊙
 U+1F23A  🈺  “open for business” | ideograph | Japanese | Japanese “open for business” button | 営
 U+1F235  🈵  “no vacancy” | ideograph | Japanese | Japanese “no vacancy” button | 満
 
@@ -1993,40 +1914,40 @@ U+1F235  🈵  “no vacancy” | ideograph | Japanese | Japanese “no vacancy�
 geometric
 =========
 
-U+1F534  🔴  red circle - circle | geometric | red
-U+1F7E0  🟠  orange circle - circle | orange ║ v12.0
-U+1F7E1  🟡  yellow circle - circle | yellow ║ v12.0
-U+1F7E2  🟢  green circle - circle | green ║ v12.0
-U+1F535  🔵  blue circle - blue | circle | geometric
-U+1F7E3  🟣  purple circle - circle | purple ║ v12.0
-U+1F7E4  🟤  brown circle - brown | circle ║ v12.0
-U+26AB   ⚫  black circle - black circle | circle | geometric
-U+26AA   ⚪  white circle - circle | geometric | white circle
-U+1F7E5  🟥  red square - red | square ║ v12.0
-U+1F7E7  🟧  orange square - orange | square ║ v12.0
-U+1F7E8  🟨  yellow square - square | yellow ║ v12.0
-U+1F7E9  🟩  green square - green | square ║ v12.0
-U+1F7E6  🟦  blue square - blue | square ║ v12.0
-U+1F7EA  🟪  purple square - purple | square ║ v12.0
-U+1F7EB  🟫  brown square - brown | square ║ v12.0
-U+2B1B   ⬛  black large square - black large square | geometric | square
-U+2B1C   ⬜  white large square - geometric | square | white large square
-U+25FC   ◼  black medium square - black medium square | geometric | square
-U+25FB   ◻  white medium square - geometric | square | white medium square
-U+25FE   ◾  black medium-small square - black medium-small square | geometric | square
-U+25FD   ◽  white medium-small square - geometric | square | white medium-small square
-U+25AA   ▪  black small square - black small square | geometric | square
-U+25AB   ▫  white small square - geometric | square | white small square
-U+1F536  🔶  large orange diamond - diamond | geometric | large orange diamond | orange
-U+1F537  🔷  large blue diamond - blue | diamond | geometric | large blue diamond
-U+1F538  🔸  small orange diamond - diamond | geometric | orange | small orange diamond
-U+1F539  🔹  small blue diamond - blue | diamond | geometric | small blue diamond
-U+1F53A  🔺  red triangle pointed up - geometric | red | red triangle pointed up
-U+1F53B  🔻  red triangle pointed down - down | geometric | red | red triangle pointed down
-U+1F4A0  💠  diamond with a dot - comic | diamond | diamond with a dot | geometric | inside
-U+1F518  🔘  radio button - button | geometric | radio
-U+1F532  🔲  black square button - black square button | button | geometric | square
-U+1F533  🔳  white square button - button | geometric | outlined | square | white square button
+U+1F534  🔴  red circle - geometric
+U+1F7E0  🟠  orange circle - ║ v12.0
+U+1F7E1  🟡  yellow circle - ║ v12.0
+U+1F7E2  🟢  green circle - ║ v12.0
+U+1F535  🔵  blue circle - geometric
+U+1F7E3  🟣  purple circle - ║ v12.0
+U+1F7E4  🟤  brown circle - ║ v12.0
+U+26AB   ⚫  black circle - geometric
+U+26AA   ⚪  white circle - geometric
+U+1F7E5  🟥  red square - ║ v12.0
+U+1F7E7  🟧  orange square - ║ v12.0
+U+1F7E8  🟨  yellow square - ║ v12.0
+U+1F7E9  🟩  green square - ║ v12.0
+U+1F7E6  🟦  blue square - ║ v12.0
+U+1F7EA  🟪  purple square - ║ v12.0
+U+1F7EB  🟫  brown square - ║ v12.0
+U+2B1B   ⬛  black large square - geometric
+U+2B1C   ⬜  white large square - geometric
+U+25FC†  ◼️  black medium square - geometric | († U+25FC U+FE0F) ∦ ◼
+U+25FB†  ◻️  white medium square - geometric | († U+25FB U+FE0F) ∦ ◻
+U+25FE   ◾  black medium-small square - geometric
+U+25FD   ◽  white medium-small square - geometric
+U+25AA†  ▪️  black small square - geometric | († U+25AA U+FE0F) ∦ ▪
+U+25AB†  ▫️  white small square - geometric | († U+25AB U+FE0F) ∦ ▫
+U+1F536  🔶  large orange diamond - geometric
+U+1F537  🔷  large blue diamond - geometric
+U+1F538  🔸  small orange diamond - geometric
+U+1F539  🔹  small blue diamond - geometric
+U+1F53A  🔺  red triangle pointed up - geometric
+U+1F53B  🔻  red triangle pointed down - geometric
+U+1F4A0  💠  diamond with a dot - comic | geometric | inside
+U+1F518  🔘  radio button - geometric
+U+1F532  🔲  black square button - geometric
+U+1F533  🔳  white square button - geometric | outlined
 
 #####
 Flags
@@ -2040,8 +1961,7 @@ U+1F3C1  🏁  chequered flag - checkered | chequered | chequered flag | racing
 U+1F6A9  🚩  triangular flag - post | triangular flag
 U+1F38C  🎌  crossed flags - celebration | cross | crossed | crossed flags | Japanese
 U+1F3F4  🏴  black flag - black flag | waving
-U+1F3F3  🏳  white flag - waving | white flag
- U+FE0F  🏳️  white flag - waving | white flag ∦ *Var Selector-16* ∦ 🏳
+U+1F3F3† 🏳️  white flag - waving | white flag | († U+1F3F3 U+FE0F) ∦ 🏳
 
 #######################
 Unrenderable Composites
