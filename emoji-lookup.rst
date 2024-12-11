@@ -2956,6 +2956,9 @@ Neat, huh
   E.g., the eye character, U+1F441, is 👁. But with Variation
     Selector-16, U+1F441 U+FE0Fm, it's 👁️.
 
+- REFER: You'll find multiple copyable variants on fsymbols.com (and ads), e.g.:
+  https://fsymbols.com/signs/infinity/
+
 KEY__: The ``∦`` label is used in the tables above to show variation sequences,
 such as the VS15 and VS16 glyphs (Variation Selector-15 and Variation Selector-16),
 or the base code point (if the glyph shown is already a variation) e.g.,::
