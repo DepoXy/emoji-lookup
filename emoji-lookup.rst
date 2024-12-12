@@ -206,7 +206,7 @@ U+1F4A9  💩  pile of poo - dung | face | monster | poop | (humor)
 U+1F921  🤡  clown face
 U+1F479  👹  ogre - creature | face | fairy tale | fantasy | monster | troll
 U+1F47A  👺  goblin - creature | face | fairy tale | fantasy | monster
-U+1F47B  👻  ghost - creature | face | fairy tale | fantasy | monster
+U+1F47B  👻  ghost - creature | face | fairy tale | fantasy | monster | (boo hoo)
 U+1F47D  👽  alien - creature | extraterrestrial | face | fantasy | ufo | (weirdo | outcast)
 U+1F47E  👾  alien monster - creature | extraterrestrial | face | ufo | (video game monster)
 U+1F916  🤖  robot - face | monster
