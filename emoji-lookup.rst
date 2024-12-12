@@ -2708,8 +2708,9 @@ special highlights specifically for managing notes in your editor:
   https://github.com/landonb/vim-reST-highdefs#🎨
   https://github.com/landonb/vim-reST-highfive#🖐
   https://github.com/landonb/vim-reST-highline#➖
-- Hint: Install https://github.com/landonb/dubs_web_hatch
-  to wire ``gW`` in Vim to opening the URL under the cursor.
+- Hint: Install https://github.com/embrace-vim/vim-web-hatch#🐣
+  to wire any Vim sequence to opening the URL under the cursor
+  (e.g., author uses ``gW``).
 
 ===========================================================================
 ─ Vim does not typically render skin tone composites ──────────────────────
