@@ -2708,7 +2708,7 @@ special highlights specifically for managing notes in your editor:
   https://github.com/landonb/vim-reST-highdefs#🎨
   https://github.com/landonb/vim-reST-highfive#🖐
   https://github.com/landonb/vim-reST-highline#➖
-- Hint: Install https://github.com/embrace-vim/vim-web-hatch#🐣
+- Hint: Install https://github.com/embrace-vim/vim-webopen#🐣
   to wire any Vim sequence to opening the URL under the cursor
   (e.g., author uses ``gW``).
 
