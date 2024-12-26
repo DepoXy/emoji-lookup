@@ -3624,6 +3624,87 @@ U+257x	╰	╱	╲	╳	╴	╵	╶	╷	╸	╹	╺	╻	╼	╽	╾	╿
 CRUMB: Exes: ╳ ✗ X x xxx
 
 ===========================================================================
+─ Powerline and Nerd Fonts Glyphs ─────────────────────────────────────────
+===========================================================================
+
+U+E000  pom-clean_code 
+        pom-pomodoro_done
+        pom-pomodoro_estimated
+        pom-pomodoro_ticking
+        pom-pomodoro_squashed
+        pom-short_pause
+        pom-long_pause
+        pom-away
+        pom-pair_programming
+        pom-internal_interruption
+        pom-external_interruption
+U+E0A0  pl-branch
+        pl-line_number
+        pl-readonly
+        pl-current_column
+U+EAB0  pl-left_hard_divider
+       
+       
+       
+        ple-right_half_circle_thick
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+        ple-flame_thick
+       
+        ple-flame_thick_mirrored
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+U+E0D7  pl-left_hard_divider_inverse
+U+E200  fae-smaller
+...
+U+E227  fae-mushroom
+U+E2A5  fae-meat
+...
+
+REFER:
+https://github.com/ryanoasis/nerd-fonts
+https://github.com/powerline/powerline
+https://github.com/ryanoasis/powerline-extra-symbols
+
+SAVVY: Nerd Fonts may be added to Unicode, or might not,
+because many Powerline glyphs are technically duplicates,
+even if they render better for status line plugins.
+- E.g.,  U+26D9 vs.  pl-branch
+  ⛙ Unicode Character “⛙” (U+26D9) White Left Lane Merge
+  https://www.compart.com/en/unicode/block/U+2600
+- Or, e.g.,
+  ▶ \U25B6 vs \UE0B0 
+  ► \U25BA vs \UE0B0 
+  But note how the powerline glyph uses the full height, so it'll
+  look better if you use background and foreground colors to render
+  it in that fancy *powerline* manner.
+https://github.com/ryanoasis/nerd-fonts/issues/506
+
+
+===========================================================================
 ─ Ancient Symbols ─────────────────────────────────────────────────────────
 ===========================================================================
 
