@@ -400,7 +400,7 @@ U+1F64D  🙍  person frowning - frown | gesture | person frowning
 U+1F64E  🙎  person pouting - gesture | person pouting | pouting
 U+1F645  🙅  person gesturing NO - forbidden | gesture | hand | person gesturing NO | prohibited
 U+1F646  🙆  person gesturing OK - gesture | hand | OK | person gesturing OK
-U+1F481  💁  person tipping hand - hand | help | information | person tipping hand | sassy | tipping
+U+1F481  💁  person tipping hand - hand | help | information | person tipping hand | sassy | tipping | (waiter | server)
 U+1F64B  🙋  person raising hand - gesture | hand | happy | person raising hand | raised
 U+1F9CF  🧏  deaf person - accessibility | deaf | deaf person | ear | hear ║ v12.0
 U+1F647  🙇  person bowing - apology | bow | gesture | person bowing | sorry | (sub | subservient | BDSM | kink)
@@ -423,7 +423,7 @@ U+1F478  👸  princess - fairy tale | fantasy
 U+1F473  👳  person wearing turban
 U+1F472  👲  person with skullcap - cap | gua pi mao | hat | (née: man with Chinese cap)
 U+1F9D5  🧕  woman with headscarf - headscarf | hijab | mantilla | tichel | woman... | bandana | head kerchief
-U+1F935  🤵  person in tuxedo - groom | wedding | (marriage) | (née: man in tuxedo)
+U+1F935  🤵  person in tuxedo - groom | wedding | (marriage) | (née: man in tuxedo) | (waiter | server)
 U+1F470  👰  person with veil - bride | wedding | (marriage) | (née: bride with veil)
 U+1F930  🤰  pregnant woman
 U+1FAC3  🫃  pregnant man - belly | bloated | full ║ v14.0
@@ -1088,7 +1088,7 @@ U+1F6F8  🛸  flying saucer - UFO | (probe)
 hotel
 =====
 
-U+1F6CE  🛎  bellhop bell - bell | bellhop | hotel
+U+1F6CE  🛎  bellhop bell - bell | bellhop | hotel | (waiter | server) ∦ 🛎️
 U+1F9F3  🧳  luggage - luggage | packing | travel ║ v11.0
 
 ====
