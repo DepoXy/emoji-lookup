@@ -714,7 +714,7 @@ U+1F333  🌳  deciduous tree - deciduous | shedding | tree
 U+1F334  🌴  palm tree - palm | tree
 U+1F335  🌵  cactus - cactus | plant
 U+1F33E  🌾  sheaf of rice - ear | grain | rice | sheaf of rice
-U+1F33F  🌿  herb - herb | leaf | (smoke | 420 | marijuana cigarettes | REEFERS)
+U+1F33F  🌿  herb - herb | leaf | (smoke | weed | 420 | marijuana cigarettes | REEFERS)
 U+2618†  ☘️  shamrock - plant | shamrock | († U+2618 U+FE0F) ∦ ☘
 U+1F340  🍀  four leaf clover - 4 | clover | four | four-leaf clover | leaf
 U+1F341  🍁  maple leaf - falling | leaf | maple
