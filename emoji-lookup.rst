@@ -1178,6 +1178,10 @@ U+1F525  🔥  fire - flame | tool | (hotness | smoke | 420)
 U+1F4A7  💧  droplet - cold | comic | drop | sweat | (water)
 U+1F30A  🌊  water wave - ocean
 
+.. CALSO: Nerd Font weather icons:       󰼰              
+..   https://www.nerdfonts.com/cheat-sheet?q=nf-weather-
+..     https://github.com/ryanoasis/nerd-fonts/wiki/Glyph-Sets-and-Code-Points
+
 ##########
 Activities
 ##########
