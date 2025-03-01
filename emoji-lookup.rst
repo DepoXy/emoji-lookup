@@ -9,7 +9,7 @@ USAGE: Open this file in a text editor using a reST syntax highlight.
 ALERT: This file is not formatted for HTML, but for your text editor.
 
 BONUS: Wire this file to a global keybinding (e.g., <Cmd-U> on Linux
-       works well) to open it quickly, & to look for symbols to copy.
+^^^^^  works well) to open it quickly, & to look for symbols to copy.
 
 TOC
 ===
@@ -43,20 +43,20 @@ U+1F605  😅  grinning face with sweat - cold | open | smile | (embarrassed) �
 U+1F923  🤣  rolling on the floor laughing - face | laugh ∦ 🤣︎
 U+1F602  😂  face with tears of joy - laugh | tear ∦ 😂︎
 U+1F642  🙂  slightly smiling face - smile | (irony | sarcasm
-                      | passive aggression | annoyance | patronizing) ∦ 🙂︎
+                      | passive aggression | annoyance | patronizing) ∦ 🙂︎
 U+1F643  🙃  upside-down face - (silly | sarcasm) ∦ 🙃︎
 U+1FAE0  🫠  melting face - disappear | dissolve | liquid | melt ║ v14.0 ∦ 🫠︎
 U+1F609  😉  winking face - wink | (flirty) ∦ 😉︎
 U+1F60A  😊  smiling face with smiling eyes - blush | eye | smile | (happy) ∦ 😊︎
 U+1F607  😇  smiling face with halo - angel | fantasy | innocent
-                      | (angelic | up to no good | devilish | mischievous) ∦ 😇︎
+                      | (angelic | up to no good | devilish | mischievous) ∦ 😇︎
 
 ==============
 face-affection
 ==============
 
 U+1F970  🥰  smiling face with hearts - adore | crush | in love | (three hearts
-                      | lovey-dovey | warm fuzzies | happiness | affection | love) ║ v11.0 ∦ 🥰︎
+                      | lovey-dovey | warm fuzzies | happiness | affection | love) ║ v11.0 ∦ 🥰︎
 U+1F60D  😍  smiling face with heart-eyes - eye | love | smile | (heart eyes | love | adoration) ∦ 😍︎
 U+1F929  🤩  star-struck - eyes | face | grinning | star | starry-eyed | (lovey-dovey | friendly) ∦ 🤩︎
 U+1F618  😘  face blowing a kiss - (grateful | thanks | thank you) ∦ 😘︎
@@ -82,12 +82,12 @@ face-hand
 =========
 
 U+1F917  🤗  hugging face - hug | (jazz hands | spirit fingers | good for you | back off
-                      | blushing smile | crushing | joy | affection | comfort | gratitude
-                      | friendliness | praise | admiration)
+                      | blushing smile | crushing | joy | affection | comfort | gratitude
+                      | friendliness | praise | admiration)
 U+1F92D  🤭  face with hand over mouth - whoops | shock | sudden realization | surprise
-                      | (embarrassed | slight laughter | silly mistake | shy smile | secrecy)
+                      | (embarrassed | slight laughter | silly mistake | shy smile | secrecy)
 U+1FAE2  🫢  face with open eyes and hand over mouth - amazement
-                      | awe | disbelief | embarrass | scared | surprise ║ v14.0
+                      | awe | disbelief | embarrass | scared | surprise ║ v14.0
 U+1FAE3  🫣  face with peeking eye - captivated | peep | stare ║ v14.0
 U+1F92B  🤫  shushing face - quiet | shush | (shhhh)
 U+1F914  🤔  thinking face | (question | mystery)
@@ -2871,15 +2871,15 @@ Neat, huh
 ─ U+FE0F Var Selector-16 Explained ────────────────────────────────────────
 ===========================================================================
 
-- *Variation Selector-16* (aka Var Selector-16, above) is U+FE0F,
-  an invisible codepoint that specifies that the preceding character
-  should be displayed with emoji presentation. It is only required if
-  the preceding character defaults to text presentation.
+The *Variation Selector-16* (aka Var Selector-16, above) is U+FE0F,
+an invisible codepoint that specifies that the preceding character
+should be displayed with emoji presentation. It is only required if
+the preceding character defaults to text presentation.
 
-    https://emojipedia.org/variation-selector-16/
+  https://emojipedia.org/variation-selector-16/
 
-  E.g., the eye character, U+1F441, is 👁. But with Variation
-    Selector-16, U+1F441 U+FE0Fm, it's 👁️.
+- E.g., the eye character, U+1F441, is 👁. But with Variation
+  Selector-16 — U+1F441 U+FE0Fm — it's 👁️.
 
 - REFER: You'll find multiple copyable variants on fsymbols.com (and ads), e.g.:
   https://fsymbols.com/signs/infinity/
@@ -2887,6 +2887,7 @@ Neat, huh
 KEY__: The ``∦`` label is used in the tables above to show variation sequences,
 such as the VS15 and VS16 glyphs (Variation Selector-15 and Variation Selector-16),
 or the base code point (if the glyph shown is already a variation) e.g.,::
+
   U+1F637  😷  face with medical mask - cold | doctor | face | face with medical mask | mask | sick ∦ 😷︎ 😷️
 Note that Unicode.org (the glyph on the left) uses the code point with no
 variation selector, e.g., U+1F637 (😷). The two glyphs on the left use the
@@ -3068,7 +3069,7 @@ U+2037            ‷  Triple prime (See also: ⁗ quadruple prime symbol)
 U+2038            ‸  Caret, a V-shaped grapheme
 U+2039  0921      ‹  Single left-pointing angle quotation mark
 U+203A  0922      ›  Single right-pointing angle quotation mark
-                     └→ Aka "Single" Guillemets: ‹ and › / See also « Guillemets »
+                     └→ Aka "Single" Guillemets: ‹ and › / See also « Guillemets »
 U+203B            ※  Reference mark, or Reference symbol
 U+203C  0923      ‼  Double exclamation mark
 U+203D            ‽  Interrobang, aka interabang; also ⁈ and ⁉
@@ -3377,6 +3378,7 @@ U+213x	ℰ	ℱ	Ⅎ	ℳ	ℴ	ℵ	ℶ	ℷ	ℸ	ℹ	℺	℻	ℼ	ℽ	ℾ	ℿ   # * Jus
 U+214x	⅀	⅁	⅂	⅃	⅄	ⅅ	ⅆ	ⅇ	ⅈ	ⅉ	⅊	⅋	⅌	⅍	ⅎ	⅏
 
 PROPS: The ``dezalgo`` JS package previously used otherworldly npm keywords::
+
     T̯̪ͅo̯͖̹ ̻̮̖̲͢i̥̖n̢͈͇̝͍v͏͉ok̭̬̝ͅe̞͍̩̫͍̩͝ ̩̮̖̟͇͉́t͔͔͎̗h͏̗̟e̘͉̰̦̠̞͓ ͕h͉̟͎̪̠̱͠ḭ̮̩v̺͉͇̩e̵͖-̺̪m͍i̜n̪̲̲̲̮d̷ ̢r̠̼̯̹̦̦͘ͅe͓̳͓̙p̺̗̫͙͘ͅr͔̰͜e̴͓̞s͉̩̩͟ͅe͏̣n͚͇̗̭̺͍tì͙̣n͏̖̥̗͎̰̪g̞͓̭̱̯̫̕ ̣̱͜ͅc̦̰̰̠̮͎͙̀hao̺̜̻͍͙ͅs͉͓̘.͎̼̺̼͕̹̠̞̱̰͘
     I͖͇̝̻n̦̰͍̰̟v̤̺̫̳̭̼̗͘ò̹̟̩̩͚k̢̥̠͍͉̦̬i̖͓͔̮̱̻͘n̶̳͙̫͎g̖̯̣̲̪͉ ̞͎̗͕͚ͅt̲͕̘̺̯̗̦h̘̦̲̜̻e̳͎͉̬͙ ̴̞̪̲̥f̜̯͓͓̭̭͢e̱̘͔̮e̜̤l̺̱͖̯͓͙͈͢i̵̦̬͉͔̫͚͕n͉g̨͖̙̙̹̹̟̤ ͉̪o̞̠͍̪̰͙ͅf̬̲̺ ͔͕̲͕͕̲̕c̙͉h̝͔̩̙̕ͅa̲͖̻̗̹o̥̼̫s̝̖̜̝͚̫̟.̺͚ ̸̱̲W̶̥̣͖̦i͏̤̬̱̳̣ͅt͉h̗̪̪ ̷̱͚̹̪ǫ͕̗̣̳̦͎u̼̦͔̥̮̕ţ͖͎̻͔͉ ̴͎̩òr̹̰̖͉͈͝d̷̲̦̖͓e̲͓̠ŗ͚̜͓̰̭̭
     Ṯ̫̹̜̮̟̮͝h͚̘̩̘̖̰́e ̥̘͓͉͔͙̼N̟̜̣̘͔̪e̞̞̤͢z̰̖̘͇p̠͟e̺̱̣͍͙̝ṛ̘̬͔̙͇̠d͝ḭ̯̱̥̗̩a̛ͅn͏̦ ̷̥hi̥v̖̳̹͉̮̱͝e̹̪̘̖̰̟-̴͙͓͚̜̻mi̗̺̻͙̺ͅn̪̯͈d ͏̘͓̫̳ͅơ̹͔̳̖̣͓f͈̹̘ ͕ͅc̗̤̠̜̮̥̥h̡͍̩̭̫͚̱a̤͉̤͔͜os͕̤̼͍̲̀ͅ.̡̱ ̦Za̯̱̗̭͍̣͚l̗͉̰̤g͏̣̭̬̗̲͖ͅo̶̭̩̳̟͈.̪̦̰̳H̴̱̦̗̬̣͓̺e̮ ͉̠̰̞͎̖͟ẁh̛̺̯ͅo̖̫͡ ̢Ẁa̡̗i̸t͖̣͉̀ş͔̯̩ ̤̦̮͇̞̦̲B͎̭͇̦̼e̢hin͏͙̟̪d̴̰͓̻̣̮͕ͅ T͖̮̕h͖e̘̺̰̙͘ ̥Ẁ̦͔̻͚a̞͖̪͉l̪̠̻̰̣̠l̲͎͞
@@ -3392,8 +3394,10 @@ PROPS: The ``dezalgo`` JS package previously used otherworldly npm keywords::
   https://blog.izs.me/2013/08/designing-apis-for-asynchrony
 - On the blog post you'll read about *His Dark͝ Tend̴r̡i҉ls* and how
   *Th͏e Da҉rk Pońy Lo͘r͠d HE ́C͡OM̴E̸S*::
+
     H̵͘͡e ̡wh́o͠ ̶Prom̀͟͝i̴s̀es̀ o҉̶nl̨͟y̧ ̛̛m̴͠͝a̡̛͢d̡n̴̡e͝s̸s͠, T̢҉̸h̴̷̸̢ȩ͡ ͘͠N͢͢e͏͏͢͠z̛͏͜p̸̀̕͠ȩ́͝͝r҉̛́͠d̴̀i̴̕҉͞a̴̡͝͠n̢͜͟͢͟ ̶̴̢͝h̷̕͠í̸̧̛͜v̶̢͢͡e̕͡-̸̀͝m̷͜i̛͘͞ņ̛͘͟҉d̶̶̡̧͜ ̷̛͞o̵̢͘͟͞f̶̢̀͢͢ ̶̧͟͡c̕͝h̶̀͘͘à͏o҉̴́͢s̸͘͘͝͞.̨͢͞.
 - The ``please`` shell fcn invokes the spirit of *dezalgo* for its error msg::
+
     々s͉͓̘Ỷs͉̩̩͟ͅT̯̪ͅe̘̺̰̙͘M̬̼ Ĕ̖̤͔͔̟̹̽̿̊ͥ̍ͫr̠̼̯̹̦̦͘ͅṛ̘̬͔̙͇̠Ó̶̭͓̚ŗ͚̜͓̰̭̭ぅ T͖̮̕h͖a̛ͅt͖̣͉̀ W̶̥̣͖̦o̖̫͡u̼̦͔̥̮̕l̺̱͖̯͓͙͈͢d̷̲̦̖͓ ḭ̮̩n̶̳͙̫͎v͏͉ok̭̬̝ͅe̞͍̩̫͍̩͝ c̙͉h̝͔̩̙̕ͅa̲͖̻̗̹o̥̼̫s̝̖̜̝͚̫̟ a̛ͅn̪̯͈d͝ d̴̰͓̻̣̮͕ͅi̖͓͔̮̱̻͘ş͔̯̩òr̹̰̖͉͈͝d̷̲̦̖͓e̲͓̠r"
   https://github.com/landonb/home-fries/blob/release/lib/funcs/please
 
@@ -3504,7 +3508,7 @@ U+23Fx	⏰	⏱	⏲	⏳	⏴	⏵	⏶	⏷	⏸	⏹	⏺	⏻	⏼	⏽	⏾	⏿
 
 List of Keyboard Key icons #key_icons:
 
-    ^  - Control (aka Ctrl) key
+-   ^  - Control (aka Ctrl) key
     ⌥  - Option (aka Alt, Meta) key
     ⇧  - Shift ("Upwards White Arrow", see also: ↑) key
     ⌘  - Command (aka Windows, Super) key
@@ -3524,9 +3528,10 @@ List of Keyboard Key icons #key_icons:
     🐧 - Linux (Tux) approximation (Penguin).
   ⇞⇟↖︎↘︎ - ⇞ Page Up / ⇟ Page Down / ↖︎ Top (Home) / ↘︎ End
 
-  - macOS display order: Ctrl-Option-Shift-Command-<key> / ^⌥ ⇧⌘ <key>
+  - macOS display order: Ctrl-Option-Shift-Command-<key> / ^⌥ ⇧⌘ <key>
 
-REFER: Apple Support's *Mac keyboard shortcuts*
+REFER: Apple Support's *Mac keyboard shortcuts*:
+
   https://support.apple.com/en-us/HT201236
 
 ===========================================================================
@@ -3537,12 +3542,12 @@ Geometric Shapes
 https://en.wikipedia.org/wiki/Geometric_Shapes
 
 U+25Ax	■	□	▢	▣	▤	▥	▦	▧	▨	▩	▪	▫	▬	▭	▮	▯     aka Box Shapes, Square characters... *Squaracters*, Rectangles
-                                            ... Checkboxes □ (di: OS) ▢ (di: RO)
+                                            ... Checkboxes □ (di: OS) ▢ (di: RO)
 U+25Bx	▰	▱	▲	△	▴	▵	▶	▷	▸	▹	►	▻	▼	▽	▾	▿     ... Parallelograms, Right-/Down-pointing triangles
 U+25Cx	◀	◁	◂	◃	◄	◅	◆	◇	◈	◉	◊	○	◌	◍	◎	●     ... Left-pnt'g tri's; Diamonds; Fisheye ◉; Lozenge ◊; White/
-                                                Open Circle, Dotted, w/ Vert. Fill ◍; Bullseye ◎; Black Circle
+                                                Open Circle, Dotted, w/ Vert. Fill ◍; Bullseye ◎; Black Circle
 U+25Dx	◐	◑	◒	◓	◔	◕	◖	◗	◘	◙	◚	◛	◜	◝	◞	◟     ... Circles with left/right/lower/upper half black; quadrant;
-                                                Inverse bullet ◘/white circ ◙/upper/lower halves; circular arcs
+                                                Inverse bullet ◘/white circ ◙/upper/lower halves; circular arcs
 U+25Ex	◠	◡	◢	◣	◤	◥	◦	◧	◨	◩	◪	◫	◬	◭	◮	◯     ... Upper/lower half circ's, Lower/upper right/left tri's, etc.
 U+25Fx	◰	◱	◲	◳	◴	◵	◶	◷	◸	◹	◺	◻	◼	◽	◾	◿ ... White square w/ upper left quadrant, etc.
 
@@ -3707,14 +3712,14 @@ https://en.wikipedia.org/wiki/Egyptian_Hieroglyphs_(Unicode_block)
     as well as 80 symbols for "Man and his occupations".
 
 U+1300x	𓀀	𓀁	𓀂	𓀃	𓀄	𓀅	𓀆	𓀇	𓀈	𓀉	𓀊	𓀋	𓀌	𓀍	𓀎	𓀏
-  ...
+  ...
 U+1309x	𓂐	𓂑	𓂒	𓂓	𓂔	𓂕	𓂖	𓂗	𓂘	𓂙	𓂚	𓂛	𓂜	𓂝	𓂞	𓂟     ... 𓂐 liquid issuing from lips,
                                                 𓂑 small breast, 𓂒 large breast
 U+130Ax	𓂠	𓂡	𓂢	𓂣	𓂤	𓂥	𓂦	𓂧	𓂨	𓂩	𓂪	𓂫	𓂬	𓂭	𓂮	𓂯
 U+130Bx	𓂰	𓂱	𓂲	𓂳	𓂴	𓂵	𓂶	𓂷	𓂸	𓂹	𓂺	𓂻	𓂼	𓂽	𓂾	𓂿     ... 𓂸 penis/phallus, 𓂺 p/p w/emission
-                                                𓂹  p/p w/ folded cloth
+                                                𓂹  p/p w/ folded cloth
 U+130Bx	𓂰	𓂱	𓂲	𓂳	𓂴	𓂵	𓂶	𓂷	𓂸	𓂹	𓂺	𓂻	𓂼	𓂽	𓂾	𓂿     ... 𓂨  liquid falling from hand
-  ...
+  ...
 U+1342x	𓐠	𓐡	𓐢	𓐣	𓐤	𓐥	𓐦	𓐧	𓐨	𓐩	𓐪	𓐫	𓐬	𓐭	𓐮	𓐯
 
 ===========================================================================
@@ -3978,22 +3983,22 @@ Extended ASCII characters
 - ALTLY: On author's Mac Mini, chars. 128-142 are control characters (e.g.,
   ), and the remaining characters are different from the previous table.
 
-                   160     | 192 À   | 224 à   | 176 °   | 208 Ð   | 240 ð
-                   161 ¡   | 193 Á   | 225 á   | 177 ±   | 209 Ñ   | 241 ñ
-                   162 ¢   | 194 Â   | 226 â   | 178 ²   | 210 Ò   | 242 ò
-                   163 £   | 195 Ã   | 227 ã   | 179 ³   | 211 Ó   | 243 ó
-                   164 ¤   | 196 Ä   | 228 ä   | 180 ´   | 212 Ô   | 244 ô
-                   165 ¥   | 197 Å   | 229 å   | 181 µ   | 213 Õ   | 245 õ
-                   166 ¦   | 198 Æ   | 230 æ   | 182 ¶   | 214 Ö   | 246 ö
-                   167 §   | 199 Ç   | 231 ç   | 183 ·   | 215 ×   | 247 ÷
-                   168 ¨   | 200 È   | 232 è   | 184 ¸   | 216 Ø   | 248 ø
-                   169 ©   | 201 É   | 233 é   | 185 ¹   | 217 Ù   | 249 ù
-                   170 ª   | 202 Ê   | 234 ê   | 186 º   | 218 Ú   | 250 ú
-                   171 «   | 203 Ë   | 235 ë   | 187 »   | 219 Û   | 251 û
-                   172 ¬   | 204 Ì   | 236 ì   | 188 ¼   | 220 Ü   | 252 ü
-                   173 ­   | 205 Í   | 237 í   | 189 ½   | 221 Ý   | 253 ý
-                   174 ®   | 206 Î   | 238 î   | 190 ¾   | 222 Þ   | 254 þ
-                   175 ¯   | 207 Ï   | 239 ï   | 191 ¿   | 223 ß   | 255 ÿ
+                   160     | 192 À   | 224 à   | 176 °   | 208 Ð   | 240 ð
+                   161 ¡   | 193 Á   | 225 á   | 177 ±   | 209 Ñ   | 241 ñ
+                   162 ¢   | 194 Â   | 226 â   | 178 ²   | 210 Ò   | 242 ò
+                   163 £   | 195 Ã   | 227 ã   | 179 ³   | 211 Ó   | 243 ó
+                   164 ¤   | 196 Ä   | 228 ä   | 180 ´   | 212 Ô   | 244 ô
+                   165 ¥   | 197 Å   | 229 å   | 181 µ   | 213 Õ   | 245 õ
+                   166 ¦   | 198 Æ   | 230 æ   | 182 ¶   | 214 Ö   | 246 ö
+                   167 §   | 199 Ç   | 231 ç   | 183 ·   | 215 ×   | 247 ÷
+                   168 ¨   | 200 È   | 232 è   | 184 ¸   | 216 Ø   | 248 ø
+                   169 ©   | 201 É   | 233 é   | 185 ¹   | 217 Ù   | 249 ù
+                   170 ª   | 202 Ê   | 234 ê   | 186 º   | 218 Ú   | 250 ú
+                   171 «   | 203 Ë   | 235 ë   | 187 »   | 219 Û   | 251 û
+                   172 ¬   | 204 Ì   | 236 ì   | 188 ¼   | 220 Ü   | 252 ü
+                   173 ­   | 205 Í   | 237 í   | 189 ½   | 221 Ý   | 253 ý
+                   174 ®   | 206 Î   | 238 î   | 190 ¾   | 222 Þ   | 254 þ
+                   175 ¯   | 207 Ï   | 239 ï   | 191 ¿   | 223 ß   | 255 ÿ
 
 ===========================================================================
 ─ Whitespace ──────────────────────────────────────────────────────────────
