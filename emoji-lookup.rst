@@ -302,7 +302,7 @@ hand-fingers-partial
 U+1F44C  👌  OK hand - (okay)
 U+1F90C  🤌  pinched fingers - hand gesture | interrogation | sarcastic ║ v13.0
 U+1F90F  🤏  pinching hand - small amount ║ v12.0
-U+270C†  ✌️  victory hand - v | († U+270C U+FE0F) ∦ ✌✌︎✌️
+U+270C†  ✌️  victory hand - v | († U+270C U+FE0F) ∦ ✌✌︎✌️ | (peace, hippie)
 U+1F91E  🤞  crossed fingers - cross | finger | hand | luck
 U+1FAF0  🫰  hand with index finger and thumb crossed - expensive | heart | love | money | snap ║ v14.0
 U+1F91F  🤟  love-you gesture - hand | ILY
