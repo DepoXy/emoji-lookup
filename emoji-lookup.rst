@@ -1971,6 +1971,10 @@ U+1F3F3† 🏳️  white flag - waving | white flag | († U+1F3F3 U+FE0F) ∦ 
 Unrenderable Composites
 #######################
 
+SAVVY/2025-03-26: These *Grapheme Clusters* now render in Neovim 0.11!
+- REFER: Article re: how terminal emulators handle grapheme clusters:
+  https://mitchellh.com/writing/grapheme-clusters-in-terminals
+
 SAVVY: Vim generally does not render composite characters, but sometimes it will.
 - Most composites will always appear as two symbols.
 - Some composites will render if you Alt-tab away from Vim
@@ -2336,6 +2340,8 @@ country-flag
 
 TRYME: Normally, Vim shows flag emoji as two bold letter-like
        characters, e.g., an 🇦 and a 🇩 for Andorra.
+- FIXED: Neovim 0.11 supports grapheme clusters,
+         which renders these flags correctly.
 - But you can "trick" (coerce?) Vim to draw the composite character
   (in this case, the flag emoji), if you do one of two things:
   - You can place the cursor between the two decomposed characters,
