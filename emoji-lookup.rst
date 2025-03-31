@@ -120,6 +120,7 @@ U+1F614  😔  pensive face - dejected
 U+1F62A  😪  sleepy face - sleep
 U+1F924  🤤  drooling face
 U+1F634  😴  sleeping face - sleep | zzz
+U+1FAE9  🫩  face with bags under eyes - bored | exhausted | fatigued | late | sleepy | tired | weary ║ v16.0
 
 ===========
 face-unwell
@@ -515,6 +516,7 @@ U+1F464  👤  bust in silhouette - bust | bust in silhouette | silhouette
 U+1F465  👥  busts in silhouette - bust | busts in silhouette | silhouette
 U+1FAC2  🫂  people hugging - goodbye | hello | hug | people hugging | thanks ║ v13.0
 U+1F463  👣  footprints - clothing | footprint | footprints | print
+U+1FAC6  🫆  fingerprint - clue | crime | detective | forensics | identity | mystery | print | safety | trace ║ v16.0
 
 #########
 Component
@@ -722,6 +724,7 @@ U+1F342  🍂  fallen leaf - fallen leaf | falling | leaf
 U+1F343  🍃  leaf fluttering in wind - blow | (smoke | 420)
 U+1FAB9  🪹  empty nest - nesting ║ v14.0
 U+1FABA  🪺  nest with eggs - nesting ║ v14.0
+U+1FABE  🪾  leafless tree - bare | barren | branches | dead | drought | trunk | winter | wood ║ v16.0
 
 ############
 Food & Drink
@@ -773,6 +776,7 @@ U+1FAD8  🫘  beans - food | kidney | legume ║ v14.0
 U+1F330  🌰  chestnut - chestnut | plant
 U+1FADA  🫚  ginger root - beer | ginger root | root | spice ║ v15.0
 U+1FADB  🫛  pea pod - beans | edamame | legume | pea | pod | vegetable ║ v15.0
+U+1FADC  🫜  root vegetable - beet | food | garden | radish | salad | turnip | vegetarian ║ v16.0
 
 =============
 food-prepared
@@ -1397,6 +1401,7 @@ U+1F941  🥁  drum - drum | drumsticks | music
 U+1FA98  🪘  long drum - beat | conga | drum | long drum | rhythm ║ v13.0
 U+1FA87  🪇  maracas - instrument | maracas | music | percussion | rattle | shake ║ v15.0
 U+1FA88  🪈  flute - fife | flute | music | pipe | recorder | woodwind ║ v15.0
+U+1FA89  🪉  harp - cupid | instrument | love | music | orchestra ║ v16.0
 
 =====
 phone
@@ -1584,6 +1589,7 @@ U+1FA9D  🪝  hook - catch | crook | curve | ensnare | hook | selling point ║
 U+1F9F0  🧰  toolbox - chest | mechanic | tool | toolbox ║ v11.0
 U+1F9F2  🧲  magnet - attraction | horseshoe | magnet | magnetic ║ v11.0
 U+1FA9C  🪜  ladder - climb | ladder | rung | step ║ v13.0
+U+1FA8F  🪏  shovel - bury | dig | garden | hole | plant | scoop | snow | spade ║ v16.0
 
 =======
 science
@@ -1849,6 +1855,7 @@ U+2747†  ❇️  sparkle - * | († U+2747 U+FE0F) ∦ ❇
 U+00A9†  ©️  copyright - c | (Co) | († U+00A9 U+FE0F) ∦ ©
 U+00AE†  ®️  registered - r | (Rg) | († U+00AE U+FE0F) ∦ ®
 U+2122†  ™️  trade mark - tm | trademark | (TM) | († U+2122 U+FE0F) ∦ ™
+U+1FADF  🫟  splatter - drip | holi | ink | liquid | mess | paint | spill | stain ║ v16.0
 
 ======
 keycap
@@ -2555,6 +2562,7 @@ U+1F1F7 U+1F1F4  🇷🇴  flag: Romania - flag
 U+1F1F7 U+1F1F8  🇷🇸  flag: Serbia - flag
 U+1F1F7 U+1F1FA  🇷🇺  flag: Russia - flag
 U+1F1F7 U+1F1FC  🇷🇼  flag: Rwanda - flag
+U+1F1E8 U+1F1F6  🇨🇶  flag: Sark	- flag ║ v16.0
 U+1F1F8 U+1F1E6  🇸🇦  flag: Saudi Arabia - flag
 U+1F1F8 U+1F1E7  🇸🇧  flag: Solomon Islands - flag
 U+1F1F8 U+1F1E8  🇸🇨  flag: Seychelles - flag
