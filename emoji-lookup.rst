@@ -1173,7 +1173,7 @@ U+1F302  🌂  closed umbrella - clothing | rain
 U+2602†  ☂️  umbrella - clothing | rain | († U+2602 U+FE0F) ∦ ☂
 U+2614   ☔  umbrella with rain drops - clothing | drop
 U+26F1†  ⛱️  umbrella on ground - rain | sun | († U+26F1 U+FE0F) ∦ ⛱
-U+26A1   ⚡  high voltage - danger | electric | lightning | zap
+U+26A1   ⚡  high voltage - danger | electric | lightning | zap | (lightening bolt)
 U+2744†  ❄️  snowflake - cold | snow | († U+2744 U+FE0F) ∦ ❄
 U+2603†  ☃️  snowman - cold | snow | († U+2603 U+FE0F) ∦ ☃
 U+26C4   ⛄  snowman without snow - cold
