@@ -3201,7 +3201,7 @@ And Digraphs:
 Currency Symbols
 https://en.wikipedia.org/wiki/Currency_Symbols_(Unicode_block)
 
-U+20Ax	₠	₡	₢	₣	₤	₥	₦	₧	₨	₩	₪	₫	€	₭	₮	₯   ₤/Lira (not £/Pound), ₪/Shekel, ₫/Vietnamese dong, etc.
+U+20Ax	₠	₡	₢	₣	₤	₥	₦	₧	₨	₩	₪	₫	€	₭	₮	₯   ₤/Lira (not £/Pound), ₪/Shekel, ₫/Vietnamese dong, €/Euro, etc.
 U+20Bx	₰	₱	₲	₳	₴	₵	₶	₷	₸	₹	₺	₻	₼	₽	₾	₿   ₵/Ghana cedi (not ¢/Cent), ₽/Ruble, ₿/Bitcoin
 
 ===========================================================================
