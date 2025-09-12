@@ -3163,7 +3163,7 @@ U+201x	‐	 ‑	‒	–	—	―	‖	‗	‘	’	‚	‛	“	”	„	‟
 U+202x	†	‡	•	‣	․	‥	…	‧                    # ․ One- ‥ two- … three-dot leader
 U+203x	‰	‱	′	″	‴		‶	‷	‸	‹	›	※	‼	‽	‾	‿    # ‽ Interrobang/interabang ‾ Overline/-score/-bar ‿ Tie
 U+204x	⁀	⁁	⁂	⁃	⁄	⁅	⁆	⁇	⁈	⁉	⁊	⁋	⁌	⁍	⁎	⁏    # ⁂ asterism ⁄ Fraction/Forward slash aka Stroke/Solidus
-U+205x	⁐	⁑	⁒	⁓	⁔	⁕	⁖	⁗	⁘	⁙	⁚	⁛	⁜	⁝	⁞      # ⁗ quadruple prime symbol
+U+205x	⁐	⁑	⁒	⁓	⁔	⁕	⁖	⁗	⁘	⁙	⁚	⁛	⁜	⁝	⁞      # ⁗ quadruple prime symbol, [dots: ⁘	⁙	⁛	⁜]
 U+206x	ƒ() × , +                          # × multiplication sign
 
 Supplemental Punctuation
@@ -3171,7 +3171,7 @@ https://en.wikipedia.org/wiki/Supplemental_Punctuation
 
 U+2E0x	⸀	⸁	⸂	⸃	⸄	⸅	⸆	⸇	⸈	⸉	⸊	⸋	⸌	⸍	⸎	⸏
 U+2E1x	⸐	⸑	⸒	⸓	⸔	⸕	⸖	⸗	⸘	⸙	⸚	⸛	⸜	⸝	⸞	⸟
-U+2E2x	⸠	⸡	⸢	⸣	⸤	⸥	⸦	⸧	⸨	⸩	⸪	⸫	⸬	⸭	⸮	ⸯ    # `npm` uses: ⸨	⸩ [double paranthesis]
+U+2E2x	⸠	⸡	⸢	⸣	⸤	⸥	⸦	⸧	⸨	⸩	⸪	⸫	⸬	⸭	⸮	ⸯ    # `npm` uses: ⸨	⸩ [double paranthesis] [dots: ⸪	⸫	⸬	⸭]
 U+2E3x	⸰	⸱	⸲	⸳	⸴	⸵	⸶	⸷	⸸	⸹	†	‡	⸼	⸽	⸾	⸿    # † 2M: ⸺
 U+2E4x	⹀	⹁	⹂	⹃	⹄	⹅	⹆	⹇	⹈	⹉                # ‡ 3M: ⸻
 
@@ -3337,8 +3337,8 @@ U+22Cx	⋀	⋁	⋂	⋃	⋄	⋅	⋆	⋇	⋈	⋉	⋊	⋋	⋌	⋍	⋎	⋏   # ⋀ N
 U+22Dx	⋐	⋑	⋒	⋓	⋔	⋕	⋖	⋗	⋘	⋙	⋚	⋛	⋜	⋝	⋞	⋟   # ⋐ Double Subset, ⋔ Pitchfork, ⋕ Eq and Prlll To
 U+22Ex	⋠	⋡	⋢	⋣	⋤	⋥	⋦	⋧	⋨	⋩	⋪	⋫	⋬	⋭	⋮	⋯   # ⋮	Vertical Ellipsis, ⋯ Midline Horizontal Ellipses
                                           #   [hamburger cuz aka &vellip;]
-U+22Fx	⋰	⋱	⋲	⋳	⋴	⋵	⋶	⋷	⋸	⋹	⋺	⋻	⋼	⋽	⋾	⋿   # ⋰ Up Right Diag Ellpss, ⋼ Sm Contains w/ Vert Bar
-                                                                      at End of Horiz Stroke
+U+22Fx	⋰	⋱	⋲	⋳	⋴	⋵	⋶	⋷	⋸	⋹	⋺	⋻	⋼	⋽	⋾	⋿   # ⋰ Up Right Diag Ellipses, ⋼ Sm Contains w/ Vert Bar
+                                                                        at End of Horiz Stroke
 
 Supplemental Mathematical Operators
 https://en.wikipedia.org/wiki/Mathematical_operators_and_symbols_in_Unicode
