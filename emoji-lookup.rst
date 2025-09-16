@@ -3171,7 +3171,7 @@ https://en.wikipedia.org/wiki/Supplemental_Punctuation
 
 U+2E0x	⸀	⸁	⸂	⸃	⸄	⸅	⸆	⸇	⸈	⸉	⸊	⸋	⸌	⸍	⸎	⸏
 U+2E1x	⸐	⸑	⸒	⸓	⸔	⸕	⸖	⸗	⸘	⸙	⸚	⸛	⸜	⸝	⸞	⸟
-U+2E2x	⸠	⸡	⸢	⸣	⸤	⸥	⸦	⸧	⸨	⸩	⸪	⸫	⸬	⸭	⸮	ⸯ    # `npm` uses: ⸨	⸩ [double paranthesis] [dots: ⸪	⸫	⸬	⸭]
+U+2E2x	⸠	⸡	⸢	⸣	⸤	⸥	⸦	⸧	⸨	⸩	⸪	⸫	⸬	⸭	⸮	ⸯ    # `npm` uses: ⸨	⸩ [double parentheses] [dots: ⸪	⸫	⸬	⸭]
 U+2E3x	⸰	⸱	⸲	⸳	⸴	⸵	⸶	⸷	⸸	⸹	†	‡	⸼	⸽	⸾	⸿    # † 2M: ⸺
 U+2E4x	⹀	⹁	⹂	⹃	⹄	⹅	⹆	⹇	⹈	⹉                # ‡ 3M: ⸻
 
@@ -3370,7 +3370,7 @@ U+27Ex	⟠	⟡	⟢	⟣	⟤	⟥	⟦	⟧	⟨	⟩	⟪	⟫	⟬	⟭	⟮	⟯
 Miscellaneous Mathematical Symbols-B
 
 U+298x	⦀	⦁	⦂	⦃	⦄	⦅	⦆	⦇	⦈	⦉	⦊	⦋	⦌	⦍	⦎	⦏
-U+299x	⦐	⦑	⦒	⦓	⦔	⦕	⦖	⦗	⦘	⦙	⦚	⦛	⦜	⦝	⦞	⦟   # [⦗⦘ alternative parantheses]
+U+299x	⦐	⦑	⦒	⦓	⦔	⦕	⦖	⦗	⦘	⦙	⦚	⦛	⦜	⦝	⦞	⦟   # [⦗⦘ alternative parentheses]
 U+29Ax	⦠	⦡	⦢	⦣	⦤	⦥	⦦	⦧	⦨	⦩	⦪	⦫	⦬	⦭	⦮	⦯
 U+29Bx	⦰	⦱	⦲	⦳	⦴	⦵	⦶	⦷	⦸	⦹	⦺	⦻	⦼	⦽	⦾	⦿
 U+29Cx	⧀	⧁	⧂	⧃	⧄	⧅	⧆	⧇	⧈	⧉	⧊	⧋	⧌	⧍	⧎	⧏
