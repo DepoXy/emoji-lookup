@@ -73,7 +73,7 @@ face-tongue
 U+1F60B  😋  face savoring food - delicious | savouring | smile | yum | (silliness | sweetness | tasty | snack)
 U+1F61B  😛  face with tongue - (playful | silly | joke | joking)
 U+1F61C  😜  winking face with tongue - eye | joke | tongue | wink
-U+1F92A  🤪  zany face - eye | goofy | large | small
+U+1F92A  🤪  zany face - eye | goofy | large | small (（。々°）)
 U+1F61D  😝  squinting face with tongue - eye | horrible | taste | (silly | goofy | playful)
 U+1F911  🤑  money-mouth face - money mouth
 
