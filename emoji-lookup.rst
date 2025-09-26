@@ -3128,6 +3128,39 @@ Also possibly:
 
 Complete footnote marker hierarchy: ``* † ‡ § ‖ ¶ # ⌗ ♯ Δ ◊ ↓ ☞ ** †† ‡‡ §§ ‖‖ ¶¶ ## ⌗⌗ ♯♯ ΔΔ ◊◊ ↓↓ ☞☞``
 
+Other, non-ASCII punctuation:
+.. Some chars. I snipped from Python Docutils (and grouped):
+     from docutils.utils.punctuation_chars import delimiters
+- Unique Symbols: ⸎- ꡴  ꣸ ꧁  ꧍ ꧟ ꩜ ꫞ ꫟ 𐏐 𐡗 𐩿 ߷ ༒ ྅ ᥄ ᥅  ᨟ ᪭  〃 ៖ ᨟ ꧟ ꩜ 𐏐 𐡗
+- Wavy Lines: ﹌ 〽 〰 𐩘  ࿐  ၏  ៘  ៚  ᧞  ᧟  ᭚  〜 ꘏  ꤮  𑂼  
+- Stars: * ٭ ܀ ܍ ፨ ᛭᪦ ※ ⁑ ⁕ ꙳ ꥟ ＊ *aka asterisks*  ❇️ 🫟
+- Bullets: ᛫ ‧ ⁃ ⸰ ⸱ 𐬹 ・｡࠰ · ·࠾ ॰ ๏꙾꧞ '﹅﹆ ･ 𐄁 𐤟 𐤿 𐩐 𑂻
+- Other:  ⸛ ⸞ ⸟ ⸪ 𐬿  ჻ ﹟﹡﹪﹫
+- (Semi-)Colon: : ։ ׃ ︰፡ ：；; ﹔，
+- Linear: ︙ ߹  ៖ ᨞  𒑳  ⁞ ／ ﹉ ＼ 𒑳  
+- Plus signs: + ₊ ✚ ⁺ ╋ ✙ ⊹ ˖ ༝ ⊕ † ᪠  ⳾
+- Teenie Ampersand: ﹠
+- At: ＠
+- Exes: × 𓏵  ᛝ ✖  ♰ ᙭ ᙮ ᰿
+- Or: ᴼᴿ ↔️ 🇴 🇷  𑃁꣎ ꣏ ꤯ ꯫ ꩟ ꡷ । ॥ ᪨᰻ ᱾ ︲＇᱿
+- Exclamation and Question marks: ‼️⁉️⁇ ❓❔❕❗！¡ ¿ ？᠀ ⸮ 𒑰 ︖
+- Octothorpe: ＃
+- Percent symbol: ％
+- Equals: ᐀ ゠ ꓿
+- Caret: ꘍ ꣺  
+.. Subset of symbols from:
+     from docutils.utils.punctuation_chars import openers
+     from docutils.utils.punctuation_chars import closers
+- *Punctuation pairs (1/3)* aka *alternative parentheses*:
+  ( < [ { ༺ ༼ ᚛ ⁅ ⁽ ₍ 〈 ❨ ❪ ❬ ❮ ❰ ❲ ❴ ⟅ ⟦ ⟨ ⟪ ⟬ ⟮ ⦃ ⦅ ⦇ ⦉ ⦋ ⦍ ⦏ ⦑ ⦓ ⦕ ⦗ ⧘ ⧚
+  ) > ] } ༻ ༽ ᚜ ⁆ ⁾ ₎ 〉 ❩ ❫ ❭ ❯ ❱ ❳ ❵ ⟆ ⟧ ⟩ ⟫ ⟭ ⟯ ⦄ ⦆ ⦈ ⦊ ⦌ ⦎ ⦐ ⦒ ⦔ ⦖ ⦘ ⧙ ⧛
+- *Punctuation pairs (2/3)*:
+  ⧼ ⸢ ⸤ ⸦ ⸨ 〈 《 「 『 【 〔 〖 〘 〚 〝 〝 ‚ „ » ’ ” › ⸃ ⸅ ⸊ ⸍ ⸝ ⸡ ‛ ‟  ﴾
+  ⧽ ⸣ ⸥ ⸧ ⸩  〉 》 」 』 】 〕 〗 〙 〛 〞 〟‛ ‟ « ‘ “ ‹ ⸂ ⸄ ⸉ ⸌ ⸜ ⸠ ‚ „  ﴿
+- *Punctuation pairs (3/3)*:
+  ︗ ︵ ︷ ︹ ︻ ︽ ︿ ﹁ ﹃ ﹇ ﹙ ﹛ ﹝ （ ［ ｛ ｟ ｢ « ‘ “ ‹ ⸂ ⸄ ⸉ ⸌ ⸜ ⸠
+  ︘ ︶ ︸ ︺ ︼ ︾ ﹀ ﹂ ﹄ ﹈ ﹚ ﹜ ﹞ ） ］ ｝ ｠ ｣ » ’ ” › ⸃ ⸅ ⸊ ⸍ ⸝ ⸡
+
 - *The traditional order of these symbols in English is *, †, ‡, §, ‖, ¶.*
   †::
     Robert Bringhurst (2005). The Elements of Typographic Style (version 3.1). Point
@@ -3150,6 +3183,7 @@ Complete footnote marker hierarchy: ``* † ‡ § ‖ ¶ # ⌗ ♯ Δ ◊ ↓ �
         https://en.wikipedia.org/wiki/Note_(typography)#cite_note-3
           See usage in John Bach McMaster's *History of the People of the United States*.
           https://en.wikipedia.org/wiki/John_Bach_McMaster
+  - REFER: See *Mathematical* blocks below for more lots more symbols.
 
 ===========================================================================
 ─ General & Supplemental Punctuation ──────────────────────────────────────
@@ -3234,6 +3268,8 @@ U+21Fx	⇰	⇱	⇲	⇳	⇴	⇵	⇶	⇷	⇸	⇹	⇺	⇻	⇼	⇽	⇾	⇿
 Emoji variation sequences
 base+VS15 (text)	↔︎	↕︎	↖︎	↗︎	↘︎	↙︎	↩︎	↪︎
 base+VS16 (emoji)	↔️	↕️	↖️	↗️	↘️	↙️	↩️	↪️
+
+Other arrows: ꛷
 
 https://en.wikipedia.org/wiki/Arrow_(symbol)
 
@@ -3320,6 +3356,8 @@ Mathematical Operators
 https://en.wikipedia.org/wiki/Mathematical_Operators_(Unicode_block)
 https://www.compart.com/en/unicode/block/U+2200
 
+REFER: See also other *punctuation* §s.
+
 U+220x	∀	∁	∂	∃	∄	∅	∆	∇	∈	∉	∊	∋	∌	∍	∎	∏   # ∀ For All, ∃ There Exists, ∅ Empty Set (Null Sign), ∈ Elem of, ∋ Contains as Mmbr
 U+221x	∐	∑	−	∓	∔	∕	∖	∗	∘	∙	√	∛	∜	∝	∞	∟   # N-Ary Summation ∑, √ Square Root, ∝	Proportional, ∞ Inf, ∟ Right Angl
 U+222x	∠	∡	∢	∣	∤	∥	∦	∧	∨	∩	∪	∫	∬	∭	∮	∯   # ∠ Agl, ∥ Prllel To, Logcl ∧ And/∨ Or, ∩ Intrsctn, ∪ Union, ∫ Integral
@@ -3339,6 +3377,8 @@ U+22Ex	⋠	⋡	⋢	⋣	⋤	⋥	⋦	⋧	⋨	⋩	⋪	⋫	⋬	⋭	⋮	⋯   # ⋮	V
                                           #   [hamburger cuz aka &vellip;]
 U+22Fx	⋰	⋱	⋲	⋳	⋴	⋵	⋶	⋷	⋸	⋹	⋺	⋻	⋼	⋽	⋾	⋿   # ⋰ Up Right Diag Ellipses, ⋼ Sm Contains w/ Vert Bar
                                                                         at End of Horiz Stroke
+
+- REFER: See other *punctuation* through this file for related symbols.
 
 Supplemental Mathematical Operators
 https://en.wikipedia.org/wiki/Mathematical_operators_and_symbols_in_Unicode
@@ -3497,7 +3537,7 @@ U+1D7Fx	𝟰	𝟱	𝟲	𝟳	𝟴	𝟵	𝟶	𝟷	𝟸	𝟹	𝟺	𝟻	𝟼	𝟽	�
 ===========================================================================
 
 Miscellaneous Technical
-- ⌗ is *Viewdata square*, not octothorpe (and not a # that gets parsed by GitHub PR) (see also music symbol ♯)
+- ⌗ is *Viewdata square*, not octothorpe (and not a # that gets parsed by GitHub PR) (see also music symbol ♯ also whatever this is ＃)
 
 U+230x	⌀	⌁	⌂	⌃	⌄	⌅	⌆	⌇	⌈	⌉	⌊	⌋	⌌	⌍	⌎	⌏       # ⌀ Diameter symbol [similar to Scan. ltr Ø/ø, empty set ∅]
 U+231x	⌐	⌑	⌒	⌓	⌔	⌕	⌖	⌗	⌘	⌙	⌚	⌛	⌜	⌝	⌞	⌟
