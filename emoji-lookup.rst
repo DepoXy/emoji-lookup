@@ -1018,7 +1018,7 @@ U+1F69D  🚝  monorail - vehicle
 U+1F69E  🚞  mountain railway - car
 U+1F68B  🚋  tram car - trolleybus
 U+1F68C  🚌  bus - vehicle
-U+1F68D  🚍  oncoming bus - 
+U+1F68D  🚍  oncoming bus
 U+1F68E  🚎  trolleybus - bus | tram | trolley
 U+1F690  🚐  minibus - bus
 U+1F691  🚑  ambulance - vehicle
@@ -1031,17 +1031,17 @@ U+1F697  🚗  automobile - car
 U+1F698  🚘  oncoming automobile - car
 U+1F699  🚙  sport utility vehicle - recreational
 U+1F6FB  🛻  pickup truck - pick-up | ║ v13.0
-U+1F69A  🚚  delivery truck - 
+U+1F69A  🚚  delivery truck
 U+1F69B  🚛  articulated lorry - semi | truck
 U+1F69C  🚜  tractor - vehicle
 U+1F3CE  🏎️  racing car - 🏎️💨 ∦ 🏎
 U+1F3CD  🏍️  motorcycle - racing ∦ 🏍
-U+1F6F5  🛵  motor scooter - 
+U+1F6F5  🛵  motor scooter
 U+1F9BD  🦽  manual wheelchair - accessibility ║ v12.0
 U+1F9BC  🦼  motorized wheelchair - accessibility ║ v12.0
 U+1F6FA  🛺  auto rickshaw - tuk tuk ║ v12.0
 U+1F6B2  🚲  bicycle - bike
-U+1F6F4  🛴  kick scooter - 
+U+1F6F4  🛴  kick scooter
 U+1F6F9  🛹  skateboard - board ║ v11.0
 U+1F6FC  🛼  roller skate - ║ v13.0
 U+1F68F  🚏  bus stop - busstop
@@ -1106,7 +1106,7 @@ U+23F0   ⏰  alarm clock
 U+23F1†  ⏱️  stopwatch - clock | († U+23F1 U+FE0F) ∦ ⏱
 U+23F2†  ⏲️  timer clock - | († U+23F2 U+FE0F) ∦ ⏲
 U+1F570† 🕰️  mantelpiece clock | († U+1F570 U+FE0F) ∦ 🕰
-U+1F55B  🕛  twelve o’clock - 00 | 12 | 12:00 
+U+1F55B  🕛  twelve o’clock - 00 | 12 | 12:00
 U+1F567  🕧  twelve-thirty - 12 | 12:30
 U+1F550  🕐  one o’clock - 00 | 1 | 1:00
 U+1F55C  🕜  one-thirty - 1 | 1:30
@@ -1794,7 +1794,7 @@ U+1F4F4  📴  mobile phone off - cell | telephone
 gender
 ======
 
-U+2640†  ♀️  female sign - female sign | woman | († U+2640 U+FE0F) ∦ ♀ 
+U+2640†  ♀️  female sign - female sign | woman | († U+2640 U+FE0F) ∦ ♀
 U+2642†  ♂️  male sign - male sign | man | († U+2642 U+FE0F) ∦ ♂
 U+26A7†  ⚧️  transgender symbol - transgender | transgender symbol ║ v13.0 | († U+26A7 U+FE0F) ∦ ⚧
 
@@ -3132,7 +3132,7 @@ Other, non-ASCII punctuation:
 .. Some chars. I snipped from Python Docutils (and grouped):
      from docutils.utils.punctuation_chars import delimiters
 - Unique Symbols: ⸎- ꡴  ꣸ ꧁  ꧍ ꧟ ꩜ ꫞ ꫟ 𐏐 𐡗 𐩿 ߷ ༒ ྅ ᥄ ᥅  ᨟ ᪭  〃 ៖ ᨟ ꧟ ꩜ 𐏐 𐡗
-- Wavy Lines: ﹌ 〽 〰 𐩘  ࿐  ၏  ៘  ៚  ᧞  ᧟  ᭚  〜 ꘏  ꤮  𑂼  
+- Wavy Lines: ﹌ 〽 〰 𐩘  ࿐  ၏  ៘  ៚  ᧞  ᧟  ᭚  〜 ꘏  ꤮  𑂼
 - Stars: * ٭ ܀ ܍ ፨ ᛭᪦ ※ ⁑ ⁕ ꙳ ꥟ ＊ *aka asterisks*  ❇️ 🫟
 - Bullets: ᛫ ‧ ⁃ ⸰ ⸱ 𐬹 ・｡࠰ · ·࠾ ॰ ๏꙾꧞ '﹅﹆ ･ 𐄁 𐤟 𐤿 𐩐 𑂻
 - Other:  ⸛ ⸞ ⸟ ⸪ 𐬿  ჻ ﹟﹡﹪﹫
@@ -3147,7 +3147,7 @@ Other, non-ASCII punctuation:
 - Octothorpe: ＃
 - Percent symbol: ％
 - Equals: ᐀ ゠ ꓿
-- Caret: ꘍ ꣺  
+- Caret: ꘍ ꣺
 .. Subset of symbols from:
      from docutils.utils.punctuation_chars import openers
      from docutils.utils.punctuation_chars import closers
@@ -3681,7 +3681,7 @@ CRUMB: Exes: ╳ ✗ X x xxx
 ─ Powerline and Nerd Fonts Glyphs ─────────────────────────────────────────
 ===========================================================================
 
-U+E000  pom-clean_code 
+U+E000  pom-clean_code
         pom-pomodoro_done
         pom-pomodoro_estimated
         pom-pomodoro_ticking
@@ -3908,7 +3908,7 @@ U+2D3x	ⴰ	ⴱ	ⴲ	ⴳ	ⴴ	ⴵ	ⴶ	ⴷ	ⴸ	ⴹ	ⴺ	ⴻ	ⴼ	ⴽ	ⴾ	ⴿ
 U+2D4x	ⵀ	ⵁ	ⵂ	ⵃ	ⵄ	ⵅ	ⵆ	ⵇ	ⵈ	ⵉ	ⵊ	ⵋ	ⵌ	ⵍ	ⵎ	ⵏ   # prohibited/no: 🚫 ⵁ ⛌
 U+2D5x	ⵐ	ⵑ	ⵒ	ⵓ	ⵔ	ⵕ	ⵖ	ⵗ	ⵘ	ⵙ	ⵚ	ⵛ	ⵜ	ⵝ	ⵞ	ⵟ
 U+2D6x	ⵠ	ⵡ	ⵢ	ⵣ	ⵤ	ⵥ	ⵦ	ⵧ								ⵯ
-U+2D7x	⵰															  ⵿  
+U+2D7x	⵰															  ⵿
 
 ===========================================================================
 ─ Chinese, Japanese and Korean (CJK) Ideographs ───────────────────────────
