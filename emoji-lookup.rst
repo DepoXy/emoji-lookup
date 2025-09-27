@@ -1,4 +1,4 @@
-𝗨𝗡𝗜𝗖𝗢𝗗𝗘 𝗘𝗠𝗢𝗝𝗜 𝙫𝟭𝟱.𝟬 🙄 𝙇𝙊𝙊𝙆𝙐𝙋
+𝗨𝗡𝗜𝗖𝗢𝗗𝗘 𝗘𝗠𝗢𝗝𝗜 𝙫𝟭6.𝟬 🙄 𝙇𝙊𝙊𝙆𝙐𝙋
 
 .. Author: Landon Bouma <https://tallybark.com/> / 𝓛𝓪𝓷𝓭𝓸𝓷 𝓑𝓸𝓾𝓶𝓪
 .. Project: https://github.com/DepoXy/emoji-lookup#🙄
