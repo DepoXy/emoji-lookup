@@ -3070,7 +3070,7 @@ U+2023            ‣
 U+2024            ․  One Dot Leader - Use as an alternative to period (“.” → “․”)
 U+2025            ‥
 U+2026  0917      …  Horizontal ellipsis
-U+22EE            ⋮  Vertical ellipsis (also ⁝ ⁞ ⸽ ┆ ┇ ┊ ┋ ╎ ╏ ┆ ┇ ┊ ┋ )
+U+22EE            ⋮  Vertical ellipsis (also ⁝ ⁞ ⸽ ┆ ┇ ┊ ┋ ╎ ╏ ┆ ┇ ┊ ┋ ᎒ ⋮)
 U+2027            ‧
 U+2030  0918      ‰  Per mille sign (0/00)
 U+2031            ‱	 Basis point (0/000)
@@ -3137,14 +3137,14 @@ Other, non-ASCII punctuation:
 - Bullets: ᛫ ‧ ⁃ ⸰ ⸱ 𐬹 ・｡࠰ · ·࠾ ॰ ๏꙾꧞ '﹅﹆ ･ 𐄁 𐤟 𐤿 𐩐 𑂻
 - Other:  ⸛ ⸞ ⸟ ⸪ 𐬿  ჻ ﹟﹡﹪﹫
 - (Semi-)Colon: : ։ ׃ ︰፡ ：；; ﹔，
-- Linear: ︙ ߹  ៖ ᨞  𒑳  ⁞ ／ ﹉ ＼ 𒑳  
-- Plus signs: + ₊ ✚ ⁺ ╋ ✙ ⊹ ˖ ༝ ⊕ † ᪠  ⳾
+- Linear: ︙ ߹  ៖ ᨞  𒑳  ⁞ ／ ﹉ ＼ 𒑳  𓈈  🔗
+- Plus signs: + ₊ ✚ ⁺ ╋ ✙ ⊹ ˖ ༝ ⊕ † ᪠  ⳾ ⊞
 - Teenie Ampersand: ﹠
 - At: ＠
 - Exes: × 𓏵  ᛝ ✖  ♰ ᙭ ᙮ ᰿
 - Or: ᴼᴿ ↔️ 🇴 🇷  𑃁꣎ ꣏ ꤯ ꯫ ꩟ ꡷ । ॥ ᪨᰻ ᱾ ︲＇᱿
 - Exclamation and Question marks: ‼️⁉️⁇ ❓❔❕❗！¡ ¿ ？᠀ ⸮ 𒑰 ︖
-- Octothorpe: ＃
+- Octothorpe: ＃⌗ ♯
 - Percent symbol: ％
 - Equals: ᐀ ゠ ꓿
 - Caret: ꘍ ꣺
@@ -3183,7 +3183,8 @@ Other, non-ASCII punctuation:
         https://en.wikipedia.org/wiki/Note_(typography)#cite_note-3
           See usage in John Bach McMaster's *History of the People of the United States*.
           https://en.wikipedia.org/wiki/John_Bach_McMaster
-  - REFER: See *Mathematical* blocks below for more lots more symbols.
+  - REFER: See *Mathematical* blocks below for more lots more symbols,
+    also maybe *Shapes*.
 
 ===========================================================================
 ─ General & Supplemental Punctuation ──────────────────────────────────────
