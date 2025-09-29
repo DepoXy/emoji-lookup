@@ -269,7 +269,7 @@ U+1F4AB  💫  dizzy - comic | star
 U+1F4A6  💦  sweat droplets - comic | splashing | (water | spray)
 U+1F4A8  💨  dashing away - comic | dash | running [ wind | blow | gas | fart | smoke | 420]
 U+1F573  🕳  hole - (hide)
-U+1F4A3  💣  bomb - comic | (destroy)
+U+1F4A3  💣  bomb - comic | (destroy | spy vs. spy)
 U+1F4AC  💬  speech balloon - bubble | comic | dialog | (chat | text)
 U+1F5E8† 🗨️  left speech bubble - dialog | (chat) | († U+1F5E8 U+FE0F) ∦ 🗨
 U+1F5EF  🗯  right anger bubble - angry | balloon | bubble | mad
@@ -1170,7 +1170,7 @@ U+1F32C† 🌬️  wind face - blow | cloud | (felicio | blowjob)) | († U+1F3
 U+1F300  🌀  cyclone - dizzy | hurricane | twister | typhoon | (daydreaming | foggy | turbulent)
 U+1F308  🌈  rainbow - rain
 U+1F302  🌂  closed umbrella - clothing | rain
-U+2602†  ☂️  umbrella - clothing | rain | († U+2602 U+FE0F) ∦ ☂
+U+2602†  ☂️  umbrella - clothing | rain | († U+2602 U+FE0F) ∦ ☂  ☂︎ 
 U+2614   ☔  umbrella with rain drops - clothing | drop
 U+26F1†  ⛱️  umbrella on ground - rain | sun | († U+26F1 U+FE0F) ∦ ⛱
 U+26A1   ⚡  high voltage - danger | electric | lightning | zap | (lightening bolt)
@@ -1650,7 +1650,7 @@ other-object
 ============
 
 U+1F6AC  🚬  cigarette - cigarette | smoking
-U+26B0   ⚰️  coffin - coffin | death ∦ ⚰
+U+26B0   ⚰️  coffin - coffin | death | (casket) ∦ ⚰
 U+1FAA6  🪦  headstone - cemetery | grave | graveyard | headstone | tombstone | ✞ ║ v13.0
 U+26B1   ⚱️  funeral urn - ashes | death | funeral | urn ∦ ⚱
 U+1F5FF  🗿  moai - face | moai | moyai | statue | (stoned | high)
@@ -1683,7 +1683,7 @@ U+1F6C5  🛅  left luggage - baggage | locker
 warning
 =======
 
-U+26A0†  ⚠️  warning - (triangle alert with exclamation mark) | († U+26A0 U+FE0F) ∦ ⚠
+U+26A0†  ⚠️  warning - (yellow triangle alert w/ exclamation mark) | († U+26A0 U+FE0F) ∦ ⚠
 U+1F6B8  🚸  children crossing - child | pedestrian | traffic
 U+26D4   ⛔  no entry - forbidden | not | prohibited | traffic | (shut down | stop talking)
 U+1F6AB  🚫  prohibited - entry | forbidden | no | not | (canceled | cancelled)
@@ -1958,7 +1958,7 @@ U+1F53B  🔻  red triangle pointed down - geometric
 U+1F4A0  💠  diamond with a dot - comic | geometric | inside
 U+1F518  🔘  radio button - geometric
 U+1F532  🔲  black square button - geometric
-U+1F533  🔳  white square button - geometric | outlined
+U+1F533  🔳  white square button - geometric | outlined | (checkbox)
 
 #####
 Flags
@@ -3133,15 +3133,15 @@ Other, non-ASCII punctuation:
      from docutils.utils.punctuation_chars import delimiters
 - Unique Symbols: ⸎- ꡴  ꣸ ꧁  ꧍ ꧟ ꩜ ꫞ ꫟ 𐏐 𐡗 𐩿 ߷ ༒ ྅ ᥄ ᥅  ᨟ ᪭  〃 ៖ ᨟ ꧟ ꩜ 𐏐 𐡗
 - Wavy Lines: ﹌ 〽 〰 𐩘  ࿐  ၏  ៘  ៚  ᧞  ᧟  ᭚  〜 ꘏  ꤮  𑂼
-- Stars: * ٭ ܀ ܍ ፨ ᛭᪦ ※ ⁑ ⁕ ꙳ ꥟ ＊ *aka asterisks*  ❇️ 🫟
-- Bullets: ᛫ ‧ ⁃ ⸰ ⸱ 𐬹 ・｡࠰ · ·࠾ ॰ ๏꙾꧞ '﹅﹆ ･ 𐄁 𐤟 𐤿 𐩐 𑂻
+- Stars: * ٭ ܀ ܍ ፨ ᛭᪦ ※ ⁑ ⁕ ꙳ ꥟ ＊ *aka asterisks*  ❇️ 🫟 | ★ ☆ ⛤ ⛥ ⛦ ⛧	
+- Bullets: ᛫ ‧ ⁃ ⸰ ⸱ 𐬹 ・｡࠰ · ·࠾ ॰ ๏꙾꧞ '﹅﹆ ･ 𐄁 𐤟 𐤿 𐩐 𑂻 | ・[Digraph: ``.6``]
 - Other:  ⸛ ⸞ ⸟ ⸪ 𐬿  ჻ ﹟﹡﹪﹫
 - (Semi-)Colon: : ։ ׃ ︰፡ ：；; ﹔，
 - Linear: ︙ ߹  ៖ ᨞  𒑳  ⁞ ／ ﹉ ＼ 𒑳  𓈈  🔗
 - Plus signs: + ₊ ✚ ⁺ ╋ ✙ ⊹ ˖ ༝ ⊕ † ᪠  ⳾ ⊞
 - Teenie Ampersand: ﹠
 - At: ＠
-- Exes: × 𓏵  ᛝ ✖  ♰ ᙭ ᙮ ᰿
+- Exes: × 𓏵  ᛝ ✖  ♰ ᙭ ᙮ ᰿ | Checkboxing: ☐ ☑ ☒ ☓ | ⛒  🔳
 - Or: ᴼᴿ ↔️ 🇴 🇷  𑃁꣎ ꣏ ꤯ ꯫ ꩟ ꡷ । ॥ ᪨᰻ ᱾ ︲＇᱿
 - Exclamation and Question marks: ‼️⁉️⁇ ❓❔❕❗！¡ ¿ ？᠀ ⸮ 𒑰 ︖
 - Octothorpe: ＃⌗ ♯
