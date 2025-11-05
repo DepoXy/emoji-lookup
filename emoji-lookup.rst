@@ -3270,7 +3270,7 @@ Emoji variation sequences
 base+VS15 (text)	↔︎	↕︎	↖︎	↗︎	↘︎	↙︎	↩︎	↪︎
 base+VS16 (emoji)	↔️	↕️	↖️	↗️	↘️	↙️	↩️	↪️
 
-Other arrows: ꛷
+Other arrows: ꛷ 🮰 🯊 [chevron]
 
 https://en.wikipedia.org/wiki/Arrow_(symbol)
 
@@ -3348,6 +3348,25 @@ U+1F8Cx
 U+1F8Dx																
 U+1F8Ex																
 U+1F8Fx													
+
+Symbols for Legacy Computing[1][2]
+ 	      0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F
+U+1FB0x	🬀	🬁	🬂	🬃	🬄	🬅	🬆	🬇	🬈	🬉	🬊	🬋	🬌	🬍	🬎	🬏
+U+1FB1x	🬐	🬑	🬒	🬓	🬔	🬕	🬖	🬗	🬘	🬙	🬚	🬛	🬜	🬝	🬞	🬟
+U+1FB2x	🬠	🬡	🬢	🬣	🬤	🬥	🬦	🬧	🬨	🬩	🬪	🬫	🬬	🬭	🬮	🬯
+U+1FB3x	🬰	🬱	🬲	🬳	🬴	🬵	🬶	🬷	🬸	🬹	🬺	🬻	🬼	🬽	🬾	🬿
+U+1FB4x	🭀	🭁	🭂	🭃	🭄	🭅	🭆	🭇	🭈	🭉	🭊	🭋	🭌	🭍	🭎	🭏
+U+1FB5x	🭐	🭑	🭒	🭓	🭔	🭕	🭖	🭗	🭘	🭙	🭚	🭛	🭜	🭝	🭞	🭟
+U+1FB6x	🭠	🭡	🭢	🭣	🭤	🭥	🭦	🭧	🭨	🭩	🭪	🭫	🭬	🭭	🭮	🭯
+U+1FB7x	🭰	🭱	🭲	🭳	🭴	🭵	🭶	🭷	🭸	🭹	🭺	🭻	🭼	🭽	🭾	🭿
+U+1FB8x	🮀	🮁	🮂	🮃	🮄	🮅	🮆	🮇	🮈	🮉	🮊	🮋	🮌	🮍	🮎	🮏
+U+1FB9x	🮐	🮑	🮒		🮔	🮕	🮖	🮗	🮘	🮙	🮚	🮛	🮜	🮝	🮞	🮟
+U+1FBAx	🮠	🮡	🮢	🮣	🮤	🮥	🮦	🮧	🮨	🮩	🮪	🮫	🮬	🮭	🮮	🮯
+U+1FBBx	🮰	🮱	🮲	🮳	🮴	🮵	🮶	🮷	🮸	🮹	🮺	🮻	🮼	🮽	🮾	🮿
+U+1FBCx	🯀	🯁	🯂	🯃	🯄	🯅	🯆	🯇	🯈	🯉	🯊	🯋	🯌	🯍	🯎	🯏
+U+1FBDx	🯐	🯑	🯒	🯓	🯔	🯕	🯖	🯗	🯘	🯙	🯚	🯛	🯜	🯝	🯞	🯟
+U+1FBEx	🯠	🯡	🯢	🯣	🯤	🯥	🯦	🯧	🯨	🯩	🯪	🯫	🯬	🯭	🯮	🯯
+U+1FBFx	🯰	🯱	🯲	🯳	🯴	🯵	🯶	🯷	🯸	🯹	🯺					
 
 ===========================================================================
 ─ Mathematical Operators & Symbols ────────────────────────────────────────
