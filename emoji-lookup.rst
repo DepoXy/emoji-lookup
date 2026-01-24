@@ -3317,6 +3317,12 @@ U+2BDx	⯐	⯑	⯒	⯓	⯔	⯕	⯖	⯗	⯘	⯙	⯚	⯛	⯜	⯝	⯞	⯟
 U+2BEx	⯠	⯡	⯢	⯣	⯤	⯥	⯦	⯧	⯨	⯩	⯪	⯫	⯬	⯭	⯮	⯯
 U+2BFx	⯰	⯱	⯲	⯳	⯴	⯵	⯶	⯷	⯸	⯹	⯺	⯻	⯼	⯽	⯾	⯿
 
+Hard drive & Files/Folders/Storage: C:\: 🗄️ 🗃️ 📁 📂 🗂️ 📄 📋 🧾 🗒 📑 📚 📖 📜 | 💼 🎒
+                                         ☁️ 💻 🖥️ 💽 💾 💿 📀 📼 🛡️ 🪨🧠 🏭 🌮 🧺 🕳️ 🧲 🗑️ 📦 🛢 🌐 🧱 
+    (↑↑↑↑↑ or sorta thereof)             | ⯳ ⯶ ⛁ ⛃ 🖴️ 🖧 🗁 🫙| 𒅒   𒈔   𒅒   𒇫   𒄆  | FA:     
+
+Bar code: 𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃
+
 -------
 
 Supplemental Arrows-A
