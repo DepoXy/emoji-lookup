@@ -267,7 +267,7 @@ U+1F4A2  💢  anger symbol - angry | comic | mad
 U+1F4A5  💥  collision - boom | comic | (destroy)
 U+1F4AB  💫  dizzy - comic | star
 U+1F4A6  💦  sweat droplets - comic | splashing | (water | spray)
-U+1F4A8  💨  dashing away - comic | dash | running [ wind | blow | gas | fart | smoke | 420]
+U+1F4A8  💨  dashing away - comic | dash | running [ wind | blow | gas | fart | smoke | 420 | exhale | whistle]
 U+1F573  🕳  hole - (hide)
 U+1F4A3  💣  bomb - comic | (destroy | spy vs. spy)
 U+1F4AC  💬  speech balloon - bubble | comic | dialog | (chat | text)
