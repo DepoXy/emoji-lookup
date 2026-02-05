@@ -135,7 +135,7 @@ U+1F927  🤧  sneezing face - gesundheit | sneeze
 U+1F975  🥵  hot face - feverish | heat stroke | red-faced | sweating ║ v11.0
 U+1F976  🥶  cold face - blue-faced | freezing | frostbite | icicles ║ v11.0
 U+1F974  🥴  woozy face - dizzy | intoxicated | tipsy | uneven eyes | wavy mouth
-                      | (sleepy | confused | stoned | high) ║ v11.0
+                      | (sleepy | confused | stoned | high | drunk) ║ v11.0
 U+1F635  😵  dizzy face
 U+1F92F  🤯  exploding head - shocked | (destroy)
 
