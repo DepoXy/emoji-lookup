@@ -3112,7 +3112,7 @@ U+201E  0913      „  Double low-9 quotation mark
 U+201F            ‟
 U+2020  0914      †  Dagger
 U+2021  0915      ‡  Double dagger
-U+2022  0916      •  Bullet
+U+2022  0916      •  Bullet (Bullets)
 U+2023            ‣
 U+2024            ․  One Dot Leader - Use as an alternative to period (“.” → “․”)
 U+2025            ‥
@@ -3148,8 +3148,8 @@ U+2048            ⁈  Interrobang/interabang
 U+2049            ⁉  Interrobang/interabang
 U+204A  0926      ⁊  Tironian et sign
 U+204B            ⁋  Pilcrow aka paragraph mark/sign/symbol, the paraph, the blind P
-U+204C            ⁌  Bullet
-U+204D            ⁍  Bullet
+U+204C            ⁌  Bullet (Bullets)
+U+204D            ⁍  Bullet (Bullets)
 U+204E            ⁎  Asterisk
 U+204F            ⁏  Semicolon
 U+205X               See table below: ⁐ ⁑ ⁒ ⁓ ⁔ ⁕ ⁖ ⁗ ⁘ ⁙ ⁚ ⁛ ⁜ ⁝ ⁞
@@ -3158,7 +3158,7 @@ Footnote marker hierarchy: ``* † ‡ § ‖ ¶``
 - ``*`` Asterisk/Star
 - ``†`` Obelisk/Dagger/Obelus
 - ``‡`` Double Dagger/Diesis
-- ``§`` Section Sign
+- ``§`` Section Sign aka Silcrow
 - ``‖`` Translingual/Double Vertical Line
 - ``¶`` Paragraph sign/blind P/pilcrow
 Also possibly:
