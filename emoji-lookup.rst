@@ -2933,6 +2933,35 @@ notes (or wherever you can ensure FA is installed).
 https://fontawesome.com/search
 https://fontawesome.com/search?ic=free-collection
 
+===========================================================================
+─ Emoji Thesaurus (Emoji Lookup & Synonym Search)  ────────────────────────
+===========================================================================
+
+REFER: Searching for emoji is often not straightforward, but thankfully
+there's an "emoji thesaurus", of sorts:
+https://emojicombos.com/
+
+- E.g., here's a collection of symbols commonly used for birthday messages
+  (though oddly missing "birthday cake"!, which author added, along with
+   a few other symbols):
+
+        🌟。💕。🤗 🍀
+        。🎁 。🎉  🍾 🌟
+        ✨。＼｜／。🌺
+         🎉  Happy  🥰 🎈
+        🍸 Birthday ! 🥂
+        💜。／｜＼。💎
+        。🍀。 🌹。🎉。
+         🌟。 😊。 🎶
+    🎂  🍰  🧁  🧸  🎀  ✨
+    🎉  ✨  🥳  ✴︎   🥂  🍾
+    🖇️  🫂  🎀  💌  💓  🌷
+    💖  🎂  💗  ✨  🍫  🎁
+    ❤️  🫂  🌍  👑  🤌🏻  🥹
+
+- THANX: https://emojicombos.com/birthday
+- CRUMB: *Synonymish*: birthday, party, heart, hug, love, celebrate, gift, present.
+
 ###########################################################################
 ───────────────────────────────────────────────────────────────────────────
 ###########################################################################
