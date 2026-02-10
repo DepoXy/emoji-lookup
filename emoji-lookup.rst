@@ -2915,6 +2915,24 @@ variation selector, e.g., U+1F637 U+FE0E (😷︎), and  U+1F637 U+FE0F (😷️
   - *Emoji vs. Text Presentation*
     https://character.construction/emoji-vs-text
 
+===========================================================================
+─ Font Awesome icons ──────────────────────────────────────────────────────
+===========================================================================
+
+REFER: You might enjoy using Font Awesome icons for websites and your own
+notes (or wherever you can ensure FA is installed).
+
+- Here's a sample of some Font Awesome glyphs [note these won't render
+  everywhere, e.g., if you're viewing this file on GitHub]:
+
+  -  Checkbox
+  -  Clock
+  -  Globe
+  -  Angle down
+
+https://fontawesome.com/search
+https://fontawesome.com/search?ic=free-collection
+
 ###########################################################################
 ───────────────────────────────────────────────────────────────────────────
 ###########################################################################
