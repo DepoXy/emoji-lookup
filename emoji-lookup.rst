@@ -3178,6 +3178,10 @@ Also possibly:
 
 Complete footnote marker hierarchy: ``* † ‡ § ‖ ¶ # ⌗ ♯ Δ ◊ ↓ ☞ ** †† ‡‡ §§ ‖‖ ¶¶ ## ⌗⌗ ♯♯ ΔΔ ◊◊ ↓↓ ☞☞``
 
+Some other marks you could use:
+| Glyph  Di | Glyph  Di | Glyph  Di | Glyph  Di | Glyph  Di | Glyph  Di | Glyph  Di | Glyph  Di |
+|     ∫  In |     ∬  DI |     ∮  Io |     ∧  AN |     ∨  OR |     ∩  (U |     ∪  )U |     ∷  :: |
+
 Other, non-ASCII punctuation:
 .. Some chars. I snipped from Python Docutils (and grouped):
      from docutils.utils.punctuation_chars import delimiters
