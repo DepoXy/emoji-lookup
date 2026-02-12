@@ -3096,63 +3096,66 @@ Main article: Unicode symbols
 https://en.wikipedia.org/wiki/List_of_Unicode_characters#Unicode_symbols
 https://en.wikipedia.org/wiki/List_of_Unicode_characters#General_Punctuation
 
-Code    #     Glyph  Description
-U+2013  0903      –  En dash
-U+2014  0904      —  Em dash
-U+2015  0905      ―  Horizontal bar
-U+2016            ‖  Double vertical bar, aka Sheffer strokes, pipes, bars, vbars, etc.
-U+2017  0906      ‗  Double low line
-U+2018  0907      ‘  Left single quotation mark
-U+2019  0908      ’  Right single quotation mark
-U+201A  0909      ‚  Single low-9 quotation mark
-U+201B  0910      ‛  Single high-reversed-9 quotation mark
-U+201C  0911      “  Left double quotation mark
-U+201D  0912      ”  Right double quotation mark
-U+201E  0913      „  Double low-9 quotation mark
-U+201F            ‟
-U+2020  0914      †  Dagger
-U+2021  0915      ‡  Double dagger
-U+2022  0916      •  Bullet (Bullets)
+Code    #     Glyph  Di  Description
+U+2013  0903      –  -N  En dash
+U+2014  0904      —  -M  Em dash
+U+2015  0905      ―  -3  Horizontal bar
+U+2016            ‖  !2  Double vertical bar, aka Sheffer strokes, pipes, bars, vbars, etc.
+U+2017  0906      ‗  =2  Double low line
+U+2018  0907      ‘  '6  Left single quotation mark
+U+2019  0908      ’  '9  Right single quotation mark
+U+201A  0909      ‚  .9  Single low-9 quotation mark
+U+201B  0910      ‛  9'  Single high-reversed-9 quotation mark
+U+201C  0911      “  "6  Left double quotation mark
+U+201D  0912      ”  "9  Right double quotation mark
+U+201E  0913      „  :9  Double low-9 quotation mark
+U+201F            ‟  9"
+U+2020  0914      †  /-  Dagger
+U+2021  0915      ‡  /=  Double dagger
+U+2022  0916      •      Bullet (Bullets)
 U+2023            ‣
-U+2024            ․  One Dot Leader - Use as an alternative to period (“.” → “․”)
-U+2025            ‥
-U+2026  0917      …  Horizontal ellipsis
-U+22EE            ⋮  Vertical ellipsis (also ⁝ ⁞ ⸽ ┆ ┇ ┊ ┋ ╎ ╏ ┆ ┇ ┊ ┋ ᎒ ⋮)
+U+2024            ․      One Dot Leader - Use as an alternative to period (“.” → “․”)
+U+2025            ‥  ..
+U+2026  0917      …  ,.  Horizontal ellipsis
+U+22EE            ⋮  ,.  Vertical ellipsis (also ⁝ ⁞ ⸽ ┆ ┇ ┊ ┋ ╎ ╏ ┆ ┇ ┊ ┋ ᎒ ⋮)
 U+2027            ‧
-U+2030  0918      ‰  Per mille sign (0/00)
-U+2031            ‱	 Basis point (0/000)
-U+2032  0919      ′  Prime
-U+2033  0920      ″  Double prime
-U+2034            ‴  Triple prime (See also: ⁗ quadruple prime symbol)
-U+2035            ‵  Prime
-U+2036            ‶  Double prime
-U+2037            ‷  Triple prime (See also: ⁗ quadruple prime symbol)
-U+2038            ‸  Caret, a V-shaped grapheme
-U+2039  0921      ‹  Single left-pointing angle quotation mark
-U+203A  0922      ›  Single right-pointing angle quotation mark
-                     └→ Aka "Single" Guillemets: ‹ and › / See also « Guillemets »
-U+203B            ※  Reference mark, or Reference symbol
-U+203C  0923      ‼  Double exclamation mark
-U+203D            ‽  Interrobang, aka interabang; also ⁈ and ⁉
-U+203E  0924      ‾  Overline, overscore, or overbar
-U+203F            ‿  Tie
-U+2040            ⁀  Tie
-U+2041            ⁁  Caret
-U+2042            ⁂  Asterism
-U+2043            ⁃  Hyphen
-U+2044  0925      ⁄  Fraction slash, Slash, Stroke, Solidus, Forward slash
-U+2045            ⁅  Bracket
-U+2046            ⁆  Bracket
-U+2047            ⁇  Two question marks
-U+2048            ⁈  Interrobang/interabang
-U+2049            ⁉  Interrobang/interabang
-U+204A  0926      ⁊  Tironian et sign
-U+204B            ⁋  Pilcrow aka paragraph mark/sign/symbol, the paraph, the blind P
-U+204C            ⁌  Bullet (Bullets)
-U+204D            ⁍  Bullet (Bullets)
-U+204E            ⁎  Asterisk
-U+204F            ⁏  Semicolon
-U+205X               See table below: ⁐ ⁑ ⁒ ⁓ ⁔ ⁕ ⁖ ⁗ ⁘ ⁙ ⁚ ⁛ ⁜ ⁝ ⁞
+U+2030  0918      ‰  %0  Per mille sign (0/00)
+U+2031            ‱	     Basis point (0/000)
+U+2032  0919      ′  1'  Prime
+U+2033  0920      ″  2'  Double prime
+U+2034            ‴  3'  Triple prime (See also: ⁗ quadruple prime symbol)
+U+2035            ‵  1"  Prime
+U+2036            ‶  2"  Double prime
+U+2037            ‷  3"  Triple prime (See also: ⁗ quadruple prime symbol)
+U+2038            ‸  Ca  Caret, a V-shaped grapheme
+U+2039  0921      ‹  <1  Single left-pointing angle quotation mark
+U+203A  0922      ›  >1  Single right-pointing angle quotation mark
+                         └→ Aka "Single" Guillemets: ‹ and › / See also « Guillemets »
+U+203B            ※  :X  Reference mark, or Reference symbol
+U+203C  0923      ‼      Double exclamation mark
+U+203D            ‽      Interrobang, aka interabang; also ⁈ and ⁉
+U+203E  0924      ‾  '-  Overline, overscore, or overbar
+U+203F            ‿      Tie
+U+2040            ⁀      Tie
+U+2041            ⁁      Caret
+U+2042            ⁂      Asterism
+                         └→ ∴ via Digraph: ``.:`` | Also: ∵ ``:.``
+U+2043            ⁃      Hyphen
+U+2044  0925      ⁄  /f  Fraction slash, Slash, Stroke, Solidus, Forward slash
+U+2045            ⁅      Bracket
+U+2046            ⁆      Bracket
+U+2047            ⁇      Two question marks
+U+2048            ⁈      Interrobang/interabang
+U+2049            ⁉      Interrobang/interabang
+U+204A  0926      ⁊      Tironian et sign
+U+204B            ⁋      Pilcrow aka paragraph mark/sign/symbol, the paraph, the blind P
+                         └→ ¶ via Digraph — ``PI`` or ``pp``
+U+204C            ⁌      Bullet (Bullets)
+U+204D            ⁍      Bullet (Bullets)
+                         └→ ・ via Digraph — ``.6``
+U+204E            ⁎      Asterisk
+U+204F            ⁏      Semicolon
+U+205X                   See table below: ⁐ ⁑ ⁒ ⁓ ⁔ ⁕ ⁖ ⁗ ⁘ ⁙ ⁚ ⁛ ⁜ ⁝ ⁞
 
 Footnote marker hierarchy: ``* † ‡ § ‖ ¶``
 - ``*`` Asterisk/Star
