@@ -3331,6 +3331,8 @@ U+21Dx	⇐	⇑	⇒	⇓	⇔	⇕	⇖	⇗	⇘	⇙	⇚	⇛	⇜	⇝	⇞	⇟
 U+21Ex	⇠	⇡	⇢	⇣	⇤	⇥	⇦	⇧	⇨	⇩	⇪	⇫	⇬	⇭	⇮	⇯
 U+21Fx	⇰	⇱	⇲	⇳	⇴	⇵	⇶	⇷	⇸	⇹	⇺	⇻	⇼	⇽	⇾	⇿
 
+(Neo)vim solid triangle arrow digraphs: │ UT ▲ │ Dt ▼ │ PR ▶ │ PL ◀ │
+
 Emoji variation sequences
 base+VS15 (text)	↔︎	↕︎	↖︎	↗︎	↘︎	↙︎	↩︎	↪︎
 base+VS16 (emoji)	↔️	↕️	↖️	↗️	↘️	↙️	↩️	↪️
