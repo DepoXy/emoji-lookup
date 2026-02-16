@@ -4285,6 +4285,7 @@ USAGE:
   - This could be useful if you use leading spaces in a reSTfold header
       https://github.com/landonb/vim-reSTfold#🙏
     E.g.,::
+
       #######################################################
          ← 3 em spaces cause ``\\#`` to over/underline prefix
       #######################################################
@@ -4302,7 +4303,7 @@ Digraph Table
 
 REFER: ``:help digraph``
 
-Digraphs::
+Digraphs:
 
 ░│NU  ^@     10│░│SH  ^A      1│░│SX  ^B      2│░│EX  ^C      3│░│ET  ^D      4│░│EQ  ^E      5│░│AK  ^F      6│
 ░│BL  ^G      7│░│BS  ^H      8│░│HT  ^I      9│░│LF  ^@     10│░│VT  ^K     11│░│FF  ^L     12│░│CR  ^M     13│
