@@ -3134,7 +3134,11 @@ U+203A  0922      ›  >1  Single right-pointing angle quotation mark
 U+203B            ※  :X  Reference mark, or Reference symbol
 U+203C  0923      ‼      Double exclamation mark
 U+203D            ‽      Interrobang, aka interabang; also ⁈ and ⁉
-U+203E  0924      ‾  '-  Overline, overscore, or overbar
+U+203E  0924      ‾  '-  Overline‾, overscore, or overbar                                     ‾‾‾‾
+U+00AF            ¯  'm  ├→ Macron                                                            ¯¯¯¯
+U+005F            _      ├→ Low line (&lowbar; &UnderBar;), Underscore, Underline, Low dash   ____
+U+2017            ‗  =2  ├→ Double low line [No opp.; U+033F Combining Double overline: ◌̿]    ‗‗‗‗
+U+FF3F            ＿     └→ Fullwidth low line [2 ch. widths]                                 ＿＿
 U+203F            ‿      Tie
 U+2040            ⁀      Tie
 U+2041            ⁁      Caret
