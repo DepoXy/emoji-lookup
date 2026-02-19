@@ -1841,7 +1841,7 @@ U+1F531  🔱  trident emblem - anchor | ship | tool
 U+1F4DB  📛  name badge
 U+1F530  🔰  Japanese symbol for beginner - chevron | leaf
 U+2B55   ⭕  hollow red circle - large | o
-U+2705   ✅  check mark button - ✓ | (checkmark)
+U+2705   ✅  check mark button - ✓ | (checkmark | cmp: 🔳 unchecked box) 
 U+2611†  ☑️  check box with check - ✓ | (checkbox) | († U+2611 U+FE0F) ∦ ☑
 U+2714†  ✔️  check mark - ✓ | (checkmark) | († U+2714 U+FE0F) ∦ ✔
 U+274C   ❌  cross mark - × | cancel | multiplication | multiply | x
