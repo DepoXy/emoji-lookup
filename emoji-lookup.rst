@@ -3163,11 +3163,11 @@ U+205X                   See table below: ⁐ ⁑ ⁒ ⁓ ⁔ ⁕ ⁖ ⁗ ⁘ �
 
 Footnote marker hierarchy: ``* † ‡ § ‖ ¶``
 - ``*`` Asterisk/Star
-- ``†`` Obelisk/Dagger/Obelus
-- ``‡`` Double Dagger/Diesis
-- ``§`` Section Sign aka Silcrow
-- ``‖`` Translingual/Double Vertical Line
-- ``¶`` Paragraph sign/blind P/pilcrow
+- ``†`` Obelisk/Dagger/Obelus             [†: ``/-``]
+- ``‡`` Double Dagger/Diesis              [‡: ``/=``]
+- ``§`` Section Sign aka Silcrow          [§: ``SE``]
+- ``‖`` Translingual/Double Vertical Line [‖: ``!2``]
+- ``¶`` Paragraph sign/blind P/pilcrow    [¶: ``pp``, or ``PI``]
 Also possibly:
 - ``#`` Number/Pound Sign / Hash/Hash mark / Hashtag / Hex / Octothorp/Octothorpe/Octathorp/Octatherp / Sharp
   - Not to be confused with the *Viewdata square* ``⌗``
@@ -3175,10 +3175,10 @@ Also possibly:
     garden fence, garden gate, gate, grid, hak, mesh, oof, pig-pen, punch mark,
     rake, scratch, scratch mark, tic-tac-toe, and unequal*
       https://en.wikipedia.org/wiki/Number_sign
-- ``Δ`` Delta
-- ``◊`` Lozenge/Diamond
-- ``↓`` Downwards Arrow
-- ``☞`` White Right Pointing Index
+- ``Δ`` Delta                             [Δ: ``D*``]
+- ``◊`` Lozenge/Diamond                   [◊: ``LZ`` (as in LoZenge)]
+- ``↓`` Downwards Arrow                   [↓: ``-v``]
+- ``☞`` White Right Pointing Index        [☞: ``>H``, ☜: ``<H`` ("H" as in "Hand")]
 
 Complete footnote marker hierarchy: ``* † ‡ § ‖ ¶ # ⌗ ♯ Δ ◊ ↓ ☞ ** †† ‡‡ §§ ‖‖ ¶¶ ## ⌗⌗ ♯♯ ΔΔ ◊◊ ↓↓ ☞☞``
 
