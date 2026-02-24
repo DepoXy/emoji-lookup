@@ -2218,7 +2218,7 @@ U+1F46F U+200D U+2642 U+FE0F  👯‍♂️  men with bunny ears - bunny ear | d
 U+1F46F U+200D U+2640 U+FE0F  👯‍♀️  women with bunny ears - bunny ear | dancer | partying | women | women with bunny ears
 U+1F9D6                       🧖  person in steamy room - person in steamy room | sauna | steam room | hamam | steambath
 U+1F9D6 U+200D U+2642 U+FE0F  🧖‍♂️  man in steamy room - man in steamy room | sauna | steam room
-U+1F9D6 U+200D U+2640 U+FE0F  🧖‍♀️  woman in steamy room - sauna | steam room | woman in steamy room
+U+1F9D6 U+200D U+2640 U+FE0F  🧖‍♀️  woman in steamy room - sauna | steam room | woman in steamy room (🧖🏻‍♀️)
 U+1F9D7                       🧗  person climbing - climber | person climbing
 U+1F9D7 U+200D U+2642 U+FE0F  🧗‍♂️  man climbing - climber | man climbing
 U+1F9D7 U+200D U+2640 U+FE0F  🧗‍♀️  woman climbing - climber | woman climbing
