@@ -4144,6 +4144,8 @@ CXREF: https://github.com/dysfunc/ascii-emoji
   shy:                        (๑•́ ₃ •̀๑)
   sleepy:                     눈_눈
   smiley-toast:               ʕʘ̅͜ʘ̅ʔ
+  smirk [via emojicombos.com  (¬‿¬)凸 [!?] ‖ ¬‿¬ ‖ ( ͡° ͜ʖ ͡°) ‖ ツ ‖ ( • ᴗ - ) ✧ ‖ (☞ ͡° ͜ʖ ͡°)☞
+               /smirk-ascii]    ‖ ( ≖‿  ≖ ) ‖ ( ＾◡＾)っ✂ ╰⋃╯ [!?] ‖ (╥﹏╥) ‖ 𓁹‿𓁹  ‖ („• ֊ •„)
   squinting-bear:             ʕᵔᴥᵔʔ
   staring:                    ٩(๏_๏)۶
   stranger-danger:            (づ｡◕‿‿◕｡)づ
