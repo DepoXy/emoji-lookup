@@ -4073,7 +4073,7 @@ CXREF: https://github.com/dysfunc/ascii-emoji
   confused-scratch:           (⊙.☉)7
   confused:                   ¿ⓧ_ⓧﮌ
   crazy:                      ミ●﹏☉ミ
-  creeper:                    ƪ(ړײ)‎ƪ​​
+  creeper:                    ƪ(ړײ)ƪ
   cry-face:                   ｡ﾟ( ﾟஇ‸இﾟ)ﾟ｡
   crying-face:                ಥ_ಥ
   cry-troll:                  ༼ ༎ຶ ෴ ༎ຶ༽
@@ -4082,12 +4082,12 @@ CXREF: https://github.com/dysfunc/ascii-emoji
   dab:                        ヽ( •_)ᕗ
   dance:                      ♪♪ ヽ(ˇ∀ˇ )ゞ
   dancing:                    ┌(ㆆ㉨ㆆ)ʃ
-  dear-god-why:               щ（ﾟДﾟщ）
+  dear-god-why:               щ（ﾟДﾟ щ）
   devious-smile:              ಠ‿ಠ
   disagree:                   ٩◔̯◔۶
   discombobulated:            ⊙﹏⊙
   dislike:                    ( ಠ ʖ̯ ಠ)
-  double-Flip:                ┻━┻ ︵ヽ(`Д´)ﾉ︵﻿ ┻━┻
+  double-Flip:                ┻━┻ ︵ヽ(`Д´)ﾉ︵ ┻━┻
   do-you-even-lift-bro?:      ᕦ(ò_óˇ)ᕤ
   emo-dance:                  ヾ(-_- )ゞ
   excited:                    ☜(⌒▽⌒)☞
@@ -4126,9 +4126,9 @@ CXREF: https://github.com/dysfunc/ascii-emoji
   no-support:                 乁( ◔ ౪◔)「           ┑(￣Д ￣)┍
   opera:                      ヾ(´〇`)ﾉ♪♪♪
   peepers:                    ಠಠ
-  pointing:                   (☞ﾟヮﾟ)☞
+  pointing:                   (☞ﾟ ヮﾟ)☞
   pretty-eyes:                ఠ_ఠ
-  put-the-table-back:         ┬─┬﻿ ノ( ゜-゜ノ)
+  put-the-table-back:         ┬─┬ ノ( ゜-゜ノ)
   questionable:               (Ծ‸ Ծ)
   reddit-disapproval-face:    ಠ_ಠ
   resting-my-eyes:            ᴖ̮ ̮ᴖ
@@ -4164,7 +4164,7 @@ CXREF: https://github.com/dysfunc/ascii-emoji
   wave-dance:                 ~(^-^)~
   whistling:                  (っ•́｡•́)♪♬
   winnie-the-pooh:            ʕ •́؈•̀)                ʕ •́؈•̀ ₎
-  winning:                    (•̀ᴗ•́)و ̑̑
+  winning:                    (•̀ᴗ•́)و
   wizard:                     (∩｀-´)⊃━☆ﾟ.*･｡ﾟ
   worried:                    (´･_･`)
   yum:                        (っ˘ڡ˘ς)
