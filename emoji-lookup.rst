@@ -3207,10 +3207,11 @@ Other, non-ASCII punctuation:
 - Other:  ⸛ ⸞ ⸟ ⸪ 𐬿  ჻ ﹟﹡﹪﹫
 - (Semi-)Colon: : ։ ׃ ︰፡ ：；; ﹔，
 - Linear: ︙ ߹  ៖ ᨞  𒑳  ⁞ ／ ﹉ ＼ 𒑳  𓈈  🔗
-- Plus signs: + ₊ ✚ ⁺ ╋ ✙ ⊹ ˖ ༝ ⊕ † ᪠  ⳾ ⊞
+- Plus signs: + ₊ ✚ ⁺ ╋ ✙ ⊹ ˖ ⊕ † ᪠  ⳾ ⊞
 - Teenie Ampersand: ﹠
 - At: ＠
-- Exes: × 𓏵  ᛝ ✖  ♰ ᙭ ᙮ ᰿ | Checkboxing: ☐ ☑ ☒ ☓ | ⛒  🔳
+- Exes: × 𓏵  ᛝ ✖  ♰ ᙭ ᙮ ᰿  ༝ ༞ | ox|xo: ༟ ࿎ | Checkboxing: ☐ ☑ ☒ ☓ | ⛒  🔳
+- Exed-Circles/Circles with X: ⦻ ⊗ Ⓧ ⓧ 🕁
 - Or: ᴼᴿ ↔️ 🇴 🇷  𑃁꣎ ꣏ ꤯ ꯫ ꩟ ꡷ । ॥ ᪨᰻ ᱾ ︲＇᱿
 - Exclamation and Question marks: ‼️⁉️⁇ ❓❔❕❗！¡ ¿ ？᠀ ⸮ 𒑰 ︖
 - Octothorpe: ＃⌗ ♯
@@ -3255,6 +3256,13 @@ Other, non-ASCII punctuation:
   - REFER: See *Mathematical* blocks below for more lots more symbols,
     also maybe *Shapes*.
 
+- Some miscellany:
+  - 🕁  U+1F541 Circled Cross Formee
+  - ֍  U+058D  Right-|Left-Facing Armenian Eternity Sign | ֎  U+058E Left-facing
+  - ༜  U+0F1C  Tibetan Sign Rdel Dkar Gsum [syn: ⁂ Asterism]
+  - ༶  U+0F36  Tibetan Mark Caret undefined-Dzud Rtags Bzhi Mig Can [syn: Lozenge/Diamond]
+  - ࿏  U+0FCF  Tibetan Sign Rdel Nag Gsum [3-"x" Asterism]
+
 ===========================================================================
 ─ General & Supplemental Punctuation ──────────────────────────────────────
 ===========================================================================
@@ -3267,7 +3275,7 @@ U+201x	‐	 ‑	‒	–	—	―	‖	‗	‘	’	‚	‛	“	”	„	‟
 U+202x	†	‡	•	‣	․	‥	…	‧                    # ․ One- ‥ two- … three-dot leader
 U+203x	‰	‱	′	″	‴		‶	‷	‸	‹	›	※	‼	‽	‾	‿    # ‽ Interrobang/interabang ‾ Overline/-score/-bar ‿ Tie
 U+204x	⁀	⁁	⁂	⁃	⁄	⁅	⁆	⁇	⁈	⁉	⁊	⁋	⁌	⁍	⁎	⁏    # ⁂ asterism ⁄ Fraction/Forward slash aka Stroke/Solidus
-U+205x	⁐	⁑	⁒	⁓	⁔	⁕	⁖	⁗	⁘	⁙	⁚	⁛	⁜	⁝	⁞      # ⁗ quadruple prime symbol, [dots: ⁘	⁙	⁛	⁜]
+U+205x	⁐	⁑	⁒	⁓	⁔	⁕	⁖	⁗	⁘	⁙	⁚	⁛	⁜	⁝	⁞      # ⁗ quadruple prime symbol, [dots: ⁘	⁙	⁛	⁜], ⁑ 2 vertical asterisks
 U+206x	ƒ() × , +                          # × multiplication sign
 
 Supplemental Punctuation
@@ -3276,7 +3284,7 @@ https://en.wikipedia.org/wiki/Supplemental_Punctuation
 U+2E0x	⸀	⸁	⸂	⸃	⸄	⸅	⸆	⸇	⸈	⸉	⸊	⸋	⸌	⸍	⸎	⸏
 U+2E1x	⸐	⸑	⸒	⸓	⸔	⸕	⸖	⸗	⸘	⸙	⸚	⸛	⸜	⸝	⸞	⸟
 U+2E2x	⸠	⸡	⸢	⸣	⸤	⸥	⸦	⸧	⸨	⸩	⸪	⸫	⸬	⸭	⸮	ⸯ    # `npm` uses: ⸨	⸩ [double parentheses] [dots: ⸪	⸫	⸬	⸭]
-U+2E3x	⸰	⸱	⸲	⸳	⸴	⸵	⸶	⸷	⸸	⸹	†	‡	⸼	⸽	⸾	⸿    # † 2M: ⸺
+U+2E3x	⸰	⸱	⸲	⸳	⸴	⸵	⸶	⸷	⸸	⸹	†	‡	⸼	⸽	⸾	⸿    # † 2M: ⸺  ‖ Capitulum ⸿ (Chapters, Paragraphs), pre-pilcrow ¶
 U+2E4x	⹀	⹁	⹂	⹃	⹄	⹅	⹆	⹇	⹈	⹉                # ‡ 3M: ⸻
 
 ===========================================================================
@@ -3469,7 +3477,7 @@ U+226x	≠	≡	≢	≣	≤	≥	≦	≧	≨	≩	≪	≫	≬	≭	≮	≯   # ≠ N
                                           # ≡ Hamburger menu aka the triple bar or trigram symbol (≡) CXREF: ☰
 U+227x	≰	≱	≲	≳	≴	≵	≶	≷	≸	≹	≺	≻	≼	≽	≾	≿   # ≰ Neither LT Nor Eq To, ≺ Precedes, ≻ Succeeds, ≼ Precedes or Eq To
 U+228x	⊀	⊁	⊂	⊃	⊄	⊅	⊆	⊇	⊈	⊉	⊊	⊋	⊌	⊍	⊎	⊏   # ⊀ Does Not Precede, ⊂ Subset Of, ⊃ Superset Of, ⊌ Multiset
-U+229x	⊐	⊑	⊒	⊓	⊔	⊕	⊖	⊗	⊘	⊙	⊚	⊛	⊜	⊝	⊞	⊟   # ⊕ Circled Plus, ⊞ Squared Plus
+U+229x	⊐	⊑	⊒	⊓	⊔	⊕	⊖	⊗	⊘	⊙	⊚	⊛	⊜	⊝	⊞	⊟   # ⊕ Circled Plus, ⊞ Squared Plus, ⊗ Circled Times/Tensor
 U+22Ax	⊠	⊡	⊢	⊣	⊤	⊥	⊦	⊧	⊨	⊩	⊪	⊫	⊬	⊭	⊮	⊯   # ⊢ Right Tack, ⊦ Assertion, ⊧ Models, ⊨ True, ⊬ Does Not Prove
 U+22Bx	⊰	⊱	⊲	⊳	⊴	⊵	⊶	⊷	⊸	⊹	⊺	⊻	⊼	⊽	⊾	⊿   # ⊶ Original Of, ⊷ Image Of, ⊸ Multimap, ⊻ Xor, ⊼ Nand, ⊽ Nor
 U+22Cx	⋀	⋁	⋂	⋃	⋄	⋅	⋆	⋇	⋈	⋉	⋊	⋋	⋌	⋍	⋎	⋏   # ⋀ N-Ary Logical And, ⋂ N-Ary Intersection, ⋅ Dot Op, ⋈ David Bowtie
@@ -3513,7 +3521,7 @@ Miscellaneous Mathematical Symbols-B
 U+298x	⦀	⦁	⦂	⦃	⦄	⦅	⦆	⦇	⦈	⦉	⦊	⦋	⦌	⦍	⦎	⦏
 U+299x	⦐	⦑	⦒	⦓	⦔	⦕	⦖	⦗	⦘	⦙	⦚	⦛	⦜	⦝	⦞	⦟   # [⦗⦘ alternative parentheses]
 U+29Ax	⦠	⦡	⦢	⦣	⦤	⦥	⦦	⦧	⦨	⦩	⦪	⦫	⦬	⦭	⦮	⦯
-U+29Bx	⦰	⦱	⦲	⦳	⦴	⦵	⦶	⦷	⦸	⦹	⦺	⦻	⦼	⦽	⦾	⦿
+U+29Bx	⦰	⦱	⦲	⦳	⦴	⦵	⦶	⦷	⦸	⦹	⦺	⦻	⦼	⦽	⦾	⦿   # ⦻ Circle w/ Superimposed X
 U+29Cx	⧀	⧁	⧂	⧃	⧄	⧅	⧆	⧇	⧈	⧉	⧊	⧋	⧌	⧍	⧎	⧏
 U+29Dx	⧐	⧑	⧒	⧓	⧔	⧕	⧖	⧗	⧘	⧙	⧚	⧛	⧜	⧝	⧞	⧟
 U+29Ex	⧠	⧡	⧢	⧣	⧤	⧥	⧦	⧧	⧨	⧩	⧪	⧫	⧬	⧭	⧮	⧯
@@ -3649,7 +3657,7 @@ Miscellaneous Technical
 
 U+230x	⌀	⌁	⌂	⌃	⌄	⌅	⌆	⌇	⌈	⌉	⌊	⌋	⌌	⌍	⌎	⌏       # ⌀ Diameter symbol [similar to Scan. ltr Ø/ø, empty set ∅]
 U+231x	⌐	⌑	⌒	⌓	⌔	⌕	⌖	⌗	⌘	⌙	⌚	⌛	⌜	⌝	⌞	⌟
-U+232x	⌠	⌡	⌢	⌣	⌤	⌥	⌦	⌧	⌨	〈	〉	⌫	⌬	⌭	⌮	⌯
+U+232x	⌠	⌡	⌢	⌣	⌤	⌥	⌦	⌧	⌨	〈	〉	⌫	⌬	⌭	⌮	⌯   # ⌯ Symmetry
 U+233x	⌰	⌱	⌲	⌳	⌴	⌵	⌶	⌷	⌸	⌹	⌺	⌻	⌼	⌽	⌾	⌿
 U+234x	⍀	⍁	⍂	⍃	⍄	⍅	⍆	⍇	⍈	⍉	⍊	⍋	⍌	⍍	⍎	⍏
 U+235x	⍐	⍑	⍒	⍓	⍔	⍕	⍖	⍗	⍘	⍙	⍚	⍛	⍜	⍝	⍞	⍟
@@ -3742,9 +3750,9 @@ U+248x	⒀	⒁	⒂	⒃	⒄	⒅	⒆	⒇	⒈	⒉	⒊	⒋	⒌	⒍	⒎	⒏
 U+249x	⒐	⒑	⒒	⒓	⒔	⒕	⒖	⒗	⒘	⒙	⒚	⒛	⒜	⒝	⒞	⒟
 U+24Ax	⒠	⒡	⒢	⒣	⒤	⒥	⒦	⒧	⒨	⒩	⒪	⒫	⒬	⒭	⒮	⒯
 U+24Bx	⒰	⒱	⒲	⒳	⒴	⒵	Ⓐ	Ⓑ	Ⓒ	Ⓓ	Ⓔ	Ⓕ	Ⓖ	Ⓗ	Ⓘ	Ⓙ
-U+24Cx	Ⓚ	Ⓛ	Ⓜ	Ⓝ	Ⓞ	Ⓟ	Ⓠ	Ⓡ	Ⓢ	Ⓣ	Ⓤ	Ⓥ	Ⓦ	Ⓧ	Ⓨ	Ⓩ
+U+24Cx	Ⓚ	Ⓛ	Ⓜ	Ⓝ	Ⓞ	Ⓟ	Ⓠ	Ⓡ	Ⓢ	Ⓣ	Ⓤ	Ⓥ	Ⓦ	Ⓧ	Ⓨ	Ⓩ   # Ⓧ Circled Latin Large Letter X
 U+24Dx	ⓐ	ⓑ	ⓒ	ⓓ	ⓔ	ⓕ	ⓖ	ⓗ	ⓘ	ⓙ	ⓚ	ⓛ	ⓜ	ⓝ	ⓞ	ⓟ
-U+24Ex	ⓠ	ⓡ	ⓢ	ⓣ	ⓤ	ⓥ	ⓦ	ⓧ	ⓨ	ⓩ	⓪	⓫	⓬	⓭	⓮	⓯
+U+24Ex	ⓠ	ⓡ	ⓢ	ⓣ	ⓤ	ⓥ	ⓦ	ⓧ	ⓨ	ⓩ	⓪	⓫	⓬	⓭	⓮	⓯   # ⓧ Circled Latin Small Letter X
 U+24Fx	⓰	⓱	⓲	⓳	⓴	⓵	⓶	⓷	⓸	⓹	⓺	⓻	⓼	⓽	⓾	⓿
 
 Enclosed Alphanumeric Supplement
