@@ -4064,26 +4064,30 @@ U+303x	〰	〱	〲	〳	〴	〵	〶	〷	〸	〹	〺	〻	〼	〽	〾	〿
 
 CXREF: https://github.com/dysfunc/ascii-emoji
 - (Unlicensed, which I assume means, Thank you!!)
+- THANX: Some also from https://emojicombos.com/
 ::
 
   4chan-emoticon:             ( ͡° ͜ʖ ͡°)
   angry-birds:                ( ఠൠఠ )ﾉ
   angry-face:                 (╬ ಠ益ಠ)
   angry-troll:                ヽ༼ ಠ益ಠ ༽ﾉ
+  are-u-sure-closed-eyes:     (ᵕ—ᴗ—) # squinting
   at-what-cost:               ლ(ಠ益ಠლ)
   barf:                       (´ж｀ς)
   basking-in-glory:           ヽ(´ー｀)ノ
+  beady-little-eyes:          𐔌՞. .՞𐦯
+  blushing:                   ( ꈍ◡ꈍ)
   boxing:                     ლ(•́•́ლ)
   breakdown:                  ಥ﹏ಥ
   careless:                   ◔_◔
-  cheers:                     （ ^_^）o自自o（^_^ ）
+  cheers:                    （ ^_^）o自自o（^_^ ）
   chicken:                    ʚ(•｀
   confused-scratch:           (⊙.☉)7
   confused:                   ¿ⓧ_ⓧﮌ
   crazy:                      ミ●﹏☉ミ
   creeper:                    ƪ(ړײ)ƪ
   cry-face:                   ｡ﾟ( ﾟஇ‸இﾟ)ﾟ｡
-  crying-face:                ಥ_ಥ
+  crying-face:                ಥ_ಥ  ‖  (╥﹏╥)
   cry-troll:                  ༼ ༎ຶ ෴ ༎ຶ༽
   cute-bear:                  ʕ•ᴥ•ʔ
   cute-face-with-big-eyes:    (｡◕‿◕｡)
@@ -4095,6 +4099,7 @@ CXREF: https://github.com/dysfunc/ascii-emoji
   disagree:                   ٩◔̯◔۶
   discombobulated:            ⊙﹏⊙
   dislike:                    ( ಠ ʖ̯ ಠ)
+  distressed-face:            (,,•᷄ࡇ•᷅ ,,)?
   double-Flip:                ┻━┻ ︵ヽ(`Д´)ﾉ︵ ┻━┻
   do-you-even-lift-bro?:      ᕦ(ò_óˇ)ᕤ
   emo-dance:                  ヾ(-_- )ゞ
@@ -4102,10 +4107,10 @@ CXREF: https://github.com/dysfunc/ascii-emoji
   exorcism:                   ح(•̀ж•́)ง †
   eye-roll:                   ⥀.⥀
   feel-perky:                 (`･ω･´)
-  fido:                       V•ᴥ•V
+  fido--dog--canine:          V•ᴥ•V
   fight:                      (ง̀-́)ง
-  fisticuffs:                 ლ(｀ー´ლ)
-  flexing:                    ᕙ(⇀‸↼‶)ᕗ
+  fisticuffs:                 ლ(｀ー´ლ) ‖ (੭˃ᴗ˂)੭ ‖ ଘ(੭ˊᵕˋ)੭₊
+  flexing:                    ᕙ(⇀‸↼‶)ᕗ  ‖ ᕙ(  •̀ ᗜ •́  )ᕗ ‖ ( ◡̀_◡́)ᕤ
   flip-friend:                (ノಠ ∩ಠ)ノ彡( \o°o)\
   fly-away:                   ⁽⁽ଘ( ˊᵕˋ )ଓ⁾⁾
   flying:                     ح˚௰˚づ
@@ -4122,17 +4127,23 @@ CXREF: https://github.com/dysfunc/ascii-emoji
   japanese-lion-face:         °‿‿°
   judgemental:                {ಠʖಠ}
   judging:                    ( ఠ ͟ʖ ఠ)
+  jump-for-joy:               ٩(^ᗜ^ )و ´-
   kirby:                      ⊂(◉‿◉)つ
-  kissing:                    ( ˘ ³˘)♥
+  kissing:                    ( ˘ ³˘)♥  ‖ (っ˶ ˘ ᵕ˘)ˆᵕ ˆ˶ς)
   kitty-emote:                ᵒᴥᵒ#
   listening-to-headphones:    ◖ᵔᴥᵔ◗ ♪ ♫
   looking-down:               (._.)
   love:                       ♥‿♥
   love:                       -`ღ´-
+  magic-wand-cast-spell:      (๑'ᵕ'๑)⸝* ‖ (*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ
   meh:                        ¯\(°_o)/¯
-  meow:                       ฅ^•ﻌ•^ฅ
+  meow--cat--feline:          ฅ^•ﻌ•^ฅ ‖ ₍^. .^₎⟆ ‖ („• ֊ •„)੭
+  mischievous:                (•̀ᴗ•́ )ゞ ‖ (๑>◡<๑)
   no-support:                 乁( ◔ ౪◔)「           ┑(￣Д ￣)┍
   opera:                      ヾ(´〇`)ﾉ♪♪♪
+  other-faces:                ꧁⎝ 𓆩༺✧༻𓆪 ⎠꧂  ‖ ◝(ᵔᗜᵔ)◜ ‖ (っ˘ڡ˘ς) ‖ (ㅅ´ ˘ `) ‖ (๑>؂•̀๑) ‖ ૮◞ ‸ ◟ ა
+                                ‖ ◡̈  ‖ ツ ‖ ( ͡° ͜ʖ ͡°) ‖ ( ≖‿  ≖ ) ‖ ( ＾◡＾)っ✂ ╰⋃╯ [!?] ‖ („• ֊ •„)
+                                ‖ ( ˘ᴗ˘ )
   peepers:                    ಠಠ
   pointing:                   (☞ﾟ ヮﾟ)☞
   pretty-eyes:                ఠ_ఠ
@@ -4152,21 +4163,26 @@ CXREF: https://github.com/dysfunc/ascii-emoji
   shy:                        (๑•́ ₃ •̀๑)
   sleepy:                     눈_눈
   smiley-toast:               ʕʘ̅͜ʘ̅ʔ
-  smirk [via emojicombos.com  (¬‿¬)凸 [!?] ‖ ¬‿¬ ‖ ( ͡° ͜ʖ ͡°) ‖ ツ ‖ ( • ᴗ - ) ✧ ‖ (☞ ͡° ͜ʖ ͡°)☞
-               /smirk-ascii]    ‖ ( ≖‿  ≖ ) ‖ ( ＾◡＾)っ✂ ╰⋃╯ [!?] ‖ (╥﹏╥) ‖ 𓁹‿𓁹  ‖ („• ֊ •„)
+  smirk [emojicombos.com]     (¬‿¬)凸 [!?] ‖ ¬‿¬ ‖ ( • ᴗ - ) ✧ ‖ (☞ ͡° ͜ʖ ͡°)☞ ‖ 𓁹‿𓁹
+  squinting-face:             (≖⩊≖)
   squinting-bear:             ʕᵔᴥᵔʔ
   staring:                    ٩(๏_๏)۶
   stranger-danger:            (づ｡◕‿‿◕｡)づ
+  stoned--mesmerized:         (❁´◡`❁ )
   strut:                      ᕕ( ᐛ )ᕗ
   stunna-shades:              (っ▀¯▀)つ
   surprised:                  （　ﾟДﾟ）
   table-flip:                 (╯°□°）╯︵ ┻━┻
+  take-a-seat:                ₍₍⚞(˶˃ ꒳ ˂˶)⚟⁾⁾
   taking-a-dump:              (⩾﹏⩽)
   tgif:                       “ヽ(´▽｀)ノ”
   things-that-cant-be-unseen: ♨_♨
+  thumbs-up ‖ good ‖ aye:     [meh] ദ്ദി ・ᴗ・)✧  ‖ ദ്ദി (˃ ᵕ ˂ ദ്ദി ) ‖ ദ്ദി  ˉ͈̀꒳ˉ͈́ )⊹₊⋆ ᡣ𐭩 ‖ ദ്ദി ( • ᴗ < ) ‖ ദ്ദി (ᵔᗜ ᵔ)
+                                ‖ ദ്ദി /ᐠ｡‸｡ᐟ\ ‖ ദ്ദി ( °ᗜ ᵔ) *.✧ ‖ ദ്ദി (๑>؂•̀๑)
   tidy-up:                    ┬─┬⃰͡ (ᵔᵕᵔ͜ )
   tired:                      ( ͡ಠ ʖ̯ ͡ಠ)
   touchy-feely:               ԅ(≖‿≖ԅ)
+  tongues-out:                ˙𐃷˙
   tripping-out:               q(❂‿❂)p
   trolling:                   ༼∵༽ ༼⍨༽ ༼⍢༽ ༼⍤༽
   wave-dance:                 ~(^-^)~
