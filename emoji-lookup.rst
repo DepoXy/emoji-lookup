@@ -1817,7 +1817,7 @@ punctuation
 
 U+203C†  ‼️  double ... - ! | !! | bangbang | double exclamation mark | exclamation | mark | punctuation | († U+203C U+FE0F) ∦ ‼
 U+2049†  ⁉️  exclamation question mark - ! | !? | ? | excla. | interrobang | mark | punctuation | quest. | († U+2049 U+FE0F) ∦ ⁉
-U+2753   ❓  question mark - ? | mark | punctuation | question ∦ ❓︎ ❓️
+U+2753   ❓  question mark - ? | mark | punctuation | question ∦ ❓︎ ❓️ 🤔 ❔.ᐣ﹖�
 U+2754   ❔  white question mark - ? | mark | outlined | punctuation | question | white question mark
 U+2755   ❕  white exclamation mark - ! | exclamation | mark | outlined | punctuation | w.e.m.
 U+2757   ❗  exclamation mark - ! | exclamation | mark | punctuation ∦ ❗︎ ❗️
