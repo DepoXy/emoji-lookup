@@ -4082,6 +4082,7 @@ CXREF: https://github.com/dysfunc/ascii-emoji
   careless:                   ◔_◔
   cheers:                    （ ^_^）o自自o（^_^ ）
   chicken:                    ʚ(•｀
+  clown--honk-honk:           (•́⍜•̀) ‖ *<|:•] ‖ (᨟ ͜● ᨟) ‖ &(᨟ ͜● ᨟)& ‖ ×̷̷͜×̷ ‖ ( ꩜ ᯅ ꩜;) 
   confused-scratch:           (⊙.☉)7
   confused:                   ¿ⓧ_ⓧﮌ
   crazy:                      ミ●﹏☉ミ
@@ -4102,6 +4103,7 @@ CXREF: https://github.com/dysfunc/ascii-emoji
   distressed-face:            (,,•᷄ࡇ•᷅ ,,)?
   double-Flip:                ┻━┻ ︵ヽ(`Д´)ﾉ︵ ┻━┻
   do-you-even-lift-bro?:      ᕦ(ò_óˇ)ᕤ
+  eff-off:                    ᶠᶸᶜᵏᵧₒᵤ! ‖ (‿ˠ‿)  Ɑ͞ ̶͞ ̶͞ ̶͞ لں͞ ‖ (๑•́o•̀๑) ‖ ( •̯́ ₃ •̯̀)
   emo-dance:                  ヾ(-_- )ゞ
   excited:                    ☜(⌒▽⌒)☞
   exorcism:                   ح(•̀ж•́)ง †
@@ -4136,6 +4138,7 @@ CXREF: https://github.com/dysfunc/ascii-emoji
   love:                       ♥‿♥
   love:                       -`ღ´-
   magic-wand-cast-spell:      (๑'ᵕ'๑)⸝* ‖ (*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ
+  meatwad:                    ༼ つ ◕_◕ ༽つ
   meh:                        ¯\(°_o)/¯
   meow--cat--feline:          ฅ^•ﻌ•^ฅ ‖ ₍^. .^₎⟆ ‖ („• ֊ •„)੭
   mischievous:                (•̀ᴗ•́ )ゞ ‖ (๑>◡<๑)
@@ -4182,7 +4185,7 @@ CXREF: https://github.com/dysfunc/ascii-emoji
   tidy-up:                    ┬─┬⃰͡ (ᵔᵕᵔ͜ )
   tired:                      ( ͡ಠ ʖ̯ ͡ಠ)
   touchy-feely:               ԅ(≖‿≖ԅ)
-  tongues-out:                ˙𐃷˙
+  tongues-out:                ˙𐃷˙ ‖ (˶˃𐃷˂˶)
   tripping-out:               q(❂‿❂)p
   trolling:                   ༼∵༽ ༼⍨༽ ༼⍢༽ ༼⍤༽
   wave-dance:                 ~(^-^)~
