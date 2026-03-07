@@ -3040,7 +3040,7 @@ https://stackoverflow.com/questions/2685435/cooler-ascii-spinners
 
 ← ↖ ↑ ↗ → ↘ ↓ ↙
 
-▁ ▂ ▃ ▄ ▅ ▆ ▇ █ ▇ ▆ ▅ ▄ ▃ ▁
+▁ ▂ ▃ ▄ ▅ ▆ ▇ █ ▇ ▆ ▅ ▄ ▃ ▂ ▁
 
 ▉▊▋▌▍▎▏▎▍▌▋▊▉
 
