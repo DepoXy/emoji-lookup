@@ -4068,6 +4068,8 @@ U+303x	〰	〱	〲	〳	〴	〵	〶	〷	〸	〹	〺	〻	〼	〽	〾	〿
 CXREF: https://github.com/dysfunc/ascii-emoji
 - (Unlicensed, which I assume means, Thank you!!)
 - THANX: Some also from https://emojicombos.com/
+    https://www.asciiart.eu/one-line
+      https://www.asciiart.eu/one-line/actions
 ::
 
   4chan-emoticon:             ( ͡° ͜ʖ ͡°)
@@ -4080,7 +4082,7 @@ CXREF: https://github.com/dysfunc/ascii-emoji
   basking-in-glory:           ヽ(´ー｀)ノ
   beady-little-eyes:          𐔌՞. .՞𐦯
   blushing:                   ( ꈍ◡ꈍ)
-  boxing:                     ლ(•́•́ლ)
+  boxing:                     ლ(•́•́ლ) ‖ (9'-')9
   breakdown:                  ಥ﹏ಥ
   careless:                   ◔_◔
   cheers:                    （ ^_^）o自自o（^_^ ）
@@ -4184,14 +4186,18 @@ CXREF: https://github.com/dysfunc/ascii-emoji
   tgif:                       “ヽ(´▽｀)ノ”
   things-that-cant-be-unseen: ♨_♨
   thumbs-up ‖ good ‖ aye:     [meh] ദ്ദി ・ᴗ・)✧  ‖ ദ്ദി (˃ ᵕ ˂ ദ്ദി ) ‖ ദ്ദി  ˉ͈̀꒳ˉ͈́ )⊹₊⋆ ᡣ𐭩 ‖ ദ്ദി ( • ᴗ < ) ‖ ദ്ദി (ᵔᗜ ᵔ)
-                                ‖ ദ്ദി /ᐠ｡‸｡ᐟ\ ‖ ദ്ദി ( °ᗜ ᵔ) *.✧ ‖ ദ്ദി (๑>؂•̀๑)
+                                ‖ ദ്ദി /ᐠ｡‸｡ᐟ\ ‖ ദ്ദി ( °ᗜ ᵔ) *.✧ ‖ ദ്ദി (๑>؂•̀๑) ‖ d-(^_^)z
   tidy-up:                    ┬─┬⃰͡ (ᵔᵕᵔ͜ )
   tired:                      ( ͡ಠ ʖ̯ ͡ಠ)
   touchy-feely:               ԅ(≖‿≖ԅ)
   tongues-out:                ˙𐃷˙ ‖ (˶˃𐃷˂˶)
   tripping-out:               q(❂‿❂)p
   trolling:                   ༼∵༽ ༼⍨༽ ༼⍢༽ ༼⍤༽
-  wave-dance:                 ~(^-^)~
+  wave-dance:                 ~(^-^)~                                               ⌇
+  weed-smoking:               ૮ ྀི𓁹‿ 𓁹 ྀིა ▂▂⌇ ‖ ( ´ཀ` )☠︎︎  ‖ (𓁹 𓁹) ‖ ( ≖‿  ≖ ) ‖ ᝰ▬▬  ▬▬ڪ ‖ 🚬૮(๑ᵔ⤙ᵔ๑)っ🍪
+                                🚬😙💨🥴🍁 ‖ ×̷̷͜×̷ ‖ ౦０o ｡ (‾́。‾́ )y🚬 ‖ (⇀‸↼‶)つ━☁☁☁  ‖ (づ￣ 3￣)y-~~
+                                ε(´｡•᎑•`)っ🚬 ‖ <(￣3￣)y▂ξ ‖ (＾-＾)y-~~ ‖ (￣ c￣)y▂ξ ‖ (- 。-)y-゜゜
+                                (●｀∀´●)y-~~ ‖ (; ´_ゝ`)y-~~ ‖ (￣(ｴ)￣)y-ﾟﾟﾟ   ‖ y(^ o^)y~~ ‖ :-Q
   whistling:                  (っ•́｡•́)♪♬
   winnie-the-pooh:            ʕ •́؈•̀)                ʕ •́؈•̀ ₎
   winning:                    (•̀ᴗ•́)و
