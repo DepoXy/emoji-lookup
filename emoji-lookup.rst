@@ -1820,7 +1820,7 @@ U+2049†  ⁉️  exclamation question mark - ! | !? | ? | excla. | interrobang
 U+2753   ❓  question mark - ? | mark | punctuation | question ∦ ❓︎ ❓️ 🤔 ❔.ᐣ﹖�
 U+2754   ❔  white question mark - ? | mark | outlined | punctuation | question | white question mark
 U+2755   ❕  white exclamation mark - ! | exclamation | mark | outlined | punctuation | w.e.m.
-U+2757   ❗  exclamation mark - ! | exclamation | mark | punctuation ∦ ❗︎ ❗️
+U+2757   ❗  exclamation mark - ! | exclamation | mark | punctuation | (bang!) ∦ ❗︎ ❗️
 U+3030†  〰️  wavy dash - dash | punctuation | wavy | († U+3030 U+FE0F) ∦ 〰
 
 ========
