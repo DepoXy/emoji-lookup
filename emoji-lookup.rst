@@ -119,7 +119,7 @@ U+1F60C  😌  relieved face - (peaceful | gentle | reflief | grateful | comfy |
 U+1F614  😔  pensive face - dejected
 U+1F62A  😪  sleepy face - sleep
 U+1F924  🤤  drooling face
-U+1F634  😴  sleeping face - sleep | zzz
+U+1F634  😴  sleeping face - sleep | zzz (ᶻ 𝗓 𐰁)
 U+1FAE9  🫩  face with bags under eyes - bored | exhausted | fatigued | late | sleepy | tired | weary ║ v16.0
 
 ===========
