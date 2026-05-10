@@ -3213,7 +3213,8 @@ Other, non-ASCII punctuation:
 - Plus signs: + ₊ ✚ ⁺ ╋ ✙ ⊹ ˖ ⊕ † ᪠  ⳾ ⊞
 - Teenie Ampersand: ﹠
 - At: ＠
-- Exes: × [``*X``] 𓏵  ᛝ ✖  ♰ ᙭ ᙮ ᰿  ༝ ༞ | ox|xo: ༟ ࿎ | Checkboxing: ☐ ☑ ☒ ☓ | ⛒  🔳
+- Exes: × [``*X``] 𓏵  ᛝ ✖  ♰ ᙭ ᙮ ᰿  ༝ ༞ | ox|xo: ༟ ࿎
+- Checkboxes/Checkboxing: ☐ ☒ ☓ ⛒ | ☑  🔳 | □ (di: OS [Open Square] ■ (di: fS [full Sq.]]) | ▢ (di: RO (ROunded))
 
 - Exed-Circles/Circles with X: ⦻ ⊗ Ⓧ ⓧ 🕁
 - Or: ᴼᴿ ↔️ 🇴 🇷  𑃁꣎ ꣏ ꤯ ꯫ ꩟ ꡷ । ॥ ᪨᰻ ᱾ ︲＇᱿
@@ -3731,7 +3732,7 @@ Geometric Shapes
 https://en.wikipedia.org/wiki/Geometric_Shapes
 
 U+25Ax	■	□	▢	▣	▤	▥	▦	▧	▨	▩	▪	▫	▬	▭	▮	▯     aka Box Shapes, Square characters... *Squaracters*, Rectangles
-                                            ... Checkboxes □ (di: OS) ▢ (di: RO)
+                                            ... Checkboxes □ (di: OS [Open Square]) ▢ (di: RO (ROunded))
 U+25Bx	▰	▱	▲	△	▴	▵	▶	▷	▸	▹	►	▻	▼	▽	▾	▿     ... Parallelograms, Right-/Down-pointing triangles
 U+25Cx	◀	◁	◂	◃	◄	◅	◆	◇	◈	◉	◊	○	◌	◍	◎	●     ... Left-pnt'g tri's; Diamonds; Fisheye ◉; Lozenge ◊; White/
                                                 Open Circle, Dotted, w/ Vert. Fill ◍; Bullseye ◎; Black Circle
