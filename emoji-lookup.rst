@@ -3213,7 +3213,7 @@ Other, non-ASCII punctuation:
 - Plus signs: + ₊ ✚ ⁺ ╋ ✙ ⊹ ˖ ⊕ † ᪠  ⳾ ⊞
 - Teenie Ampersand: ﹠
 - At: ＠
-- Exes: × [di: ``*X``] 𓏵  ᛝ ✖  ♰ ᙭ ᙮ ᰿  ༝ ༞ ‖ ox|xo: ༟ ࿎
+- Exes: × [di: ``*X``] 𓏵  ᛝ ✖  ♰ ᙭ ᙮ ᰿  ༝ ༞ ‖ ox|xo: ༟ ࿎ ‖ [See table below: #Exes]
 - Checkboxes/Checkboxing: ☐ ☒ ☓ ⛒ ‖ ☑  🔳 ‖ □ [di: OS [Open Square], ■ di: fS [full Sq.]] ‖ ▢ [di: RO (ROunded)]
 
 - Exed-Circles/Circles with X: ⦻ ⊗ Ⓧ ⓧ 🕁
@@ -3653,7 +3653,15 @@ U+1D7Fx	𝟰	𝟱	𝟲	𝟳	𝟴	𝟵	𝟶	𝟷	𝟸	𝟹	𝟺	𝟻	𝟼	𝟽	�
   ░│25  ⅖    8534│░│35  ⅗    8535│░│45  ⅘    8536│░│16  ⅙    8537│░│56  ⅚    8538│░│18  ⅛    8539│░│38  ⅜    8540│
   ░│58  ⅝    8541│░│78  ⅞    8542│░│             │░│             │░│             │░│             │░│             │
 
-- Ex and ex-like character digraph reference #Exes::
+- Ex and ex-like char (Neo)Vim digraph reference #Exes
+  - Classic exes by size: ``X* H= aR ‖ h= ar /\ *X`` — ``Χ Х Ⅹ ‖ х ⅹ × ×``
+    - (``X*`` and ``H=`` are essentially the same, as least in Hack Nerd Font; likewise ``/\`` and ``*X``.
+      - Small x Vim digraphs are easy, e.g., <Ctrl-l>h=, <Ctrl-l>ar, <Ctrl-l>/\, and <Ctrl-l><Shift>8x.
+        - Mnemonically, ``/`` and ``\`` *make* an "X", if you can remember that....)
+  - Classic exes by digraph pairs::
+      /\ *X h= ar — × × х ⅹ  
+         X* H= aR —   Χ Х Ⅹ
+  - ::
   ░│             │░│             │░│             │░│*X  ×     215│░│/\  ×     215│░│             │░│             │
   ░│             │░│X*  Χ Chi 935│░│             │░│             │░│             │░│             │░│             │
   ░│             │░│             │░│             │░│             │░│             │░│x*  χ chi 967│░│             │
