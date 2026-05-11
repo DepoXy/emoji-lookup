@@ -3146,7 +3146,7 @@ U+203F            ‿      Tie
 U+2040            ⁀      Tie
 U+2041            ⁁      Caret
 U+2042            ⁂      Asterism
-                         └→ ∴ via Digraph: ``.:`` | Also: ∵ ``:.``
+                         └→ ∴ [digraph: ``.:``] | Also: ∵ [di.: ``:.``]
 U+2043            ⁃      Hyphen
 U+2044  0925      ⁄  /f  Fraction slash, Slash, Stroke, Solidus, Forward slash
 U+2045            ⁅      Bracket
@@ -3195,7 +3195,7 @@ Other, non-ASCII punctuation:
 - Unique Symbols: ⸎- ꡴  ꣸ ꧁  ꧍ ꧟ ꩜ ꫞ ꫟ 𐏐 𐡗 𐩿 ߷ ༒ ྅ ᥄ ᥅  ᨟ ᪭  〃 ៖ ᨟ ꧟ ꩜ 𐏐 𐡗
 - Wavy Lines: ﹌ 〽 〰 𐩘  ࿐  ၏  ៘  ៚  ᧞  ᧟  ᭚  〜 ꘏  ꤮  𑂼
 - Stars: * ٭ ܀ ܍ ፨ ᛭᪦ ※ ⁑ ⁕ ꙳ ꥟ ＊ *aka asterisks*  ❇️ 🫟 | ★ ☆ ⛤ ⛥ ⛦ ⛧	
-- Bullets: • ⁌ ⁍ | ᛫ ‧ ⁃ ⸰ ⸱ 𐬹 ・｡࠰ · ·࠾ ॰ ๏꙾꧞ '﹅﹆ ･ 𐄁 𐤟 𐤿 𐩐 𑂻 | ・[Digraph: ``.6``]
+- Bullets: • ⁌ ⁍ ‖ ᛫ ‧ ⁃ ⸰ ⸱ 𐬹 ・｡࠰ · ·࠾ ॰ ๏꙾꧞ '﹅﹆ ･ 𐄁 𐤟 𐤿 𐩐 𑂻 ‖ ・[digraph: ``.6``]
   - Bullets & Centered Circle digraphs & a few others, but not Unicode punctuation's • ⁌ & ⁍:
                        ░│Ob  ∘    8728│░│0.  ⊙    8857│░│SU  ☼    9788│░│
                        ░│DG  °     176│░│02  ⊚    8858│░│cH  ♡    9825│░│
@@ -3213,8 +3213,8 @@ Other, non-ASCII punctuation:
 - Plus signs: + ₊ ✚ ⁺ ╋ ✙ ⊹ ˖ ⊕ † ᪠  ⳾ ⊞
 - Teenie Ampersand: ﹠
 - At: ＠
-- Exes: × [``*X``] 𓏵  ᛝ ✖  ♰ ᙭ ᙮ ᰿  ༝ ༞ | ox|xo: ༟ ࿎
-- Checkboxes/Checkboxing: ☐ ☒ ☓ ⛒ | ☑  🔳 | □ (di: OS [Open Square] ■ (di: fS [full Sq.]]) | ▢ (di: RO (ROunded))
+- Exes: × [di: ``*X``] 𓏵  ᛝ ✖  ♰ ᙭ ᙮ ᰿  ༝ ༞ ‖ ox|xo: ༟ ࿎
+- Checkboxes/Checkboxing: ☐ ☒ ☓ ⛒ ‖ ☑  🔳 ‖ □ [di: OS [Open Square], ■ di: fS [full Sq.]] ‖ ▢ [di: RO (ROunded)]
 
 - Exed-Circles/Circles with X: ⦻ ⊗ Ⓧ ⓧ 🕁
 - Or: ᴼᴿ ↔️ 🇴 🇷  𑃁꣎ ꣏ ꤯ ꯫ ꩟ ꡷ । ॥ ᪨᰻ ᱾ ︲＇᱿
