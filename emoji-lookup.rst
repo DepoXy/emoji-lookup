@@ -4322,8 +4322,8 @@ https://en.wikipedia.org/wiki/Whitespace_character
 
 Code    Name of the character             Sample    Width of the character
 ======  ===============================   =======   =================================================
-U+0020  SPACE                             foo bar   Depends on font, typically 1/4 em, often adjusted
-U+00A0  NO-BREAK SPACE (nbsp)             foo bar   As a space, but often not adjusted
+U+0020  SPACE            (SP; dec. 32)    foo bar   Depends on font, typically 1/4 em, often adjusted
+U+00A0  NO-BREAK SPACE (NBSP; dec. 160)   foo bar   Ident. to space, but uniq ent (used for padding, prevent nls)
 U+1680  OGHAM SPACE MARK                  foo bar   Unspecified; usually not really a space but a dash
 U+180E  MONGOLIAN VOWEL SEPARATOR         foo᠎bar	0
 U+2000  EN QUAD                           foo bar   1 en (= 1/2 em)
@@ -4385,7 +4385,7 @@ Digraphs:
 ░│VS  \8a   138│░│PD  \8b   139│░│PU  \8c   140│░│RI  \8d   141│░│S2  \8e   142│░│S3  \8f   143│░│DC  \90   144│
 ░│P1  \91   145│░│P2  \92   146│░│TS  \93   147│░│CC  \94   148│░│MW  \95   149│░│SG  \96   150│░│EG  \97   151│
 ░│SS  \98   152│░│GC  \99   153│░│SC  \9a   154│░│CI  \9b   155│░│ST  \9c   156│░│OC  \9d   157│░│PM  \9e   158│
-░│AC  \9f   159│░│NS        160│░│!I  ¡     161│░│~!  ¡     161│░│Ct  ¢     162│░│c|  ¢     162│░│Pd  £     163│
+░│AC  \9f   159│░│NS        160│░│!I  ¡     161│░│~!  ¡     161│░│Ct  ¢     162│░│c|  ¢     162│░│Pd  £     163│
 ░│$$  £     163│░│Cu  ¤     164│░│ox  ¤     164│░│Ye  ¥     165│░│Y-  ¥     165│░│BB  ¦     166│░│||  ¦     166│
 ░│SE  §     167│░│':  ¨     168│░│Co  ©     169│░│cO  ©     169│░│-a  ª     170│░│<<  «     171│░│NO  ¬     172│
 ░│-,  ¬     172│░│--  ­     173│░│Rg  ®     174│░│'m  ¯     175│░│-=  ¯     175│░│DG  °     176│░│~o  °     176│
