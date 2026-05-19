@@ -4113,6 +4113,7 @@ CXREF: https://github.com/dysfunc/ascii-emoji
   breakdown:                  ಥ﹏ಥ
   careless:                   ◔_◔
   cheers:                    （ ^_^）o自自o（^_^ ）
+  chef's-kiss:                😚👌 ‖ 😙🤌 ‖ 🤌🏼💋
   chicken:                    ʚ(•｀
   clown--honk-honk:           (•́⍜•̀) ‖ *<|:•] ‖ (᨟ ͜● ᨟) ‖ &(᨟ ͜● ᨟)& ‖ ×̷̷͜×̷ ‖ ( ꩜ ᯅ ꩜;) 
   confused-scratch:           (⊙.☉)7
