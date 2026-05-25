@@ -4089,17 +4089,27 @@ U+302x	〠	〡	〢	〣	〤	〥	〦	〧	〨	〩	〪	〫	〬	〭	〮	〯
 U+303x	〰	〱	〲	〳	〴	〵	〶	〷	〸	〹	〺	〻	〼	〽	〾	〿
 
 ===========================================================================
-─ A Selection of Idiomatic Unicode sequences ──────────────────────────────
+─ Kaomoji — A Selection of Idiomatic Unicode sequences ────────────────────
 ===========================================================================
 
-CXREF: https://github.com/dysfunc/ascii-emoji
-- (Unlicensed, which I assume means, Thank you!!)
-- THANX: Some also from https://emojicombos.com/
+THANX:
+- This list originally derived from:
+    https://github.com/dysfunc/ascii-emoji
+  - (Unlicensed, which I assume means, Thank you!!)
+- But we've since expanded with help from:
+    https://emojicombos.com/
     https://www.asciiart.eu/one-line
       https://www.asciiart.eu/one-line/actions
+    https://glyphy.io/emoticons/
+    - Spike/Ftreq/2026-05-22: Glyphy has lots more emoticon/Kaomoji labeled
+                              categories we could add below...
+- REFER:
+  https://en.wikipedia.org/wiki/Kaomoji
+
 ::
 
   4chan-emoticon:             ( ͡° ͜ʖ ͡°)
+  angry:                      https://glyphy.io/emoticons/angry
   angry-birds:                ( ఠൠఠ )ﾉ
   angry-face:                 (╬ ಠ益ಠ)
   angry-troll:                ヽ༼ ಠ益ಠ ༽ﾉ
@@ -4117,7 +4127,7 @@ CXREF: https://github.com/dysfunc/ascii-emoji
   chicken:                    ʚ(•｀
   clown--honk-honk:           (•́⍜•̀) ‖ *<|:•] ‖ (᨟ ͜● ᨟) ‖ &(᨟ ͜● ᨟)& ‖ ×̷̷͜×̷ ‖ ( ꩜ ᯅ ꩜;) 
   confused-scratch:           (⊙.☉)7
-  confused:                   ¿ⓧ_ⓧﮌ
+  confused:                   ¿ⓧ_ⓧﮌ ‖ https://glyphy.io/emoticons/confused
   crazy:                      ミ●﹏☉ミ
   creeper:                    ƪ(ړײ)ƪ
   cry-face:                   ｡ﾟ( ﾟஇ‸இﾟ)ﾟ｡
@@ -4129,12 +4139,15 @@ CXREF: https://github.com/dysfunc/ascii-emoji
   dance:                      ♪♪ ヽ(ˇ∀ˇ )ゞ
   dancing:                    ┌(ㆆ㉨ㆆ)ʃ
   dear-god-why:               щ（ﾟДﾟ щ）
+  devil:                      ↜(Φ益Φ)Ψ ‖ https://glyphy.io/emoticons/devils
   devious-smile:              ಠ‿ಠ
   disagree:                   ٩◔̯◔۶
   discombobulated:            ⊙﹏⊙
   dislike:                    ( ಠ ʖ̯ ಠ)
   distressed-face:            (,,•᷄ࡇ•᷅ ,,)?
-  double-Flip:                ┻━┻ ︵ヽ(`Д´)ﾉ︵ ┻━┻
+  dongers:                    ヽ༼ຈل͜ຈ༽ﾉ ‖ ( ͡~ ͜ʖ ͡°)✧ ‖ ༼ ͡ʘ ͜ʖ ͡ʘ༽ ‖ ༼ ͡☉ل͜͡☉༽╚═( ͡° ͜ʖ ͡°)═╝ ‖ ༼ ▀̿̿Ĺ̯̿̿▀̿ ̿༽ ‖ ༼ ͡☉ل͜ ͡☉༽
+                                https://glyphy.io/emoticons/dongers
+  double-flip:                ┻━┻ ︵ヽ(`Д´)ﾉ︵ ┻━┻
   do-you-even-lift-bro?:      ᕦ(ò_óˇ)ᕤ
   eff-off:                    ᶠᶸᶜᵏᵧₒᵤ! ‖ (‿ˠ‿)  Ɑ͞ ̶͞ ̶͞ ̶͞ لں͞ ‖ (๑•́o•̀๑) ‖ ( •̯́ ₃ •̯̀)
   emo-dance:                  ヾ(-_- )ゞ
@@ -4166,6 +4179,8 @@ CXREF: https://github.com/dysfunc/ascii-emoji
   kirby:                      ⊂(◉‿◉)つ
   kissing:                    ( ˘ ³˘)♥  ‖ (っ˶ ˘ ᵕ˘)ˆᵕ ˆ˶ς)
   kitty-emote:                ᵒᴥᵒ#
+  lenny-face:                 ( ͡° ͜ʖ ͡°) ‖ ( ͡° ͜ʖ ͡°) ‖ ( ͡° ͜ʖ ͡°)👍 ‖ ( ͡~ ͜ʖ ͡°) ‖ (°(°ʖ(°ʖ°)ʖ°)°)
+                                https://glyphy.io/emoticons/lenny-faces
   listening-to-headphones:    ◖ᵔᴥᵔ◗ ♪ ♫
   looking-down:               (._.)
   love:                       ♥‿♥
@@ -4174,6 +4189,8 @@ CXREF: https://github.com/dysfunc/ascii-emoji
   meatwad:                    ༼ つ ◕_◕ ༽つ
   meh:                        ¯\(°_o)/¯
   meow--cat--feline:          ฅ^•ﻌ•^ฅ ‖ ₍^. .^₎⟆ ‖ („• ֊ •„)੭
+  middle-finger:              ( ° ͜ʖ͡°)╭∩╮ ‖ ( ︶ ͜ʖ ︶)_╭∩╮ ‖ 凸(•̀_•́)凸 ‖ 凸(⊙▂⊙✖ ) ‖ ( ͡° ل͟ ͡° )╭∩╮
+                                https://glyphy.io/emoticons/middle-finger
   mischievous:                (•̀ᴗ•́ )ゞ ‖ (๑>◡<๑)
   no-support:                 乁( ◔ ౪◔)「           ┑(￣Д ￣)┍
   opera:                      ヾ(´〇`)ﾉ♪♪♪
@@ -4196,8 +4213,11 @@ CXREF: https://github.com/dysfunc/ascii-emoji
   seal:                       (ᵔᴥᵔ)
   shark-face:                 ( ˇ෴ˇ )
   shrug-face:                 ¯\_(ツ)_/¯
+                                https://glyphy.io/emoticons/shrug
   shy:                        (๑•́ ₃ •̀๑)
-  sleepy:                     눈_눈
+  sleep/sleepy/sleeping:      눈_눈 ‖ (-.-)zzz ‖ (* ´ ﹃｀*) ‖ "(っ- ‸ - ς)ᶻ 𝗓 𐰁 ‖ zᶻ ≽₍^_ ‸ _ ^₎≼⟆
+    🤤 😴 😪 🥱 💤 🛏️ 🛌        ‖ (ᴗ˳ᴗ)ᶻ𝗓𐰁 ‖ (っ˕ -｡)ᶻ 𝗓 𐰁 ‖ ꜀( ꜆-ࡇ-)꜆ ᶻ 𝗓 𐰁 ‖ ( -﹃ -) . . . ᶻ 𝗓 𐰁
+                                ‖ (×_×)⌒☆  ‖ (✖╭╮✖) zZ ‖ (z.Z)ʕ•ᴥ•ʔ ‖ (- o - )💤 ‖ (*´-`)✧  ‖ (｡--｡ )人( ｡--｡)
   smiley-toast:               ʕʘ̅͜ʘ̅ʔ
   smirk [emojicombos.com]     (¬‿¬)凸 [!?] ‖ ¬‿¬ ‖ ( • ᴗ - ) ✧ ‖ (☞ ͡° ͜ʖ ͡°)☞ ‖ 𓁹‿𓁹
   squinting-face:             (≖⩊≖)
@@ -4207,8 +4227,11 @@ CXREF: https://github.com/dysfunc/ascii-emoji
   stoned--mesmerized:         (❁´◡`❁ )
   strut:                      ᕕ( ᐛ )ᕗ
   stunna-shades:              (っ▀¯▀)つ
+  sunglasses:                 (⌐■_■) ‖ (つ▀¯▀ )つ ‖ (ｷ▼O▼)/ ‖ ☀(▀U ▀-͠) ‖ (⌐▨_▨)
+                                https://glyphy.io/emoticons/sunglasses
   surprised:                  （　ﾟДﾟ）
   table-flip:                 (╯°□°）╯︵ ┻━┻
+                                https://glyphy.io/emoticons/table-flip
   take-a-seat:                ₍₍⚞(˶˃ ꒳ ˂˶)⚟⁾⁾
   taking-a-dump:              (⩾﹏⩽)
   tgif:                       “ヽ(´▽｀)ノ”
@@ -4221,6 +4244,7 @@ CXREF: https://github.com/dysfunc/ascii-emoji
   tongues-out:                ˙𐃷˙ ‖ (˶˃𐃷˂˶)
   tripping-out:               q(❂‿❂)p
   trolling:                   ༼∵༽ ༼⍨༽ ༼⍢༽ ༼⍤༽
+  uwu:                        https://glyphy.io/emoticons/uwu
   wave-dance:                 ~(^-^)~                                               ⌇
   weed-smoking:               ૮ ྀི𓁹‿ 𓁹 ྀིა ▂▂⌇ ‖ ( ´ཀ` )☠︎︎  ‖ (𓁹 𓁹) ‖ ( ≖‿  ≖ ) ‖ ᝰ▬▬  ▬▬ڪ ‖ 🚬૮(๑ᵔ⤙ᵔ๑)っ🍪
                                 🚬😙💨🥴🍁 ‖ ×̷̷͜×̷ ‖ ౦０o ｡ (‾́。‾́ )y🚬 ‖ (⇀‸↼‶)つ━☁☁☁  ‖ (づ￣ 3￣)y-~~
