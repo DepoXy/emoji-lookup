@@ -4131,7 +4131,8 @@ THANX:
   crazy:                      ミ●﹏☉ミ
   creeper:                    ƪ(ړײ)ƪ
   cry-face:                   ｡ﾟ( ﾟஇ‸இﾟ)ﾟ｡
-  crying-face:                ಥ_ಥ  ‖  (╥﹏╥)
+  crying-face:                ಥ_ಥ  ‖  (╥﹏╥) ‖ (╥﹏╥)ノシ ‖ (༎ຶ ෴ ༎ຶ) ‖ (｡•́︿•̀｡)
+                                https://glyphy.io/emoticons/crying
   cry-troll:                  ༼ ༎ຶ ෴ ༎ຶ༽
   cute-bear:                  ʕ•ᴥ•ʔ
   cute-face-with-big-eyes:    (｡◕‿◕｡)
