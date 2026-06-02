@@ -4216,7 +4216,8 @@ THANX:
   satisfied:                  (◠﹏◠)
   seal:                       (ᵔᴥᵔ)
   shark-face:                 ( ˇ෴ˇ )
-  shrug-face:                 ¯\_(ツ)_/¯
+  shrug-face aka *shruggie*:  ¯\_(ツ)_/¯ ‖ ¯\_ʘ‿ʘ_/¯ ‖ ¯\_—_—_/¯ ‖ ¯\(°_o)/¯ ‖ 𓀠 ‖ 𓁏 ‖ 𓀡
+                                ‖ ¯\_(ヅ)_/¯ ‖ ¯\_㋡_/¯ ‖ ¯\_( ͡° ͜ʖ ͡°)_/¯
                                 https://glyphy.io/emoticons/shrug
   shy:                        (๑•́ ₃ •̀๑)
   sleep/sleepy/sleeping:      눈_눈 ‖ (-.-)zzz ‖ (* ´ ﹃｀*) ‖ "(っ- ‸ - ς)ᶻ 𝗓 𐰁 ‖ zᶻ ≽₍^_ ‸ _ ^₎≼⟆
