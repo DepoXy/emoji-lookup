@@ -4097,25 +4097,26 @@ THANX:
 - This list originally derived from:
     https://github.com/dysfunc/ascii-emoji
   - (Unlicensed, which I assume means, Thank you!!)
-- But we've since expanded with help from:
+- But we've since expanded with snippets from:
     https://emojicombos.com/
     https://www.asciiart.eu/one-line
       https://www.asciiart.eu/one-line/actions
     https://glyphy.io/emoticons/
     - Spike/Ftreq/2026-05-22: Glyphy has lots more emoticon/Kaomoji labeled
                               categories we could add below...
+    - CALSO:
+      https://www.piliapp.com/emoticon/
 - REFER:
   https://en.wikipedia.org/wiki/Kaomoji
-  - CALSO:
-    https://www.piliapp.com/emoticon/
 
 ::
 
   4chan-emoticon:             ( ͡° ͜ʖ ͡°)
-  angry:                      https://glyphy.io/emoticons/angry
+  angry: †                    
   angry-birds:                ( ఠൠఠ )ﾉ
   angry-face:                 (╬ ಠ益ಠ)
   angry-troll:                ヽ༼ ಠ益ಠ ༽ﾉ
+  annoyed: †                  (⋋_⋌) ‖ (ʘ言ʘ╬) ‖ (ᓄಠ_ಠ)ᓄ ‖ ლ(ಠ益ಠლ) ‖ (╯•﹏•╰) ‖ (⌣_⌣”) ‖ (⌒_⌒;)
   are-u-sure-closed-eyes:     (ᵕ—ᴗ—) # squinting
   at-what-cost:               ლ(ಠ益ಠლ)
   barf:                       (´ж｀ς)
@@ -4130,12 +4131,11 @@ THANX:
   chicken:                    ʚ(•｀
   clown--honk-honk:           (•́⍜•̀) ‖ *<|:•] ‖ (᨟ ͜● ᨟) ‖ &(᨟ ͜● ᨟)& ‖ ×̷̷͜×̷ ‖ ( ꩜ ᯅ ꩜;) 
   confused-scratch:           (⊙.☉)7
-  confused:                   ¿ⓧ_ⓧﮌ ‖ https://glyphy.io/emoticons/confused
+  confused: †                 ¿ⓧ_ⓧﮌ
   crazy:                      ミ●﹏☉ミ
   creeper:                    ƪ(ړײ)ƪ
   cry-face:                   ｡ﾟ( ﾟஇ‸இﾟ)ﾟ｡
-  crying-face:                ಥ_ಥ  ‖  (╥﹏╥) ‖ (╥﹏╥)ノシ ‖ (༎ຶ ෴ ༎ຶ) ‖ (｡•́︿•̀｡)
-                                https://glyphy.io/emoticons/crying
+  crying-face: †              ಥ_ಥ  ‖  (╥﹏╥) ‖ (╥﹏╥)ノシ ‖ (༎ຶ ෴ ༎ຶ) ‖ (｡•́︿•̀｡)
   cry-troll:                  ༼ ༎ຶ ෴ ༎ຶ༽
   cute-bear:                  ʕ•ᴥ•ʔ
   cute-face-with-big-eyes:    (｡◕‿◕｡)
@@ -4143,14 +4143,13 @@ THANX:
   dance:                      ♪♪ ヽ(ˇ∀ˇ )ゞ
   dancing:                    ┌(ㆆ㉨ㆆ)ʃ
   dear-god-why:               щ（ﾟДﾟ щ）
-  devil:                      ↜(Φ益Φ)Ψ ‖ https://glyphy.io/emoticons/devils
+  devil: †                    ↜(Φ益Φ)Ψ
   devious-smile:              ಠ‿ಠ
   disagree:                   ٩◔̯◔۶
   discombobulated:            ⊙﹏⊙
   dislike:                    ( ಠ ʖ̯ ಠ)
   distressed-face:            (,,•᷄ࡇ•᷅ ,,)?
-  dongers:                    ヽ༼ຈل͜ຈ༽ﾉ ‖ ( ͡~ ͜ʖ ͡°)✧ ‖ ༼ ͡ʘ ͜ʖ ͡ʘ༽ ‖ ༼ ͡☉ل͜͡☉༽╚═( ͡° ͜ʖ ͡°)═╝ ‖ ༼ ▀̿̿Ĺ̯̿̿▀̿ ̿༽ ‖ ༼ ͡☉ل͜ ͡☉༽
-                                https://glyphy.io/emoticons/dongers
+  dongers: †                  ヽ༼ຈل͜ຈ༽ﾉ ‖ ( ͡~ ͜ʖ ͡°)✧ ‖ ༼ ͡ʘ ͜ʖ ͡ʘ༽ ‖ ༼ ͡☉ل͜͡☉༽╚═( ͡° ͜ʖ ͡°)═╝ ‖ ༼ ▀̿̿Ĺ̯̿̿▀̿ ̿༽ ‖ ༼ ͡☉ل͜ ͡☉༽
   double-flip:                ┻━┻ ︵ヽ(`Д´)ﾉ︵ ┻━┻
   do-you-even-lift-bro?:      ᕦ(ò_óˇ)ᕤ
   eff-off:                    ᶠᶸᶜᵏᵧₒᵤ! ‖ (‿ˠ‿)  Ɑ͞ ̶͞ ̶͞ ̶͞ لں͞ ‖ (๑•́o•̀๑) ‖ ( •̯́ ₃ •̯̀)
@@ -4183,8 +4182,7 @@ THANX:
   kirby:                      ⊂(◉‿◉)つ
   kissing:                    ( ˘ ³˘)♥  ‖ (っ˶ ˘ ᵕ˘)ˆᵕ ˆ˶ς)
   kitty-emote:                ᵒᴥᵒ#
-  lenny-face:                 ( ͡° ͜ʖ ͡°) ‖ ( ͡° ͜ʖ ͡°) ‖ ( ͡° ͜ʖ ͡°)👍 ‖ ( ͡~ ͜ʖ ͡°) ‖ (°(°ʖ(°ʖ°)ʖ°)°)
-                                https://glyphy.io/emoticons/lenny-faces
+  lenny-face: †               ( ͡° ͜ʖ ͡°) ‖ ( ͡° ͜ʖ ͡°) ‖ ( ͡° ͜ʖ ͡°)👍 ‖ ( ͡~ ͜ʖ ͡°) ‖ (°(°ʖ(°ʖ°)ʖ°)°)
   listening-to-headphones:    ◖ᵔᴥᵔ◗ ♪ ♫
   looking-down:               (._.)
   love:                       ♥‿♥
@@ -4193,8 +4191,7 @@ THANX:
   meatwad:                    ༼ つ ◕_◕ ༽つ
   meh:                        ¯\(°_o)/¯
   meow--cat--feline:          ฅ^•ﻌ•^ฅ ‖ ₍^. .^₎⟆ ‖ („• ֊ •„)੭
-  middle-finger:              ( ° ͜ʖ͡°)╭∩╮ ‖ ( ︶ ͜ʖ ︶)_╭∩╮ ‖ 凸(•̀_•́)凸 ‖ 凸(⊙▂⊙✖ ) ‖ ( ͡° ل͟ ͡° )╭∩╮
-                                https://glyphy.io/emoticons/middle-finger
+  middle-finger: †            ( ° ͜ʖ͡°)╭∩╮ ‖ ( ︶ ͜ʖ ︶)_╭∩╮ ‖ 凸(•̀_•́)凸 ‖ 凸(⊙▂⊙✖ ) ‖ ( ͡° ل͟ ͡° )╭∩╮
   mischievous:                (•̀ᴗ•́ )ゞ ‖ (๑>◡<๑)
   no-support:                 乁( ◔ ౪◔)「           ┑(￣Д ￣)┍
   opera:                      ヾ(´〇`)ﾉ♪♪♪
@@ -4216,9 +4213,8 @@ THANX:
   satisfied:                  (◠﹏◠)
   seal:                       (ᵔᴥᵔ)
   shark-face:                 ( ˇ෴ˇ )
-  shrug-face aka *shruggie*:  ¯\_(ツ)_/¯ ‖ ¯\_ʘ‿ʘ_/¯ ‖ ¯\_—_—_/¯ ‖ ¯\(°_o)/¯ ‖ 𓀠 ‖ 𓁏 ‖ 𓀡
+  shrug-face aka *shruggie*:† ¯\_(ツ)_/¯ ‖ ¯\_ʘ‿ʘ_/¯ ‖ ¯\_—_—_/¯ ‖ ¯\(°_o)/¯ ‖ 𓀠 ‖ 𓁏 ‖ 𓀡
                                 ‖ ¯\_(ヅ)_/¯ ‖ ¯\_㋡_/¯ ‖ ¯\_( ͡° ͜ʖ ͡°)_/¯
-                                https://glyphy.io/emoticons/shrug
   shy:                        (๑•́ ₃ •̀๑)
   sleep/sleepy/sleeping:      눈_눈 ‖ (-.-)zzz ‖ (* ´ ﹃｀*) ‖ "(っ- ‸ - ς)ᶻ 𝗓 𐰁 ‖ zᶻ ≽₍^_ ‸ _ ^₎≼⟆
     🤤 😴 😪 🥱 💤 🛏️ 🛌        ‖ (ᴗ˳ᴗ)ᶻ𝗓𐰁 ‖ (っ˕ -｡)ᶻ 𝗓 𐰁 ‖ ꜀( ꜆-ࡇ-)꜆ ᶻ 𝗓 𐰁 ‖ ( -﹃ -) . . . ᶻ 𝗓 𐰁
@@ -4232,11 +4228,9 @@ THANX:
   stoned--mesmerized:         (❁´◡`❁ )
   strut:                      ᕕ( ᐛ )ᕗ
   stunna-shades:              (っ▀¯▀)つ
-  sunglasses:                 (⌐■_■) ‖ (つ▀¯▀ )つ ‖ (ｷ▼O▼)/ ‖ ☀(▀U ▀-͠) ‖ (⌐▨_▨)
-                                https://glyphy.io/emoticons/sunglasses
+  sunglasses: †               (⌐■_■) ‖ (つ▀¯▀ )つ ‖ (ｷ▼O▼)/ ‖ ☀(▀U ▀-͠) ‖ (⌐▨_▨)
   surprised:                  （　ﾟДﾟ）
-  table-flip:                 (╯°□°）╯︵ ┻━┻
-                                https://glyphy.io/emoticons/table-flip
+  table-flip: †               (╯°□°）╯︵ ┻━┻ ‖ (ಠ 益ಠ)︵┻━┻
   take-a-seat:                ₍₍⚞(˶˃ ꒳ ˂˶)⚟⁾⁾
   taking-a-dump:              (⩾﹏⩽)
   tgif:                       “ヽ(´▽｀)ノ”
@@ -4249,7 +4243,7 @@ THANX:
   tongues-out:                ˙𐃷˙ ‖ (˶˃𐃷˂˶)
   tripping-out:               q(❂‿❂)p
   trolling:                   ༼∵༽ ༼⍨༽ ༼⍢༽ ༼⍤༽
-  uwu:                        https://glyphy.io/emoticons/uwu
+  uwu: †
   wave-dance:                 ~(^-^)~                                               ⌇
   weed-smoking:               ૮ ྀི𓁹‿ 𓁹 ྀིა ▂▂⌇ ‖ ( ´ཀ` )☠︎︎  ‖ (𓁹 𓁹) ‖ ( ≖‿  ≖ ) ‖ ᝰ▬▬  ▬▬ڪ ‖ 🚬૮(๑ᵔ⤙ᵔ๑)っ🍪
                                 🚬😙💨🥴🍁 ‖ ×̷̷͜×̷ ‖ ౦０o ｡ (‾́。‾́ )y🚬 ‖ (⇀‸↼‶)つ━☁☁☁  ‖ (づ￣ 3￣)y-~~
@@ -4266,7 +4260,21 @@ THANX:
   ---
   misc/unclassified:          (・o・) ‖ ಠ︵ಠ ‖ .·´¯(>▂<)´¯·. ‖ 8===👊🏿===D💦
                                 (✿ ◠‿◠) ‖ [̲̅$̲̅(ツ)$̲̅] ‖ ᕦ(ツ)ᕤ 
- 
+
+REFER: †:
+  https://glyphy.io/emoticons/annoyed
+  https://glyphy.io/emoticons/angry
+  https://glyphy.io/emoticons/confused
+  https://glyphy.io/emoticons/crying
+  https://glyphy.io/emoticons/devils
+  https://glyphy.io/emoticons/dongers
+  https://glyphy.io/emoticons/lenny-faces
+  https://glyphy.io/emoticons/middle-finger
+  https://glyphy.io/emoticons/shrug
+  https://glyphy.io/emoticons/sunglasses
+  https://glyphy.io/emoticons/table-flip
+  https://glyphy.io/emoticons/uwu
+
 ===========================================================================
 ─ Rainbow Bars ────────────────────────────────────────────────────────────
 ===========================================================================
