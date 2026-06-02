@@ -3141,6 +3141,7 @@ U+203E  0924      ‾  '-  Overline‾, overscore, or overbar                   
 U+00AF            ¯  'm  ├→ Macron                                                            ¯¯¯¯
 U+005F            _      ├→ Low line (&lowbar; &UnderBar;), Underscore, Underline, Low dash   ____
 U+2017            ‗  =2  ├→ Double low line [No opp.; U+033F Combining Double overline: ◌̿]    ‗‗‗‗
+                         │  └→ Calso: Double-underscore: ' ̳' (though appears empty in Neovim)  ̳ ̳ ̳ ̳
 U+FF3F            ＿     └→ Fullwidth low line [2 ch. widths]                                 ＿＿
 U+203F            ‿      Tie
 U+2040            ⁀      Tie
