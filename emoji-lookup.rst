@@ -4106,6 +4106,8 @@ THANX:
                               categories we could add below...
 - REFER:
   https://en.wikipedia.org/wiki/Kaomoji
+  - CALSO:
+    https://www.piliapp.com/emoticon/
 
 ::
 
