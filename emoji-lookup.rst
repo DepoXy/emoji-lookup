@@ -272,6 +272,7 @@ U+1F573  🕳  hole - (hide)
 U+1F4A3  💣  bomb - comic | (destroy | spy vs. spy)
 U+1F4AC  💬  speech balloon - bubble | comic | dialog | (chat | text)
 U+1F5E8† 🗨️  left speech bubble - dialog | (chat) | († U+1F5E8 U+FE0F) ∦ 🗨
+U+1F5EB  🗫   three speech bubbles ‖ [dunno: wtf: I've never heard of this! /2026-06-03 And it's Unicode 7.0, 2014]
 U+1F5EF  🗯  right anger bubble - angry | balloon | bubble | mad
 U+1F4AD  💭  thought balloon - bubble | comic
 U+1F4A4  💤  zzz - comic | sleep
@@ -349,7 +350,7 @@ U+1F64F  🙏  folded hands - ask | hand | please | pray | thanks | (grateful | 
 hand-prop
 =========
 
-U+270D   ✍  writing hand - hand | write ∦ ✍︎
+U+270D   ✍  writing hand - hand | write ∦ ✍︎ ✍️
 U+1F485  💅  nail polish - care | cosmetics | manicure
 U+1F933  🤳  selfie - camera | phone
 
@@ -368,7 +369,7 @@ U+1F443  👃  nose - body
 U+1F9E0  🧠  brain - intelligent
 U+1FAC0  🫀  anatomical heart - cardiology | organ | pulse ║ v13.0
 U+1FAC1  🫁  lungs - breath | exhalation | inhalation | organ | respiration | (cough: 🌿🔥🦠🫁😫💨) ║ v13.0 😤
-U+1F9B7  🦷  tooth - dentist ║ v11.0
+U+1F9B7  🦷  tooth - dentist | (root) ║ v11.0
 U+1F9B4  🦴  bone - skeleton ║ v11.0
 U+1F440  👀  eyes - eye | face | ("did you see that?")
 U+1F441† 👁️  eye - body | († U+1F441 U+FE0F) ∦ 👁
@@ -724,7 +725,7 @@ U+1F342  🍂  fallen leaf - fallen leaf | falling | leaf
 U+1F343  🍃  leaf fluttering in wind - blow | (smoke | 420)
 U+1FAB9  🪹  empty nest - nesting ║ v14.0
 U+1FABA  🪺  nest with eggs - nesting ║ v14.0
-U+1FABE  🪾  leafless tree - bare | barren | branches | dead | drought | trunk | winter | wood ║ v16.0
+U+1FABE  🪾  leafless tree - bare | barren | branches | dead | drought | trunk | winter | wood | (𖣂 root) ║ v16.0
 
 ############
 Food & Drink
@@ -774,7 +775,7 @@ U+1F344  🍄  mushroom - mushroom | toadstool
 U+1F95C  🥜  peanuts - food | nut | peanut | peanuts | vegetable
 U+1FAD8  🫘  beans - food | kidney | legume ║ v14.0
 U+1F330  🌰  chestnut - chestnut | plant
-U+1FADA  🫚  ginger root - beer | ginger root | root | spice ║ v15.0
+U+1FADA  🫚  ginger root - beer | spice ║ v15.0
 U+1FADB  🫛  pea pod - beans | edamame | legume | pea | pod | vegetable ║ v15.0
 U+1FADC  🫜  root vegetable - beet | food | garden | radish | salad | turnip | vegetarian ║ v16.0
 
@@ -887,7 +888,7 @@ U+1F37B  🍻  clinking beer mugs - bar | clink | drink | mug
 U+1F942  🥂  clinking glasses - celebrate | clink | drink | glass
 U+1F943  🥃  tumbler glass - liquor | shot | whisky
 U+1FAD7  🫗  pouring liquid - drink | empty | glass | spill ║ v14.0
-U+1F964  🥤  cup with straw - juice | soda | malt | soft drink | water | (thirsty | horny)
+U+1F964  🥤  cup with straw - juice | soda | malt | soft drink | water | (thirsty | horny) ∦ 𖠚
 U+1F9CB  🧋  bubble tea - milk | pearl ║ v13.0
 U+1F9C3  🧃  beverage box - juice | straw | sweet | juice box ║ v12.0
 U+1F9C9  🧉  mate - drink ║ v12.0
@@ -1280,10 +1281,10 @@ U+1F9F8  🧸  teddy bear - plaything | plush | stuffed | teddy bear | toy ║ v
 U+1FA85  🪅  piñata - celebration | party | piñata ║ v13.0
 U+1FAA9  🪩  mirror ball - dance | disco | glitter | party ║ v14.0
 U+1FA86  🪆  nesting dolls - doll | nesting | nesting dolls | russia ║ v13.0
-U+2660   ♠️  spade suit - card | game | spade suit ∦ ♠
-U+2665   ♥️  heart suit - card | game | heart suit ∦ ♥
-U+2666   ♦️  diamond suit - card | diamond suit | game ∦ ♦
-U+2663   ♣️  club suit - card | club suit | game ∦ ♣
+U+2660   ♠️  spade suit - card | game | spades | (poker) ∦ ♠🂡
+U+2665   ♥️  heart suit - card | game | hearts ∦ ♥ 🂱
+U+2666   ♦️  diamond suit - card | diamonds | game ∦ ♦ 🃁
+U+2663   ♣️  club suit - card | clubs | game ∦ ♣ 🃑
 U+265F   ♟️  chess pawn - chess | chess pawn | dupe | expendable | red shirt ║ v11.0 ∦ ♟
             ➯ emojification of pre-existing character
 U+1F0CF  🃏  joker - card | game | joker | wildcard
@@ -1409,7 +1410,7 @@ phone
 
 U+1F4F1  📱  mobile phone - cell | mobile | phone | telephone | (cellphone)
 U+1F4F2  📲  mobile phone with arrow - arrow | cell | mobile | mobile phone with arrow | phone | receive
-U+260E†  ☎️  telephone - phone | telephone | († U+260E U+FE0F) ∦ ☎
+U+260E†  ☎️  telephone - phone | telephone | († U+260E U+FE0F) ∦ ☎  ✆
 U+1F4DE  📞  telephone receiver - phone | receiver | telephone
 U+1F4DF  📟  pager - pager
 U+1F4E0  📠  fax machine - fax | fax machine
@@ -1807,7 +1808,7 @@ U+2795   ➕  plus - + | math | plus | sign
 U+2796   ➖  minus - - | − | math | minus | sign
 U+2797   ➗  divide - ÷ | divide | division | math | sign
 U+1F7F0  🟰  heavy equals sign - equality | math ║ v14.0
-U+267E†  ♾️  infinity - forever | infinity | unbounded | universal ║ v11.0 | († U+267E U+FE0F) ∦ ♾  ∞  Ꝏ 	ꝏ 	ထ
+U+267E†  ♾️  infinity - forever | infinity | unbounded | universal ║ v11.0 | († U+267E U+FE0F) ∦ ♾  ∞  Ꝏ 	ꝏ 	ထ ᦠ
             ➯ emojification of pre-existing character
             See also: Digraph 00 (infinity): ∞
 
@@ -2979,12 +2980,12 @@ https://en.wikipedia.org/wiki/List_of_Unicode_characters
 Miscellaneous Symbols
 https://en.wikipedia.org/wiki/Miscellaneous_Symbols
 
-U+260x	☀	☁	☂	☃	☄	★	☆	☇	☈	☉	☊	☋	☌	☍	☎	☏         # Star/stars ⭐ ★	☆
+U+260x	☀	☁	☂	☃	☄	★	☆	☇	☈	☉	☊	☋	☌	☍	☎	☏         # Star/stars: ⭐ ★	☆ [di: *2 *1] ⭑ ⚝
 U+261x	☐	☑	☒	☓	☔	☕	☖	☗	☘	☙	☚	☛	☜	☝	☞	☟
 U+262x	☠	☡	☢	☣	☤	☥	☦	☧	☨	☩	☪	☫	☬	☭	☮	☯         # Chi Rho (☧)
 U+263x	☰	☱	☲	☳	☴	☵	☶	☷	☸	☹	☺	☻	☼	☽	☾	☿         # Identical To or &equiv; CXREF: ≡ (☰)
 U+264x	♀	♁	♂	♃	♄	♅	♆	♇	♈	♉	♊	♋	♌	♍	♎	♏
-U+265x	♐	♑	♒	♓	♔	♕	♖	♗	♘	♙	♚	♛	♜	♝	♞	♟
+U+265x	♐	♑	♒	♓	♔	♕	♖	♗	♘	♙	♚	♛	♜	♝	♞	♟ # chess pieces: ♔♕♖♗♘♙ 𖣯 ⚄
 U+266x	♠	♡	♢	♣	♤	♥	♦	♧	♨	♩	♪	♫	♬	♭	♮	♯
 U+267x	♰	♱	♲	♳	♴	♵	♶	♷	♸	♹	♺	♻	♼	♽	♾	♿
 U+268x	⚀	⚁	⚂	⚃	⚄	⚅	⚆	⚇	⚈	⚉	⚊	⚋	⚌	⚍	⚎	⚏         # Die face-1, etc.
@@ -3195,6 +3196,9 @@ Other, non-ASCII punctuation:
      from docutils.utils.punctuation_chars import delimiters
 - Unique Symbols: ⸎- ꡴  ꣸ ꧁  ꧍ ꧟ ꩜ ꫞ ꫟ 𐏐 𐡗 𐩿 ߷ ༒ ྅ ᥄ ᥅  ᨟ ᪭  〃 ៖ ᨟ ꧟ ꩜ 𐏐 𐡗
 - Wavy Lines: ﹌ 〽 〰 𐩘  ࿐  ၏  ៘  ៚  ᧞  ᧟  ᭚  〜 ꘏  ꤮  𑂼
+  - In author's editor, 𐩘 is 1-1/2 chars. wide visually, but only takes 1 column,
+    so consecutive characters overlap and a string of 'em looks darker except on
+    the outside edges, e.g., 𐩘𐩘𐩘𐩘𐩘𐩘𐩘𐩘𐩘𐩘
 - Stars: * ٭ ܀ ܍ ፨ ᛭᪦ ※ ⁑ ⁕ ꙳ ꥟ ＊ *aka asterisks*  ❇️ 🫟 | ★ ☆ ⛤ ⛥ ⛦ ⛧	
 - Bullets: • ⁌ ⁍ ‖ ᛫ ‧ ⁃ ⸰ ⸱ 𐬹 ・｡࠰ · ·࠾ ॰ ๏꙾꧞ '﹅﹆ ･ 𐄁 𐤟 𐤿 𐩐 𑂻 ‖ ・[digraph: ``.6``]
   - Bullets & Centered Circle digraphs & a few others, but not Unicode punctuation's • ⁌ & ⁍:
@@ -3216,6 +3220,7 @@ Other, non-ASCII punctuation:
 - At: ＠
 - Exes: × [di: ``*X``] 𓏵  ᛝ ✖  ♰ ᙭ ᙮ ᰿  ༝ ༞ ‖ ox|xo: ༟ ࿎ ‖ [See table below: #Exes]
 - Checkboxes/Checkboxing: ☐ ☒ ☓ ⛒ ‖ ☑  🔳 ‖ □ [di: OS [Open Square], ■ di: fS [full Sq.]] ‖ ▢ [di: RO (ROunded)]
+  - Double-boxed: ⧉  ⿻
 
 - Exed-Circles/Circles with X: ⦻ ⊗ Ⓧ ⓧ 🕁
 - Or: ᴼᴿ ↔️ 🇴 🇷  𑃁꣎ ꣏ ꤯ ꯫ ꩟ ꡷ । ॥ ᪨᰻ ᱾ ︲＇᱿
@@ -3268,6 +3273,12 @@ Other, non-ASCII punctuation:
   - ༜  U+0F1C  Tibetan Sign Rdel Dkar Gsum [syn: ⁂ Asterism]
   - ༶  U+0F36  Tibetan Mark Caret undefined-Dzud Rtags Bzhi Mig Can [syn: Lozenge/Diamond]
   - ࿏  U+0FCF  Tibetan Sign Rdel Nag Gsum [3-"x" Asterism]
+
+- Put a reminder pin in a string on your finger it, paperclip:
+  - SYNON: Reminder: 📌🖈 ‖📍𖤣⚲ ⟟ 𖡡⚲⟟⌕➤ ⚘. ❀ ‖ ♡ 𑣲 ◡̈  ‖ 📎🖇 𓄲  𐙚 𓍼  ‖ ⤷ ➢⋆⤿ » ⌯⌲ —͟͟͞͞★ ‖ ≔ ☰ᯓ ᝰ.ᐟ ⋆˙⟡  ✎𓂃  ⋆. ˎˊ˗ ♘𖡎
+    ‖ 𖡼.𖤣𖥧𖡼.𖤣𖥧 ‖ ᨒ ོ☼↟↟ᨒ↟𖠰ᨒ
+ 
+- SYNON: For help/information: 🆘 ❓ 🚨 🙋 🛟 💡 ℹ️ ⓘ 🙏 💬 📞 🤜🤛 🤔 👋 💁
 
 ===========================================================================
 ─ General & Supplemental Punctuation ──────────────────────────────────────
@@ -4188,13 +4199,13 @@ THANX:
   love:                       ♥‿♥
   love:                       -`ღ´-
   magic-wand-cast-spell:      (๑'ᵕ'๑)⸝* ‖ (*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ
-  meatwad:                    ༼ つ ◕_◕ ༽つ
+  meatwad:                    ༼ つ ◕_◕ ༽つ ‖ ༼ つ ◔_◔ ༽つ
   meh:                        ¯\(°_o)/¯
   meow--cat--feline:          ฅ^•ﻌ•^ฅ ‖ ₍^. .^₎⟆ ‖ („• ֊ •„)੭
   middle-finger: †            ( ° ͜ʖ͡°)╭∩╮ ‖ ( ︶ ͜ʖ ︶)_╭∩╮ ‖ 凸(•̀_•́)凸 ‖ 凸(⊙▂⊙✖ ) ‖ ( ͡° ل͟ ͡° )╭∩╮
   mischievous:                (•̀ᴗ•́ )ゞ ‖ (๑>◡<๑)
-  no-support:                 乁( ◔ ౪◔)「           ┑(￣Д ￣)┍
-  opera:                      ヾ(´〇`)ﾉ♪♪♪
+  no-support:                 乁( ◔ ౪ ◔)「           ┑(￣Д ￣)┍
+  opera:                      ヾ(´〇`)ﾉ♪♪♪ ‖ ヾ(´〇\`)ﾉ♪♪♪
   other-faces:                ꧁⎝ 𓆩༺✧༻𓆪 ⎠꧂  ‖ ◝(ᵔᗜᵔ)◜ ‖ (っ˘ڡ˘ς) ‖ (ㅅ´ ˘ `) ‖ (๑>؂•̀๑) ‖ ૮◞ ‸ ◟ ა
                                 ‖ ◡̈  ‖ ツ ‖ ( ͡° ͜ʖ ͡°) ‖ ( ≖‿  ≖ ) ‖ ( ＾◡＾)っ✂ ╰⋃╯ [!?] ‖ („• ֊ •„)
                                 ‖ ( ˘ᴗ˘ )
@@ -4250,7 +4261,7 @@ THANX:
                                 ε(´｡•᎑•`)っ🚬 ‖ <(￣3￣)y▂ξ ‖ (＾-＾)y-~~ ‖ (￣ c￣)y▂ξ ‖ (- 。-)y-゜゜
                                 (●｀∀´●)y-~~ ‖ (; ´_ゝ`)y-~~ ‖ (￣(ｴ)￣)y-ﾟﾟﾟ   ‖ y(^ o^)y~~ ‖ :-Q
   whistling:                  (っ•́｡•́)♪♬
-  winnie-the-pooh:            ʕ •́؈•̀)                ʕ •́؈•̀ ₎
+  winnie-the-pooh:            ʕ •́؈ •̀) ‖ ʕ •́؈ •̀ ₎
   winning:                    (•̀ᴗ•́)و
   wizard:                     (∩｀-´)⊃━☆ﾟ.*･｡ﾟ
   worried:                    (´･_･`)
@@ -4259,9 +4270,9 @@ THANX:
   zoned:                      (⊙_◎)'
   ---
   misc/unclassified:          (・o・) ‖ ಠ︵ಠ ‖ .·´¯(>▂<)´¯·. ‖ 8===👊🏿===D💦
-                                (✿ ◠‿◠) ‖ [̲̅$̲̅(ツ)$̲̅] ‖ ᕦ(ツ)ᕤ 
+                                (✿ ◠‿◠) ‖ [̲̅$̲̅(ツ)$̲̅] ‖ ᕦ(ツ)ᕤ  ‖ ᶠᶸᶜᵏᵧₒᵤ!
 
-REFER: †:
+- REFER: †:
   https://glyphy.io/emoticons/annoyed
   https://glyphy.io/emoticons/angry
   https://glyphy.io/emoticons/confused
