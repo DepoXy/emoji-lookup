@@ -3273,7 +3273,7 @@ Other, non-ASCII punctuation:
   - ༜  U+0F1C  Tibetan Sign Rdel Dkar Gsum [syn: ⁂ Asterism]
   - ༶  U+0F36  Tibetan Mark Caret undefined-Dzud Rtags Bzhi Mig Can [syn: Lozenge/Diamond]
   - ࿏  U+0FCF  Tibetan Sign Rdel Nag Gsum [3-"x" Asterism]
-
+ 
 - Put a reminder pin in a string on your finger it, paperclip:
   - SYNON: Reminder: 📌🖈 ‖📍𖤣⚲ ⟟ 𖡡⚲⟟⌕➤ ⚘. ❀ ‖ ♡ 𑣲 ◡̈  ‖ 📎🖇 𓄲  𐙚 𓍼  ‖ ⤷ ➢⋆⤿ » ⌯⌲ —͟͟͞͞★ ‖ ≔ ☰ᯓ ᝰ.ᐟ ⋆˙⟡  ✎𓂃  ⋆. ˎˊ˗ ♘𖡎
     ‖ 𖡼.𖤣𖥧𖡼.𖤣𖥧 ‖ ᨒ ོ☼↟↟ᨒ↟𖠰ᨒ
@@ -3416,6 +3416,7 @@ U+2BFx	⯰	⯱	⯲	⯳	⯴	⯵	⯶	⯷	⯸	⯹	⯺	⯻	⯼	⯽	⯾	⯿
 Hard drive & Files/Folders/Storage: C:\: 🗄️ 🗃️ 📁 📂 🗂️ 📄 📋 🧾 🗒 📑 📚 📖 📜 | 💼 🎒
                                          ☁️ 💻 🖥️ 💽 💾 💿 📀 📼 🛡️ 🪨🧠 🏭 🌮 🧺 🕳️ 🧲 🗑️ 📦 🛢 🌐 🧱 
     (↑↑↑↑↑ or sorta thereof)             | ⯳ ⯶ ⛁ ⛃ 🖴️ 🖧 🗁 🫙| 𒅒   𒈔   𒅒   𒇫   𒄆  | FA:     
+                                          [└→ LARGE: Enlargeable Symbols ↑↑↑ for Graphics Apps ↑↑↑]
 
 Bar code: 𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃
 
