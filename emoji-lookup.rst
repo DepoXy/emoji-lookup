@@ -1221,75 +1221,75 @@ U+1F3AB  🎫  ticket - admission | ticket
 award-medal
 ===========
 
-U+1F396  🎖  military medal - celebration | medal | military
-U+1F3C6  🏆  trophy - prize | trophy
-U+1F3C5  🏅  sports medal - medal | sports medal
-U+1F947  🥇  1st place medal - 1st place medal | first | gold | medal
-U+1F948  🥈  2nd place medal - 2nd place medal | medal | second | silver
-U+1F949  🥉  3rd place medal - 3rd place medal | bronze | medal | third
+U+1F396  🎖  military medal - celebration
+U+1F3C6  🏆  trophy - prize
+U+1F3C5  🏅  sports medal -
+U+1F947  🥇  1st place medal - first | gold
+U+1F948  🥈  2nd place medal - second | silver
+U+1F949  🥉  3rd place medal - bronze | third
 
 =====
 sport
 =====
 
-U+26BD   ⚽  soccer ball - ball | football | soccer
-U+26BE   ⚾  baseball - ball | baseball
-U+1F94E  🥎  softball - ball | glove | softball | underarm ║ v11.0
-U+1F3C0  🏀  basketball - ball | basketball | hoop
-U+1F3D0  🏐  volleyball - ball | game | volleyball
-U+1F3C8  🏈  american football - american | ball | football
-U+1F3C9  🏉  rugby football - ball | football | rugby
-U+1F3BE  🎾  tennis - ball | racquet | tennis
-U+1F94F  🥏  flying disc - flying disc | ultimate ║ v11.0
-U+1F3B3  🎳  bowling - ball | bowling | game
-U+1F3CF  🏏  cricket game - ball | bat | cricket game | game
-U+1F3D1  🏑  field hockey - ball | field | game | hockey | stick
-U+1F3D2  🏒  ice hockey - game | hockey | ice | puck | stick
-U+1F94D  🥍  lacrosse - ball | goal | lacrosse | stick ║ v11.0
-U+1F3D3  🏓  ping pong - ball | bat | game | paddle | ping pong | table tennis
-U+1F3F8  🏸  badminton - badminton | birdie | game | racquet | shuttlecock
-U+1F94A  🥊  boxing glove - boxing | glove
-U+1F94B  🥋  martial arts uniform - judo | karate | martial arts | martial arts uniform | taekwondo | uniform
-U+1F945  🥅  goal net - goal | net
-U+26F3   ⛳  flag in hole - flag in hole | golf | hole
-U+26F8   ⛸  ice skate - ice | skate
-U+1F3A3  🎣  fishing pole - fish | fishing pole | pole
-U+1F93F  🤿  diving mask - diving | diving mask | scuba | snorkeling ║ v12.0
-U+1F3BD  🎽  running shirt - athletics | running | sash | shirt
-U+1F3BF  🎿  skis - ski | skis | snow
-U+1F6F7  🛷  sled - sled | sledge | sleigh | luge | toboggan
-U+1F94C  🥌  curling stone - curling stone | game | rock
+U+26BD   ⚽  soccer ball - football
+U+26BE   ⚾  baseball - ball
+U+1F94E  🥎  softball - ball | glove | underarm ║ v11.0
+U+1F3C0  🏀  basketball - ball | hoop
+U+1F3D0  🏐  volleyball - ball | game
+U+1F3C8  🏈  american football - ball
+U+1F3C9  🏉  rugby football - ball
+U+1F3BE  🎾  tennis - ball | racquet
+U+1F94F  🥏  flying disc - ultimate ║ v11.0
+U+1F3B3  🎳  bowling - ball | game
+U+1F3CF  🏏  cricket game - ball | bat
+U+1F3D1  🏑  field hockey - ball | game | stick
+U+1F3D2  🏒  ice hockey - game | puck | stick
+U+1F94D  🥍  lacrosse - ball | goal | stick ║ v11.0
+U+1F3D3  🏓  ping pong - ball | bat | game | paddle | table tennis
+U+1F3F8  🏸  badminton - birdie | game | racquet | shuttlecock
+U+1F94A  🥊  boxing glove -
+U+1F94B  🥋  martial arts uniform - judo | karate | taekwondo
+U+1F945  🥅  goal net -
+U+26F3   ⛳  flag in hole - golf
+U+26F8   ⛸  ice skate -
+U+1F3A3  🎣  fishing pole - fish
+U+1F93F  🤿  diving mask - scuba | snorkeling ║ v12.0
+U+1F3BD  🎽  running shirt - athletics | sash
+U+1F3BF  🎿  skis - skis | snow
+U+1F6F7  🛷  sled - sledge | sleigh | luge | toboggan
+U+1F94C  🥌  curling stone - game | rock
 
 ====
 game
 ====
 
-U+1F3AF  🎯  direct hit - bullseye | dart | direct hit | game | hit | target
-U+1FA80  🪀  yo-yo - fluctuate | toy | yo-yo ║ v12.0
-U+1FA81  🪁  kite - fly | kite | soar ║ v12.0
-U+1F3B1  🎱  pool 8 ball - 8 | ball | billiard | eight | game | pool 8 ball
-U+1F52E  🔮  crystal ball - ball | crystal | fairy tale | fantasy | fortune | tool
-U+1FA84  🪄  magic wand - magic | magic wand | witch | wizard ║ v13.0
-U+1F9FF  🧿  nazar amulet - bead | charm | evil-eye | nazar | nazar amulet | talisman ║ v11.0
+U+1F3AF  🎯  direct hit - bullseye | dart | game | hit | target
+U+1FA80  🪀  yo-yo - fluctuate | toy ║ v12.0
+U+1FA81  🪁  kite - fly | soar ║ v12.0
+U+1F3B1  🎱  pool 8 ball - billiard | eight | game
+U+1F52E  🔮  crystal ball - fairy tale | fantasy | fortune | tool
+U+1FA84  🪄  magic wand - witch | wizard ║ v13.0
+U+1F9FF  🧿  nazar amulet - bead | charm | evil-eye | talisman ║ v11.0
 U+1FAAC  🪬  hamsa - amulet | Fatima | hand | Mary | Miriam | protection ║ v14.0
-U+1F3AE  🎮  video game - controller | game | video game
-U+1F579  🕹  joystick - game | joystick | video game
-U+1F3B0  🎰  slot machine - game | slot | slot machine
-U+1F3B2  🎲  game die - dice | die | game
-U+1F9E9  🧩  puzzle piece - clue | interlocking | jigsaw | piece | puzzle ║ v11.0
-U+1F9F8  🧸  teddy bear - plaything | plush | stuffed | teddy bear | toy ║ v11.0
-U+1FA85  🪅  piñata - celebration | party | piñata ║ v13.0
+U+1F3AE  🎮  video game - controller
+U+1F579  🕹  joystick - game | video game
+U+1F3B0  🎰  slot machine - game
+U+1F3B2  🎲  game die - dice
+U+1F9E9  🧩  puzzle piece - clue | interlocking | jigsaw ║ v11.0
+U+1F9F8  🧸  teddy bear - plaything | plush | stuffed | toy ║ v11.0
+U+1FA85  🪅  piñata - celebration | party ║ v13.0
 U+1FAA9  🪩  mirror ball - dance | disco | glitter | party ║ v14.0
-U+1FA86  🪆  nesting dolls - doll | nesting | nesting dolls | russia ║ v13.0
+U+1FA86  🪆  nesting dolls - doll | russia ║ v13.0
 U+2660   ♠️  spade suit - card | game | spades | (poker) ∦ ♠🂡
 U+2665   ♥️  heart suit - card | game | hearts ∦ ♥ 🂱
 U+2666   ♦️  diamond suit - card | diamonds | game ∦ ♦ 🃁
 U+2663   ♣️  club suit - card | clubs | game ∦ ♣ 🃑
-U+265F   ♟️  chess pawn - chess | chess pawn | dupe | expendable | red shirt ║ v11.0 ∦ ♟
+U+265F   ♟️  chess pawn - dupe | expendable | red shirt ║ v11.0 ∦ ♟
             ➯ emojification of pre-existing character
-U+1F0CF  🃏  joker - card | game | joker | wildcard
-U+1F004  🀄  mahjong red dragon - game | mahjong | mahjong red dragon | red
-U+1F3B4  🎴  flower playing cards - card | flower | flower playing cards | game | Japanese | playing
+U+1F0CF  🃏  joker - card | game | wildcard
+U+1F004  🀄  mahjong red dragon - game
+U+1F3B4  🎴  flower playing cards - card | game | Japanese
 
 =============
 arts & crafts
