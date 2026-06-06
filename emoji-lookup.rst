@@ -1969,7 +1969,7 @@ Flags
 flag
 ====
 
-U+1F3C1  🏁  chequered flag - checkered | chequered | chequered flag | racing
+U+1F3C1  🏁  chequered flag - checkered | chequered | chequered flag | racing ‖ ▀▄▀▄▀▄▀▄▀▄
 U+1F6A9  🚩  triangular flag - post | triangular flag
 U+1F38C  🎌  crossed flags - celebration | cross | crossed | crossed flags | Japanese
 U+1F3F4  🏴  black flag - black flag | waving
