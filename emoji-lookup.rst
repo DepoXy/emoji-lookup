@@ -611,26 +611,26 @@ U+1F43E  🐾  paw prints - feet | print
 animal-bird
 ===========
 
-U+1F983  🦃  turkey - bird | turkey
-U+1F414  🐔  chicken - bird | chicken
-U+1F413  🐓  rooster - bird | rooster
-U+1F423  🐣  hatching chick - baby | bird | chick | hatching
-U+1F424  🐤  baby chick - baby | bird | chick
-U+1F425  🐥  front-facing baby chick - baby | bird | chick | front-facing baby chick
-U+1F426  🐦  bird - bird
-U+1F427  🐧  penguin - bird | penguin
-U+1F54A  🕊  dove - bird | dove | fly | peace
-U+1F985  🦅  eagle - bird | eagle
-U+1F986  🦆  duck - bird | duck
-U+1F9A2  🦢  swan - bird | cygnet | swan | ugly duckling ║ v11.0
-U+1F989  🦉  owl - bird | owl | wise
-U+1F9A4  🦤  dodo - dodo | extinction | large | Mauritius ║ v13.0
-U+1FAB6  🪶  feather - bird | feather | flight | light | plumage ║ v13.0
-U+1F9A9  🦩  flamingo - flamboyant | flamingo | tropical ║ v12.0
-U+1F99A  🦚  peacock - bird | ostentatious | peacock | peahen | proud ║ v11.0
-U+1F99C  🦜  parrot - bird | parrot | pirate | talk ║ v11.0
-U+1FABD  🪽  wing - angelic | aviation | bird | flying | mythology | wing ║ v15.0
-U+1FABF  🪿  goose - bird | fowl | goose | honk | silly ║ v15.0
+U+1F983  🦃  turkey - bird
+U+1F414  🐔  chicken - bird
+U+1F413  🐓  rooster - bird
+U+1F423  🐣  hatching chick - baby | bird
+U+1F424  🐤  baby chick - bird
+U+1F425  🐥  front-facing baby chick - bird
+U+1F426  🐦  bird -
+U+1F427  🐧  penguin - bird
+U+1F54A  🕊  dove - bird | fly | peace
+U+1F985  🦅  eagle - bird
+U+1F986  🦆  duck - bird
+U+1F9A2  🦢  swan - bird | cygnet | ugly duckling ║ v11.0
+U+1F989  🦉  owl - bird | wise
+U+1F9A4  🦤  dodo - extinction | large | Mauritius ║ v13.0
+U+1FAB6  🪶  feather - bird | flight | light | plumage ║ v13.0
+U+1F9A9  🦩  flamingo - flamboyant | tropical ║ v12.0
+U+1F99A  🦚  peacock - bird | ostentatious | peahen | proud ║ v11.0
+U+1F99C  🦜  parrot - bird | pirate | talk ║ v11.0
+U+1FABD  🪽  wing - angelic | aviation | bird | flying | mythology ║ v15.0
+U+1FABF  🪿  goose - bird | fowl | honk | silly ║ v15.0
 
 ================
 animal-amphibian
