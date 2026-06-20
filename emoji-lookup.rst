@@ -1797,9 +1797,9 @@ U+1F4F4  📴  mobile phone off - cell | telephone
 gender
 ======
 
-U+2640†  ♀️  female sign - female sign | woman | († U+2640 U+FE0F) ∦ ♀
-U+2642†  ♂️  male sign - male sign | man | († U+2642 U+FE0F) ∦ ♂
-U+26A7†  ⚧️  transgender symbol - transgender | transgender symbol ║ v13.0 | († U+26A7 U+FE0F) ∦ ⚧
+U+2640†  ♀️  female sign - female sign | woman | († U+2640 U+FE0F) ∦ ♀ ♀ ⚢
+U+2642†  ♂️  male sign - male sign | man | († U+2642 U+FE0F) ∦ ♂  ♂  
+U+26A7†  ⚧️  transgender symbol - transgender | transgender symbol ║ v13.0 | († U+26A7 U+FE0F) ∦ ⚧ ⚤
 
 ====
 math
@@ -4312,7 +4312,7 @@ THANX:
       Σ(°△° ꪱꪱꪱ)
       └( ﾟ∀ﾟ )┘
       (╭ರ_•́)
-      ⁶🤷⁷
+      ⁶🤷⁷  # six-seven-eh
       ୧⍤⃝ 💐
 
 - REFER: †:
