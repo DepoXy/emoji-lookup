@@ -3507,6 +3507,9 @@ U+22Fx	⋰	⋱	⋲	⋳	⋴	⋵	⋶	⋷	⋸	⋹	⋺	⋻	⋼	⋽	⋾	⋿   # ⋰ U
 
 - REFER: See other *punctuation* through this file for related symbols.
 
+- REFER: ∫ Integral [Di: In] / ∬ Double Integral [Di: DI] / ∮ Contour Integral [Di: Io]
+  - Function: 𝓕 𝓯 𝔉 𝔣 ℱ 𝕱 [Crumb: Fourier]
+
 Supplemental Mathematical Operators
 https://en.wikipedia.org/wiki/Mathematical_operators_and_symbols_in_Unicode
 https://www.compart.com/en/unicode/block/U+2A00
