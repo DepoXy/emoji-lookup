@@ -20,6 +20,8 @@ TOC
 
 - Unicode symbol blocks
 
+- Kaomoji / Emoticons
+
 - Vim digraph table
 
 ###########################################################################
@@ -4309,6 +4311,9 @@ THANX:
       ｡°(°¯᷄◠¯᷅°)°｡
       Σ(°△° ꪱꪱꪱ)
       └( ﾟ∀ﾟ )┘
+      (╭ರ_•́)
+      ⁶🤷‍♂️⁷
+      ୧⍤⃝ 💐
 
 - REFER: †:
   https://glyphy.io/emoticons/annoyed
