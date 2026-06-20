@@ -1768,11 +1768,11 @@ av-symbol
 U+1F500  🔀  shuffle tracks button - arrow | crossed | (branch | merge)
 U+1F501  🔁  repeat button - arrow | clockwise
 U+1F502  🔂  repeat single button - arrow | clockwise | once
-U+25B6   ▶️  play button - arrow | right | triangle ∦ ▶
+U+25B6   ▶️  play button - arrow | right | triangle ∦ ▶ [di: PR]]
 U+23E9   ⏩  fast-forward button - arrow | double
 U+23ED   ⏭️  next track button - arrow | next scene | triangle ∦ ⏭
 U+23EF   ⏯️  play or pause button - arrow | right | triangle ∦ ⏯
-U+25C0   ◀️  reverse button - arrow | left | triangle ∦ ◀
+U+25C0   ◀️  reverse button - arrow | left | triangle ∦ ◀ [di: PL]
 U+23EA   ⏪  fast reverse button - arrow | double | rewind
 U+23EE   ⏮️  last track button - arrow | previous scene | previous track | triangle ∦ ⏮
 U+1F53C  🔼  upwards button - arrow | button | red
@@ -1851,7 +1851,7 @@ U+27B0   ➰  curly loop - curl | (cable)
 U+27BF   ➿  double curly loop - curl | (cable)
 U+303D   〽  part alternation mark
 U+2733†  ✳️  eight-spoked asterisk - * | († U+2733 U+FE0F) ∦ ✳
-U+2734†  ✴️  eight-pointed star - * | († U+2734 U+FE0F) ∦ ✴
+U+2734†  ✴️  eight-pointed star - * | († U+2734 U+FE0F) ∦ ✴  ✴︎
 U+2747†  ❇️  sparkle - * | († U+2747 U+FE0F) ∦ ❇
 U+00A9†  ©️  copyright - c | (Co) | († U+00A9 U+FE0F) ∦ ©
 U+00AE†  ®️  registered - r | (Rg) | († U+00AE U+FE0F) ∦ ®
