@@ -3232,6 +3232,7 @@ Other, non-ASCII punctuation:
       https://fontawesome.com/search?q=circle&ic=free-collection
       https://fontawesome.com/search?q=plus&ic=free-collection
     https://fontawesome.com/search?q=square&ic=free-collection
+  - Radio Buttons: 🔘
 
 - Exed-Circles/Circles with X: ⦻ ⊗ Ⓧ ⓧ 🕁
 - Or: ᴼᴿ ↔️ 🇴 🇷  𑃁꣎ ꣏ ꤯ ꯫ ꩟ ꡷ । ॥ ᪨᰻ ᱾ ︲＇᱿
@@ -4314,6 +4315,7 @@ THANX:
       (╭ರ_•́)
       ⁶🤷⁷  # six-seven-eh
       ୧⍤⃝ 💐
+      【 ͜.人 ͜.】
 
 - REFER: †:
   https://glyphy.io/emoticons/annoyed
