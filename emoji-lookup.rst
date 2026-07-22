@@ -2924,6 +2924,7 @@ variation selector, e.g., U+1F637 U+FE0E (😷︎), and  U+1F637 U+FE0F (😷️
 
 REFER: You might enjoy using Font Awesome icons for websites and your own
 notes (or wherever you can ensure FA is installed).
+- CRUMB: Search: #_FA
 
 - Here's a sample of some Font Awesome glyphs [note these won't render
   everywhere, e.g., if you're viewing this file on GitHub]:
@@ -2938,6 +2939,7 @@ https://fontawesome.com/search?ic=free-collection
 
 - "Empty" FA hits:         
 - Misc. FA:               
+- "Copy": 
 
 -------
 
@@ -3227,8 +3229,8 @@ Other, non-ASCII punctuation:
 - At: ＠
 - Exes: × [di: ``*X``] 𓏵  ᛝ ✖  ♰ ᙭ ᙮ ᰿  ༝ ༞ ‖ ox|xo: ༟ ࿎ ‖ [See table below: #Exes]
 - Checkboxes/Checkboxing: ☐ ☒ ☓ ⛒ ‖ ☑  🔳 ‖ □ [di: OS [Open Square], ■ di: fS [full Sq.]] ‖ ▢ [di: RO (ROunded)]
-  - Double-boxed: ⧉  ⿻
-  - Calso:       X + ?                   
+  - Double-boxed: ⧉  ⿻ ‖ #_FA: 
+  - Calso: #_FA:       X + ?                   
       https://fontawesome.com/search?q=circle&ic=free-collection
       https://fontawesome.com/search?q=plus&ic=free-collection
     https://fontawesome.com/search?q=square&ic=free-collection
