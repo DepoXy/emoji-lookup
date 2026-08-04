@@ -2989,7 +2989,7 @@ https://en.wikipedia.org/wiki/List_of_Unicode_characters
 Miscellaneous Symbols
 https://en.wikipedia.org/wiki/Miscellaneous_Symbols
 
-U+260x	☀	☁	☂	☃	☄	★	☆	☇	☈	☉	☊	☋	☌	☍	☎	☏         # Star/stars: ⭐ ★	☆ [di: *2 *1] ⭑ ⚝
+U+260x	☀	☁	☂	☃	☄	★	☆	☇	☈	☉	☊	☋	☌	☍	☎	☏         # Star/stars: ⭐ ★	☆ [di: ``*2`` ``*1``] ⭑ ⚝
 U+261x	☐	☑	☒	☓	☔	☕	☖	☗	☘	☙	☚	☛	☜	☝	☞	☟
 U+262x	☠	☡	☢	☣	☤	☥	☦	☧	☨	☩	☪	☫	☬	☭	☮	☯         # Chi Rho (☧)
 U+263x	☰	☱	☲	☳	☴	☵	☶	☷	☸	☹	☺	☻	☼	☽	☾	☿         # Identical To or &equiv; CXREF: ≡ (☰)
