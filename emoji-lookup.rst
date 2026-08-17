@@ -2674,7 +2674,8 @@ REFER
 
 Note that Vim's ``guifont`` setting does not supply the emoji glyphs.
 Vim will pull emoji from whatever appropriate font you have installed
-(under either ``/usr/share/fonts/`` or ``$HOME/.fonts``).
+(under either ``/usr/share/fonts/`` or ``$HOME/.local/share/fonts``
+(or ``$HOME/.fonts``)).
 - So while the author prefers Hack font, augmented with Nerd Fonts::
     set guifont=Hack\ Nerd\ Font\ Mono\ 9
   (from: https://github.com/ryanoasis/nerd-fonts/releases)
@@ -2694,9 +2695,10 @@ Vim will pull emoji from whatever appropriate font you have installed
     https://github.com/googlefonts/noto-emoji
     https://github.com/googlefonts/noto-emoji/releases
   Simply download the archive, unpack it, copy the ``*.ttf`` files
-  from the ``fonts/`` directory to your ``~/.fonts`` directory, and
-  rebuild the font cache::
-    sudo fc-cache -fv
+  from the ``fonts/`` directory to your ``~/.local/share/fonts``
+  directory (preferred over ``~/.fonts``), and rebuild the font
+  cache::
+    sudo fc-cache -rfv
   And Vim should immediately start showing v14.0 Unicode emoji
   (I've also seen Vim use the new emoji as soon as the TTF is
    copied to the fonts directory, without rebuilding cache).
