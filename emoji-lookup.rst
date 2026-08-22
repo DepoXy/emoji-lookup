@@ -4216,8 +4216,7 @@ THANX:
   lenny-face: †               ( ͡° ͜ʖ ͡°) ‖ ( ͡° ͜ʖ ͡°) ‖ ( ͡° ͜ʖ ͡°)👍 ‖ ( ͡~ ͜ʖ ͡°) ‖ (°(°ʖ(°ʖ°)ʖ°)°)
   listening-to-headphones:    ◖ᵔᴥᵔ◗ ♪ ♫
   looking-down:               (._.)
-  love:                       ♥‿♥
-  love:                       -`ღ´-
+  love:                       ♥‿♥  ‖ -`ღ´- ‖ (✿♥‿♥)♡
   magic-wand-cast-spell:      (๑'ᵕ'๑)⸝* ‖ (*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ
   meatwad:                    ༼ つ ◕_◕ ༽つ ‖ ༼ つ ◔_◔ ༽つ
   meh:                        ¯\(°_o)/¯
