@@ -3132,7 +3132,7 @@ U+2023            ‣
 U+2024            ․      One Dot Leader - Use as an alternative to period (“.” → “․”)
 U+2025            ‥  ..
 U+2026  0917      …  ,.  Horizontal ellipsis
-U+22EE            ⋮  ,.  Vertical ellipsis (also ⁝ ⁞ ⸽ ┆ ┇ ┊ ┋ ╎ ╏ ┆ ┇ ┊ ┋ ᎒ ⋮)
+U+22EE            ⋮  ,.  Vertical ellipsis (also ⁝ ⁞ ⸽ ┆ ┇ ┊ ┋ ╎ ╏ ┆ ┇ ┊ ┋ ᎒ ⋮) # three dots menu
 U+2027            ‧
 U+2030  0918      ‰  %0  Per mille sign (0/00)
 U+2031            ‱	     Basis point (0/000)
