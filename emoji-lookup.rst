@@ -1688,7 +1688,7 @@ warning
 
 U+26A0†  ⚠️  warning - (yellow triangle alert w/ exclamation mark) | († U+26A0 U+FE0F) ∦ ⚠
 U+1F6B8  🚸  children crossing - child | pedestrian | traffic
-U+26D4   ⛔  no entry - forbidden | not | prohibited | traffic | (shut down | stop talking)
+U+26D4   ⛔  no entry - forbidden | prohibited | traffic | (shut down | stop talking | do not enter)
 U+1F6AB  🚫  prohibited - entry | forbidden | no | not | (canceled | cancelled)
 U+1F6B3  🚳  no bicycles - bicycle | bike | forbidden | prohibited
 U+1F6AD  🚭  no smoking - forbidden | not | prohibited
