@@ -52,6 +52,7 @@ U+1F609  😉  winking face - wink | (flirty) ∦ 😉︎
 U+1F60A  😊  smiling face with smiling eyes - blush | eye | smile | (happy) ∦ 😊︎
 U+1F607  😇  smiling face with halo - angel | fantasy | innocent
                       | (angelic | up to no good | devilish | mischievous) ∦ 😇︎
+U+1FAEB  🫫  cracking face - breaking | crumbling | masking | resilience | reveal | tension | transformation ║ v18.0
 
 ==============
 face-affection
@@ -187,6 +188,7 @@ U+1F613  😓  downcast face with sweat - cold
 U+1F629  😩  weary face - tired | (overwhelmed | ecstatic | dramatically whining)
 U+1F62B  😫  tired face
 U+1F971  🥱  yawning face - bored | tired | yawn ║ v12.0
+U+1FAEA  🫪  distorted face - anxiety | bloated | panic | shocked | surprised | vulnerable ║ v17.0
 
 =============
 face-negative
@@ -278,6 +280,7 @@ U+1F5EB  🗫   three speech bubbles ‖ [dunno: wtf: I've never heard of this! 
 U+1F5EF  🗯  right anger bubble - angry | balloon | bubble | mad
 U+1F4AD  💭  thought balloon - bubble | comic
 U+1F4A4  💤  zzz - comic | sleep
+U+1FAEF  🫯  fight cloud - argument | brawl | debate | disagreement | fight | ruckus | wrestle ║ v17.0
 
 #############
 People & Body
@@ -335,6 +338,8 @@ U+270A   ✊  raised fist - clenched | hand | punch
 U+1F44A  👊  oncoming fist - clenched | hand | punch
 U+1F91B  🤛  left-facing fist - leftwards
 U+1F91C  🤜  right-facing fist - rightwards
+U+1FAF9  🫹  leftwards thumb sign - grip | left | neutral | point | that | this (➕ 5 Ⓒ ‧ 🏿) ║ v18.0
+U+1FAFA  🫺  rightwards thumb sign - grip | neutral | point | right | that | this (➕ 5 Ⓒ ‧ 🏿) ║ v18.0
 
 =====
 hands
@@ -451,6 +456,7 @@ U+1F9DD  🧝  elf - elf | magical | LOTR style
 U+1F9DE  🧞  genie - djinn | genie | (non-human color)
 U+1F9DF  🧟  zombie - undead | walking dead | zombie | (non-human color)
 U+1F9CC  🧌  troll - fairy tale | fantasy | monster ║ v14.0
+U+1FAC8  🫈  hairy creature - bigfoot | cryptid | forest | giant | hairy | sasquatch | woodwose | yeti ║ v17.0
 
 ===============
 person-activity
@@ -468,6 +474,10 @@ U+1F574  🕴️  person in suit levitating - business | (née: man in suit...) 
 U+1F46F  👯  people with bunny ears - bunny ear | dancer | partying | people with bunny ears
 U+1F9D6  🧖  person in steamy room - person in steamy room | sauna | steam room | hamam | steambath
 U+1F9D7  🧗  person climbing - climber | person climbing
+U+1F9D1 200D 1FA70  🧑‍🩰  ballet dancer - ballet | dancer | graceful | perform | twirl ║ v17.0
+U+1F46F  ➕  people with bunny ears - bestie | bff | bunny | counterpart | dancer | double | ear
+              | identical | pair | party | partying | people | soulmate | twin | twinsies
+              WOMAN WITH BUNNY EARS (➕ 5 Ⓒ ‧ 🏿) (➕ 10 Ⓩ ‧ ♀ ‧ 🏿) (➕ 40 Ⓩ ‧ 👪 ‧ 🏿) (➕ 20 Ⓩ ‧ 🏿) ║ v17.0
 
 ============
 person-sport
@@ -490,6 +500,8 @@ U+1F93C  🤼  people wrestling - wrestle | wrestler
 U+1F93D  🤽  person playing water polo
 U+1F93E  🤾  person playing handball - ball
 U+1F939  🤹  person juggling - balance | juggle | multitask | skill
+U+1F93C  ➕  people wrestling - combat | duel | grapple | people | ring | tournament | wrestle | wrestling
+              | WRESTLERS (➕ 5 Ⓒ ‧ 🏿) (➕ 10 Ⓩ ‧ ♀ ‧ 🏿) (➕ 40 Ⓩ ‧ 👪 ‧ 🏿) (➕ 20 Ⓩ ‧ 🏿) ║ v17.0
 
 ==============
 person-resting
@@ -669,6 +681,7 @@ U+1F419  🐙  octopus - octopus
 U+1F41A  🐚  spiral shell - shell | spiral
 U+1FAB8  🪸  coral - ocean | reef ║ v14.0
 U+1FABC  🪼  jellyfish - burn | invertebrate | jelly | jellyfish | marine | ouch | stinger ║ v15.0
+U+1FACD  🫍  orca - marine | ocean | whale ║ v17.0
 
 ==========
 animal-bug
@@ -690,6 +703,7 @@ U+1F99F  🦟  mosquito - disease | fever | insect | malaria | virus ║ v11.0
 U+1FAB0  🪰  fly - disease | maggot | pest | rotting ║ v13.0
 U+1FAB1  🪱  worm - annelid | earthworm | parasite ║ v13.0
 U+1F9A0  🦠  microbe - amoeba | bacteria | virus ║ v11.0 | (spores)
+U+1FACC  🫌  monarch butterfly - caterpillar | change | fragile | hope | insect | metamorphosis | migration | transformation ║ v18.0
 
 ============
 plant-flower
@@ -780,6 +794,7 @@ U+1F330  🌰  chestnut - chestnut | plant
 U+1FADA  🫚  ginger root - beer | spice ║ v15.0
 U+1FADB  🫛  pea pod - beans | edamame | legume | pea | pod | vegetable ║ v15.0
 U+1FADC  🫜  root vegetable - beet | food | garden | radish | salad | turnip | vegetarian ║ v16.0
+U+1FADD  🫝  pickle - brine | condiment | cucumber | ferment | gherkin | relish | trouble ║ v18.0
 
 =============
 food-prepared
@@ -937,6 +952,7 @@ U+1F3D6† 🏖️  beach with umbrella | († U+1F3D6 U+FE0F) ∦ 🏖
 U+1F3DC† 🏜️  desert | († U+1F3DC U+FE0F) ∦ 🏜
 U+1F3DD† 🏝️  desert island | († U+1F3DD U+FE0F) ∦ 🏝
 U+1F3DE† 🏞️  national park | († U+1F3DE U+FE0F) ∦ 🏞
+U+1F6D8  🛘  landslide - avalanche | danger | disaster | earthquake | mountain | mudslide | rocks ║ v17.0
 
 ==============
 place-building
@@ -1072,6 +1088,7 @@ U+1F6F3  🛳️  passenger ship - ∦ 🛳
 U+26F4†  ⛴️  ferry - boat | passenger | († U+26F4 U+FE0F) ∦ ⛴
 U+1F6E5† 🛥️  motor boat - motorboat | († U+1F6E5 U+FE0F) ∦ 🛥
 U+1F6A2  🚢  ship - boat | passenger
+U+1F6D9  🛙  lighthouse - beacon | enlightenment | guidance | hope | light | maritime | navigation | sea | signal ║ v18.0
 
 =============
 transport-air
@@ -1184,6 +1201,7 @@ U+2604   ☄️  comet - space ∦ ☄
 U+1F525  🔥  fire - flame | tool | (hotness | smoke | 420)
 U+1F4A7  💧  droplet - cold | comic | drop | sweat | (water)
 U+1F30A  🌊  water wave - ocean
+U+1FA8B  🪋  meteor - apocalypse | falling | fireball | gravity | rock | space | star ║ v18.0
 
 .. CALSO: Nerd Font weather icons:       󰼰              
 ..   https://www.nerdfonts.com/cheat-sheet?q=nf-weather-
@@ -1405,6 +1423,7 @@ U+1FA98  🪘  long drum - beat | conga | drum | long drum | rhythm ║ v13.0
 U+1FA87  🪇  maracas - instrument | maracas | music | percussion | rattle | shake ║ v15.0
 U+1FA88  🪈  flute - fife | flute | music | pipe | recorder | woodwind ║ v15.0
 U+1FA89  🪉  harp - cupid | instrument | love | music | orchestra ║ v16.0
+U+1FA8A  🪊  trombone - brass | instrument | jazz | music | sad | slide ║ v17.0
 
 =====
 phone
@@ -1493,6 +1512,7 @@ U+1F4B8  💸  money with wings - banknote | bill | fly | (broke | flying money)
 U+1F4B3  💳  credit card - money
 U+1F9FE  🧾  receipt - accounting | bookkeeping | evidence | proof ║ v11.0
 U+1F4B9  💹  chart increasing with yen - graph | growth | money
+U+1FA8E  🪎  treasure chest - gem | gold | jewels | loot | money | prize | silver | valuables | wealth ║ v17.0
 
 ====
 mail
@@ -1523,6 +1543,7 @@ U+1F58A† 🖊️  ballpoint pen, lower left - | († U+1F58A U+FE0F) ∦ 🖊
 U+1F58C† 🖌️  paintbrush, lower left - painting | († U+1F58C U+FE0F) ∦ 🖌
 U+1F58D† 🖍️  crayon, lower left - | († U+1F58D U+FE0F) ∦ 🖍
 U+1F4DD  📝  memo - pencil
+U+1FA8C  🪌  eraser - correction | delete | drawing | erase | error | mistake | remove | rub | undo | writing ║ v18.0
 
 ======
 office
@@ -1593,6 +1614,7 @@ U+1F9F0  🧰  toolbox - chest | mechanic | tool | toolbox ║ v11.0
 U+1F9F2  🧲  magnet - attraction | horseshoe | magnet | magnetic ║ v11.0
 U+1FA9C  🪜  ladder - climb | ladder | rung | step ║ v13.0
 U+1FA8F  🪏  shovel - bury | dig | garden | hole | plant | scoop | snow | spade ║ v16.0
+U+1FA8D  🪍  net with handle - catch | collect | mesh | trap ║ v18.0
 
 =======
 science
