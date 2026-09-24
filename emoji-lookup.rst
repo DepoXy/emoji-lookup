@@ -1810,7 +1810,7 @@ U+2795   ➕  plus - + | math | plus | sign
 U+2796   ➖  minus - - | − | math | minus | sign
 U+2797   ➗  divide - ÷ | divide | division | math | sign
 U+1F7F0  🟰  heavy equals sign - equality | math ║ v14.0
-U+267E†  ♾️  infinity - forever | infinity | unbounded | universal ║ v11.0 | († U+267E U+FE0F) ∦ ♾  ∞  Ꝏ 	ꝏ 	ထ ᦠ
+U+267E†  ♾️  infinity - forever | infinity | unbounded | universal ║ v11.0 | († U+267E U+FE0F) ∦ ♾  ∞  Ꝏ ꝏ ထ ᦠ
             ➯ emojification of pre-existing character
             See also: Digraph 00 (infinity): ∞
 
@@ -2565,7 +2565,7 @@ U+1F1F7 U+1F1F4  🇷🇴  flag: Romania - flag
 U+1F1F7 U+1F1F8  🇷🇸  flag: Serbia - flag
 U+1F1F7 U+1F1FA  🇷🇺  flag: Russia - flag
 U+1F1F7 U+1F1FC  🇷🇼  flag: Rwanda - flag
-U+1F1E8 U+1F1F6  🇨🇶  flag: Sark	- flag ║ v16.0
+U+1F1E8 U+1F1F6  🇨🇶  flag: Sark - flag ║ v16.0
 U+1F1F8 U+1F1E6  🇸🇦  flag: Saudi Arabia - flag
 U+1F1F8 U+1F1E7  🇸🇧  flag: Solomon Islands - flag
 U+1F1F8 U+1F1E8  🇸🇨  flag: Seychelles - flag
