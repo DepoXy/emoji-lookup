@@ -762,7 +762,7 @@ food-vegetable
 ==============
 
 U+1F951  🥑  avocado - avocado | food | fruit
-U+1F346  🍆  eggplant - aubergine | eggplant | vegetable
+U+1F346  🍆  eggplant - aubergine | eggplant | vegetable (✊💦😫🥵👉👌👅💦🤤)
 U+1F954  🥔  potato - food | potato | vegetable
 U+1F955  🥕  carrot - carrot | food | vegetable
 U+1F33D  🌽  ear of corn - corn | ear | ear of corn | maize | maze
