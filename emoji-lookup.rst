@@ -2729,6 +2729,16 @@ Vim will pull emoji from whatever appropriate font you have installed
       https://github.com/googlefonts/noto-emoji/tree/main/fonts
       https://github.com/googlefonts/noto-emoji/raw/main/fonts/NotoColorEmoji.ttf
 
+STEPS/2026-09-24: [Debian distros]:
+- To see latest Unicode versions' Emoji in this doc:
+  - Download and install Noto Color Emoji to
+      ~/.local/share/fonts/NotoColorEmoji.ttf
+    from
+      https://github.com/googlefonts/noto-emoji
+  - Update font cache::
+      fc-cache -rfv
+  - And restart your editor.
+
 ===========================================================================
 ─ Setup Vim reStructuredText syntax highlights and folding  ───────────────
 ===========================================================================
