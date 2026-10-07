@@ -3052,24 +3052,24 @@ I_SEE: Most Unicode characters show up without artifacts on macOS (MacVim),
 Braille Patterns
 https://en.wikipedia.org/wiki/Braille_Patterns
 
-U+280x	⠀	⠁	⠂	⠃	⠄	⠅	⠆	⠇	⠈	⠉	⠊	⠋	⠌	⠍	⠎	⠏   # 1st is Braille_Pattern_Blank
-U+281x	⠐	⠑	⠒	⠓	⠔	⠕	⠖	⠗	⠘	⠙	⠚	⠛	⠜	⠝	⠞	⠟   #  [Note `restview` shows empty Braille dots as open circles]
-U+282x	⠠	⠡	⠢	⠣	⠤	⠥	⠦	⠧	⠨	⠩	⠪	⠫	⠬	⠭	⠮	⠯
-U+283x	⠰	⠱	⠲	⠳	⠴	⠵	⠶	⠷	⠸	⠹	⠺	⠻	⠼	⠽	⠾	⠿
+U+280x  ⠀ ⠁ ⠂ ⠃ ⠄ ⠅ ⠆ ⠇ ⠈ ⠉ ⠊ ⠋ ⠌ ⠍ ⠎ ⠏   # 1st is Braille_Pattern_Blank
+U+281x  ⠐ ⠑ ⠒ ⠓ ⠔ ⠕ ⠖ ⠗ ⠘ ⠙ ⠚ ⠛ ⠜ ⠝ ⠞ ⠟   #  [Note `restview` shows empty Braille dots as open circles]
+U+282x  ⠠ ⠡ ⠢ ⠣ ⠤ ⠥ ⠦ ⠧ ⠨ ⠩ ⠪ ⠫ ⠬ ⠭ ⠮ ⠯
+U+283x  ⠰ ⠱ ⠲ ⠳ ⠴ ⠵ ⠶ ⠷ ⠸ ⠹ ⠺ ⠻ ⠼ ⠽ ⠾ ⠿
          (end of 6-dot cell patterns)
             (8-dot cell patterns)
-U+284x	⡀	⡁	⡂	⡃	⡄	⡅	⡆	⡇	⡈	⡉	⡊	⡋	⡌	⡍	⡎	⡏
-U+285x	⡐	⡑	⡒	⡓	⡔	⡕	⡖	⡗	⡘	⡙	⡚	⡛	⡜	⡝	⡞	⡟
-U+286x	⡠	⡡	⡢	⡣	⡤	⡥	⡦	⡧	⡨	⡩	⡪	⡫	⡬	⡭	⡮	⡯
-U+287x	⡰	⡱	⡲	⡳	⡴	⡵	⡶	⡷	⡸	⡹	⡺	⡻	⡼	⡽	⡾	⡿
-U+288x	⢀	⢁	⢂	⢃	⢄	⢅	⢆	⢇	⢈	⢉	⢊	⢋	⢌	⢍	⢎	⢏
-U+289x	⢐	⢑	⢒	⢓	⢔	⢕	⢖	⢗	⢘	⢙	⢚	⢛	⢜	⢝	⢞	⢟
-U+28Ax	⢠	⢡	⢢	⢣	⢤	⢥	⢦	⢧	⢨	⢩	⢪	⢫	⢬	⢭	⢮	⢯
-U+28Bx	⢰	⢱	⢲	⢳	⢴	⢵	⢶	⢷	⢸	⢹	⢺	⢻	⢼	⢽	⢾	⢿
-U+28Cx	⣀	⣁	⣂	⣃	⣄	⣅	⣆	⣇	⣈	⣉	⣊	⣋	⣌	⣍	⣎	⣏
-U+28Dx	⣐	⣑	⣒	⣓	⣔	⣕	⣖	⣗	⣘	⣙	⣚	⣛	⣜	⣝	⣞	⣟
-U+28Ex	⣠	⣡	⣢	⣣	⣤	⣥	⣦	⣧	⣨	⣩	⣪	⣫	⣬	⣭	⣮	⣯
-U+28Fx	⣰	⣱	⣲	⣳	⣴	⣵	⣶	⣷	⣸	⣹	⣺	⣻	⣼	⣽	⣾	⣿
+U+284x  ⡀ ⡁ ⡂ ⡃ ⡄ ⡅ ⡆ ⡇ ⡈ ⡉ ⡊ ⡋ ⡌ ⡍ ⡎ ⡏
+U+285x  ⡐ ⡑ ⡒ ⡓ ⡔ ⡕ ⡖ ⡗ ⡘ ⡙ ⡚ ⡛ ⡜ ⡝ ⡞ ⡟
+U+286x  ⡠ ⡡ ⡢ ⡣ ⡤ ⡥ ⡦ ⡧ ⡨ ⡩ ⡪ ⡫ ⡬ ⡭ ⡮ ⡯
+U+287x  ⡰ ⡱ ⡲ ⡳ ⡴ ⡵ ⡶ ⡷ ⡸ ⡹ ⡺ ⡻ ⡼ ⡽ ⡾ ⡿
+U+288x  ⢀ ⢁ ⢂ ⢃ ⢄ ⢅ ⢆ ⢇ ⢈ ⢉ ⢊ ⢋ ⢌ ⢍ ⢎ ⢏
+U+289x  ⢐ ⢑ ⢒ ⢓ ⢔ ⢕ ⢖ ⢗ ⢘ ⢙ ⢚ ⢛ ⢜ ⢝ ⢞ ⢟
+U+28Ax  ⢠ ⢡ ⢢ ⢣ ⢤ ⢥ ⢦ ⢧ ⢨ ⢩ ⢪ ⢫ ⢬ ⢭ ⢮ ⢯
+U+28Bx  ⢰ ⢱ ⢲ ⢳ ⢴ ⢵ ⢶ ⢷ ⢸ ⢹ ⢺ ⢻ ⢼ ⢽ ⢾ ⢿
+U+28Cx  ⣀ ⣁ ⣂ ⣃ ⣄ ⣅ ⣆ ⣇ ⣈ ⣉ ⣊ ⣋ ⣌ ⣍ ⣎ ⣏
+U+28Dx  ⣐ ⣑ ⣒ ⣓ ⣔ ⣕ ⣖ ⣗ ⣘ ⣙ ⣚ ⣛ ⣜ ⣝ ⣞ ⣟
+U+28Ex  ⣠ ⣡ ⣢ ⣣ ⣤ ⣥ ⣦ ⣧ ⣨ ⣩ ⣪ ⣫ ⣬ ⣭ ⣮ ⣯
+U+28Fx  ⣰ ⣱ ⣲ ⣳ ⣴ ⣵ ⣶ ⣷ ⣸ ⣹ ⣺ ⣻ ⣼ ⣽ ⣾ ⣿
 ::
           ⣀⣀⣀⣐⣔⣒⣔⣳⣒⣴⣶⣾⣿⣽⣿⣺⣽⣷⢵⣥⣔⣄⣑⣁⣃⣄⣀🐌
 
@@ -3803,21 +3803,21 @@ REFER: Apple Support's *Mac keyboard shortcuts*:
 Geometric Shapes
 https://en.wikipedia.org/wiki/Geometric_Shapes
 
-U+25Ax	■	□	▢	▣	▤	▥	▦	▧	▨	▩	▪	▫	▬	▭	▮	▯     aka Box Shapes, Square characters... *Squaracters*, Rectangles
+U+25Ax  ■ □ ▢ ▣ ▤ ▥ ▦ ▧ ▨ ▩ ▪ ▫ ▬ ▭ ▮ ▯     aka Box Shapes, Square characters... *Squaracters*, Rectangles
                                             ... Checkboxes □ (di: OS [Open Square]) ▢ (di: RO (ROunded))
-U+25Bx	▰	▱	▲	△	▴	▵	▶	▷	▸	▹	►	▻	▼	▽	▾	▿     ... Parallelograms, Right-/Down-pointing triangles
-U+25Cx	◀	◁	◂	◃	◄	◅	◆	◇	◈	◉	◊	○	◌	◍	◎	●     ... Left-pnt'g tri's; Diamonds; Fisheye ◉; Lozenge ◊; White/
+U+25Bx  ▰ ▱ ▲ △ ▴ ▵ ▶ ▷ ▸ ▹ ► ▻ ▼ ▽ ▾ ▿     ... Parallelograms, Right-/Down-pointing triangles
+U+25Cx  ◀ ◁ ◂ ◃ ◄ ◅ ◆ ◇ ◈ ◉ ◊ ○ ◌ ◍ ◎ ●     ... Left-pnt'g tri's; Diamonds; Fisheye ◉; Lozenge ◊; White/
                                                 Open Circle, Dotted, w/ Vert. Fill ◍; Bullseye ◎; Black Circle
-U+25Dx	◐	◑	◒	◓	◔	◕	◖	◗	◘	◙	◚	◛	◜	◝	◞	◟     ... Circles with left/right/lower/upper half black; quadrant;
+U+25Dx  ◐ ◑ ◒ ◓ ◔ ◕ ◖ ◗ ◘ ◙ ◚ ◛ ◜ ◝ ◞ ◟     ... Circles with left/right/lower/upper half black; quadrant;
                                                 Inverse bullet ◘/white circ ◙/upper/lower halves; circular arcs
-U+25Ex	◠	◡	◢	◣	◤	◥	◦	◧	◨	◩	◪	◫	◬	◭	◮	◯     ... Upper/lower half circ's, Lower/upper right/left tri's, etc.
-U+25Fx	◰	◱	◲	◳	◴	◵	◶	◷	◸	◹	◺	◻	◼	◽	◾	◿ ... White square w/ upper left quadrant, etc.
+U+25Ex  ◠ ◡ ◢ ◣ ◤ ◥ ◦ ◧ ◨ ◩ ◪ ◫ ◬ ◭ ◮ ◯     ... Upper/lower half circ's, Lower/upper right/left tri's, etc.
+U+25Fx  ◰ ◱ ◲ ◳ ◴ ◵ ◶ ◷ ◸ ◹ ◺ ◻ ◼◽◾ ◿     ... White square w/ upper left quadrant, etc.
 
 Combining Diacritical Marks for Symbols
 
-U+20Dx	◌⃐	◌⃑	◌⃒	◌⃓	◌⃔	◌⃕	◌⃖	◌⃗	◌⃘	◌⃙	◌⃚	◌⃛	◌⃜	◌⃝	◌⃞	◌⃟
-U+20Ex	◌⃠	◌⃡	◌⃢	◌⃣	◌⃤	◌⃥	◌⃦	◌⃧	◌⃨	◌⃩	◌⃪	◌⃫	◌⃬	◌⃭	◌⃮	◌⃯
-U+20Fx	◌⃰															
+U+20Dx  ◌⃐ ◌⃑ ◌⃒ ◌⃓ ◌⃔ ◌⃕ ◌⃖ ◌⃗ ◌⃘ ◌⃙ ◌⃚ ◌⃛ ◌⃜ ◌⃝ ◌⃞ ◌⃟
+U+20Ex  ◌⃠ ◌⃡ ◌⃢ ◌⃣ ◌⃤ ◌⃥ ◌⃦ ◌⃧ ◌⃨ ◌⃩ ◌⃪ ◌⃫ ◌⃬ ◌⃭ ◌⃮ ◌⃯
+U+20Fx  ◌⃰
 
 ===========================================================================
 ─ Ampersand Symbols ───────────────────────────────────────────────────────
@@ -3836,36 +3836,36 @@ CRUMB: Letterlike Symbols
 Enclosed Alphanumerics
 https://en.wikipedia.org/wiki/Enclosed_Alphanumerics
 
-U+246x	①	②	③	④	⑤	⑥	⑦	⑧	⑨	⑩	⑪	⑫	⑬	⑭	⑮	⑯
-U+247x	⑰	⑱	⑲	⑳	⑴	⑵	⑶	⑷	⑸	⑹	⑺	⑻	⑼	⑽	⑾	⑿
-U+248x	⒀	⒁	⒂	⒃	⒄	⒅	⒆	⒇	⒈	⒉	⒊	⒋	⒌	⒍	⒎	⒏
-U+249x	⒐	⒑	⒒	⒓	⒔	⒕	⒖	⒗	⒘	⒙	⒚	⒛	⒜	⒝	⒞	⒟
-U+24Ax	⒠	⒡	⒢	⒣	⒤	⒥	⒦	⒧	⒨	⒩	⒪	⒫	⒬	⒭	⒮	⒯
-U+24Bx	⒰	⒱	⒲	⒳	⒴	⒵	Ⓐ	Ⓑ	Ⓒ	Ⓓ	Ⓔ	Ⓕ	Ⓖ	Ⓗ	Ⓘ	Ⓙ
-U+24Cx	Ⓚ	Ⓛ	Ⓜ	Ⓝ	Ⓞ	Ⓟ	Ⓠ	Ⓡ	Ⓢ	Ⓣ	Ⓤ	Ⓥ	Ⓦ	Ⓧ	Ⓨ	Ⓩ   # Ⓧ Circled Latin Large Letter X
-U+24Dx	ⓐ	ⓑ	ⓒ	ⓓ	ⓔ	ⓕ	ⓖ	ⓗ	ⓘ	ⓙ	ⓚ	ⓛ	ⓜ	ⓝ	ⓞ	ⓟ
-U+24Ex	ⓠ	ⓡ	ⓢ	ⓣ	ⓤ	ⓥ	ⓦ	ⓧ	ⓨ	ⓩ	⓪	⓫	⓬	⓭	⓮	⓯   # ⓧ Circled Latin Small Letter X
-U+24Fx	⓰	⓱	⓲	⓳	⓴	⓵	⓶	⓷	⓸	⓹	⓺	⓻	⓼	⓽	⓾	⓿
+U+246x  ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯
+U+247x  ⑰ ⑱ ⑲ ⑳ ⑴ ⑵ ⑶ ⑷ ⑸ ⑹ ⑺ ⑻ ⑼ ⑽ ⑾ ⑿
+U+248x  ⒀ ⒁ ⒂ ⒃ ⒄ ⒅ ⒆ ⒇ ⒈ ⒉ ⒊ ⒋ ⒌ ⒍ ⒎ ⒏
+U+249x  ⒐ ⒑ ⒒ ⒓ ⒔ ⒕ ⒖ ⒗ ⒘ ⒙ ⒚ ⒛ ⒜ ⒝ ⒞ ⒟
+U+24Ax  ⒠ ⒡ ⒢ ⒣ ⒤ ⒥ ⒦ ⒧ ⒨ ⒩ ⒪ ⒫ ⒬ ⒭ ⒮ ⒯
+U+24Bx  ⒰ ⒱ ⒲ ⒳ ⒴ ⒵ Ⓐ Ⓑ Ⓒ Ⓓ Ⓔ Ⓕ Ⓖ Ⓗ Ⓘ Ⓙ
+U+24Cx  Ⓚ Ⓛ Ⓜ Ⓝ Ⓞ Ⓟ Ⓠ Ⓡ Ⓢ Ⓣ Ⓤ Ⓥ Ⓦ Ⓧ Ⓨ Ⓩ   # Ⓧ Circled Latin Large Letter X
+U+24Dx  ⓐ ⓑ ⓒ ⓓ ⓔ ⓕ ⓖ ⓗ ⓘ ⓙ ⓚ ⓛ ⓜ ⓝ ⓞ ⓟ
+U+24Ex  ⓠ ⓡ ⓢ ⓣ ⓤ ⓥ ⓦ ⓧ ⓨ ⓩ ⓪ ⓫ ⓬ ⓭ ⓮ ⓯   # ⓧ Circled Latin Small Letter X
+U+24Fx  ⓰ ⓱ ⓲ ⓳ ⓴ ⓵ ⓶ ⓷ ⓸ ⓹ ⓺ ⓻ ⓼ ⓽ ⓾ ⓿
 
 Enclosed Alphanumeric Supplement
 https://en.wikipedia.org/wiki/Enclosed_Alphanumeric_Supplement
 
-U+1F10x	🄀	🄁	🄂	🄃	🄄	🄅	🄆	🄇	🄈	🄉	🄊	🄋	🄌	🄍	🄎	🄏
-U+1F11x	🄐	🄑	🄒	🄓	🄔	🄕	🄖	🄗	🄘	🄙	🄚	🄛	🄜	🄝	🄞	🄟
-U+1F12x	🄠	🄡	🄢	🄣	🄤	🄥	🄦	🄧	🄨	🄩	🄪	🄫	🄬	🄭	🄮	🄯
-U+1F13x	🄰	🄱	🄲	🄳	🄴	🄵	🄶	🄷	🄸	🄹	🄺	🄻	🄼	🄽	🄾	🄿
-U+1F14x	🅀	🅁	🅂	🅃	🅄	🅅	🅆	🅇	🅈	🅉	🅊	🅋	🅌	🅍	🅎	🅏
-U+1F15x	🅐	🅑	🅒	🅓	🅔	🅕	🅖	🅗	🅘	🅙	🅚	🅛	🅜	🅝	🅞	🅟
-U+1F16x	🅠	🅡	🅢	🅣	🅤	🅥	🅦	🅧	🅨	🅩	🅪	🅫	🅬	🅭	🅮	🅯
-U+1F17x	🅰	🅱	🅲	🅳	🅴	🅵	🅶	🅷	🅸	🅹	🅺	🅻	🅼	🅽	🅾	🅿
-U+1F18x	🆀	🆁	🆂	🆃	🆄	🆅	🆆	🆇	🆈	🆉	🆊	🆋	🆌	🆍	🆎	🆏
-U+1F19x	🆐	🆑	🆒	🆓	🆔	🆕	🆖	🆗	🆘	🆙	🆚	🆛	🆜	🆝	🆞	🆟
-U+1F1Ax	🆠	🆡	🆢	🆣	🆤	🆥	🆦	🆧	🆨	🆩	🆪	🆫	🆬	🆭		
-U+1F1Bx																
-U+1F1Cx																
-U+1F1Dx																
-U+1F1Ex	                  🇦 🇧 🇨 🇩 🇪 🇫 🇬 🇭 🇮 🇯   .. These Flag twofers *are not* Letter-like:
-U+1F1Fx	🇰 🇱 🇲 🇳 🇴 🇵 🇶 🇷 🇸 🇹 🇺 🇻 🇼 🇽 🇾 🇿   .. - Adjacency changes them — 🇨 🇦 → 🇨🇦
+U+1F10x  🄀 🄁 🄂 🄃 🄄 🄅 🄆 🄇 🄈 🄉 🄊 🄋 🄌 🄍 🄎 🄏
+U+1F11x  🄐 🄑 🄒 🄓 🄔 🄕 🄖 🄗 🄘 🄙 🄚 🄛 🄜 🄝 🄞 🄟
+U+1F12x  🄠 🄡 🄢 🄣 🄤 🄥 🄦 🄧 🄨 🄩 🄪 🄫 🄬 🄭 🄮 🄯
+U+1F13x  🄰 🄱 🄲 🄳 🄴 🄵 🄶 🄷 🄸 🄹 🄺 🄻 🄼 🄽 🄾 🄿
+U+1F14x  🅀 🅁 🅂 🅃 🅄 🅅 🅆 🅇 🅈 🅉 🅊 🅋 🅌 🅍 🅎 🅏
+U+1F15x  🅐 🅑 🅒 🅓 🅔 🅕 🅖 🅗 🅘 🅙 🅚 🅛 🅜 🅝 🅞 🅟
+U+1F16x  🅠 🅡 🅢 🅣 🅤 🅥 🅦 🅧 🅨 🅩 🅪 🅫 🅬 🅭 🅮 🅯
+U+1F17x  🅰 🅱 🅲 🅳 🅴 🅵 🅶 🅷 🅸 🅹 🅺 🅻 🅼 🅽 🅾 🅿
+U+1F18x  🆀 🆁 🆂 🆃 🆄 🆅 🆆 🆇 🆈 🆉 🆊 🆋 🆌 🆍 🆎 🆏
+U+1F19x  🆐 🆑 🆒 🆓 🆔 🆕 🆖 🆗 🆘 🆙 🆚 🆛 🆜 🆝 🆞 🆟
+U+1F1Ax  🆠 🆡 🆢 🆣 🆤 🆥 🆦 🆧 🆨 🆩 🆪 🆫 🆬 🆭
+U+1F1Bx
+U+1F1Cx
+U+1F1Dx
+U+1F1Ex                    🇦 🇧 🇨 🇩 🇪 🇫 🇬 🇭 🇮 🇯   .. These Flag twofers *are not* Letter-like:
+U+1F1Fx  🇰 🇱 🇲 🇳 🇴 🇵 🇶 🇷 🇸 🇹 🇺 🇻 🇼 🇽 🇾 🇿   .. - Adjacency changes them — 🇨 🇦 → 🇨🇦
 
 ===========================================================================
 ─ Box Drawing ─────────────────────────────────────────────────────────────
@@ -3874,14 +3874,14 @@ U+1F1Fx	🇰 🇱 🇲 🇳 🇴 🇵 🇶 🇷 🇸 🇹 🇺 🇻 🇼 🇽 �
 Box Drawing (aka piping pipes line drawing)
 https://en.wikipedia.org/wiki/Box_Drawing_(Unicode_block)
 
-U+250x	─	━	│	┃	┄	┅	┆	┇	┈	┉	┊	┋	┌	┍	┎	┏
-U+251x	┐	┑	┒	┓	└	┕	┖	┗	┘	┙	┚	┛	├	┝	┞	┟
-U+252x	┠	┡	┢	┣	┤	┥	┦	┧	┨	┩	┪	┫	┬	┭	┮	┯
-U+253x	┰	┱	┲	┳	┴	┵	┶	┷	┸	┹	┺	┻	┼	┽	┾	┿
-U+254x	╀	╁	╂	╃	╄	╅	╆	╇	╈	╉	╊	╋	╌	╍	╎	╏
-U+255x	═	║	╒	╓	╔	╕	╖	╗	╘	╙	╚	╛	╜	╝	╞	╟
-U+256x	╠	╡	╢	╣	╤	╥	╦	╧	╨	╩	╪	╫	╬	╭	╮	╯
-U+257x	╰	╱	╲	╳	╴	╵	╶	╷	╸	╹	╺	╻	╼	╽	╾	╿
+U+250x  ─ ━ │ ┃ ┄ ┅ ┆ ┇ ┈ ┉ ┊ ┋ ┌ ┍ ┎ ┏
+U+251x  ┐ ┑ ┒ ┓ └ ┕ ┖ ┗ ┘ ┙ ┚ ┛ ├ ┝ ┞ ┟
+U+252x  ┠ ┡ ┢ ┣ ┤ ┥ ┦ ┧ ┨ ┩ ┪ ┫ ┬ ┭ ┮ ┯
+U+253x  ┰ ┱ ┲ ┳ ┴ ┵ ┶ ┷ ┸ ┹ ┺ ┻ ┼ ┽ ┾ ┿
+U+254x  ╀ ╁ ╂ ╃ ╄ ╅ ╆ ╇ ╈ ╉ ╊ ╋ ╌ ╍ ╎ ╏
+U+255x  ═ ║ ╒ ╓ ╔ ╕ ╖ ╗ ╘ ╙ ╚ ╛ ╜ ╝ ╞ ╟
+U+256x  ╠ ╡ ╢ ╣ ╤ ╥ ╦ ╧ ╨ ╩ ╪ ╫ ╬ ╭ ╮ ╯
+U+257x  ╰ ╱ ╲ ╳ ╴ ╵ ╶ ╷ ╸ ╹ ╺ ╻ ╼ ╽ ╾ ╿
 
 CRUMB: Exes: ╳ ✗ X x xxx
 
