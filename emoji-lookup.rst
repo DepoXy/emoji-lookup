@@ -3280,7 +3280,7 @@ Other, non-ASCII punctuation:
 .. Subset of symbols from:
      from docutils.utils.punctuation_chars import openers
      from docutils.utils.punctuation_chars import closers
-- *Punctuation pairs (1/3)* aka *alternative parentheses*:
+- *Punctuation pairs (1/3)* aka *alternative* #parentheses #brackets #braces:
   ( < [ { ༺ ༼ ᚛ ⁅ ⁽ ₍ 〈 ❨ ❪ ❬ ❮ ❰ ❲ ❴ ⟅ ⟦ ⟨ ⟪ ⟬ ⟮ ⦃ ⦅ ⦇ ⦉ ⦋ ⦍ ⦏ ⦑ ⦓ ⦕ ⦗ ⧘ ⧚
   ) > ] } ༻ ༽ ᚜ ⁆ ⁾ ₎ 〉 ❩ ❫ ❭ ❯ ❱ ❳ ❵ ⟆ ⟧ ⟩ ⟫ ⟭ ⟯ ⦄ ⦆ ⦈ ⦊ ⦌ ⦎ ⦐ ⦒ ⦔ ⦖ ⦘ ⧙ ⧛
 - *Punctuation pairs (2/3)*:
@@ -3717,7 +3717,7 @@ U+1D7Fx	𝟰	𝟱	𝟲	𝟳	𝟴	𝟵	𝟶	𝟷	𝟸	𝟹	𝟺	𝟻	𝟼	𝟽	�
   ░│25  ⅖    8534│░│35  ⅗    8535│░│45  ⅘    8536│░│16  ⅙    8537│░│56  ⅚    8538│░│18  ⅛    8539│░│38  ⅜    8540│
   ░│58  ⅝    8541│░│78  ⅞    8542│░│             │░│             │░│             │░│             │░│             │
 
-- Ex and ex-like char (Neo)Vim digraph reference #Exes
+- Ex and ex-like char (Neo)Vim digraph reference #Exes [Not incl. non-Digraph, e.g., ᙭]
   - Classic exes by size: ``X* H= aR ‖ h= ar /\ *X`` — ``Χ Х Ⅹ ‖ х ⅹ × ×``
     - (``X*`` and ``H=`` are essentially the same, as least in Hack Nerd Font; likewise ``/\`` and ``*X``.
       - Small x Vim digraphs are easy, e.g., <Ctrl-l>h=, <Ctrl-l>ar, <Ctrl-l>/\, and <Ctrl-l><Shift>8x.
