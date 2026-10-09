@@ -3261,7 +3261,7 @@ Other, non-ASCII punctuation:
 - Plus signs: + ₊ ✚ ⁺ ╋ ✙ ⊹ ˖ ⊕ † ᪠  ⳾ ⊞
 - Teenie Ampersand: ﹠
 - At: ＠
-- Exes: × [di: ``*X``] 𓏵  ᛝ ✖  ♰ ᙭ ᙮ ᰿  ༝ ༞ ‖ ox|xo: ༟ ࿎ ‖ [See table below: #Exes]
+- Exes: × [di: ``*X``] 𓏵  ᛝ ✖  ♰ ᙭ ᙮ ᰿  ༝ ༞ ‖ ox|xo: ༟ ࿎ ‖ [See table below: #Exes: ╳ ✗ X x xxx]
 - Checkboxes/Checkboxing: ☐ ☒ ☓ ⛒ ‖ ☑  🔳 ‖ □ [di: OS [Open Square], ■ di: fS [full Sq.]] ‖ ▢ [di: RO (ROunded)]
   - Double-boxed: ⧉  ⿻ ‖ #_FA: 
   - Calso: #_FA:       X + ?                   
