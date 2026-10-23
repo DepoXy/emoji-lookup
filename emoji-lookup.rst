@@ -2952,6 +2952,20 @@ variation selector, e.g., U+1F637 U+FE0E (😷︎), and  U+1F637 U+FE0F (😷️
   - *Emoji vs. Text Presentation*
     https://character.construction/emoji-vs-text
 
+REFER/2026-10-23:
+- So many emoji websites, e.g.:
+  https://codepoints.net/U+1F5DE
+  https://www.compart.com/en/unicode/U+1F5DE
+  https://unicode-explorer.com/c/1F5DE
+  https://www.fileformat.info/info/unicode/char/1f5de/index.htm
+  https://unicodeplus.com/U+1F5DE
+  https://www.unicodepedia.com/unicode/miscellaneous-symbols-and-pictographs/1f5de/rolled-up-newspaper/
+- Some go by name, not codepoint, e.g.:
+  https://emojipedia.org/admission-tickets
+  https://emojiterra.com/admission-tickets/
+  https://emojispark.com/emojis/admission-tickets
+  https://www.iemoji.com/view/emoji/923/activity/admission-tickets
+
 ===========================================================================
 ─ Font Awesome icons ──────────────────────────────────────────────────────  #_FA
 ===========================================================================
