@@ -1215,27 +1215,27 @@ Activities
 event
 =====
 
-U+1F383  🎃  jack-o-lantern - celebration | halloween | jack | jack-o-lantern | lantern
-U+1F384  🎄  Christmas tree - celebration | Christmas | tree
-U+1F386  🎆  fireworks - celebration | fireworks
-U+1F387  🎇  sparkler - celebration | fireworks | sparkle | sparkler
-U+1F9E8  🧨  firecracker - dynamite | explosive | firecracker | fireworks ║ v11.0
-U+2728   ✨  sparkles - * | sparkle | sparkles | star
-U+1F388  🎈  balloon - balloon | celebration
-U+1F389  🎉  party popper - celebration | party | popper | tada
-U+1F38A  🎊  confetti ball - ball | celebration | confetti
-U+1F38B  🎋  tanabata tree - banner | celebration | Japanese | tanabata tree | tree
-U+1F38D  🎍  pine decoration - bamboo | celebration | Japanese | pine | pine decoration
-U+1F38E  🎎  Japanese dolls - celebration | doll | festival | Japanese | Japanese dolls
-U+1F38F  🎏  carp streamer - carp | celebration | streamer
-U+1F390  🎐  wind chime - bell | celebration | chime | wind
-U+1F391  🎑  moon viewing ceremony - celebration | ceremony | moon | moon viewing ceremony
-U+1F9E7  🧧  red envelope - gift | good luck | hóngbāo | lai see | money | red envelope ║ v11.0
-U+1F380  🎀  ribbon - celebration | ribbon
-U+1F381  🎁  wrapped gift - box | celebration | gift | present | wrapped
-U+1F397  🎗  reminder ribbon - celebration | reminder | ribbon
-U+1F39F  🎟  admission tickets - admission | admission tickets | ticket
-U+1F3AB  🎫  ticket - admission | ticket
+U+1F383  🎃  jack-o-lantern - celebration | halloween | jack | lantern
+U+1F384  🎄  Christmas tree - celebration
+U+1F386  🎆  fireworks - celebration
+U+1F387  🎇  sparkler - celebration | fireworks | sparkle
+U+1F9E8  🧨  firecracker - dynamite | explosive | fireworks ║ v11.0
+U+2728   ✨  sparkles - * | sparkle | star
+U+1F388  🎈  balloon - balloon
+U+1F389  🎉  party popper - celebration | tada
+U+1F38A  🎊  confetti ball - celebration
+U+1F38B  🎋  tanabata tree - banner | celebration | Japanese
+U+1F38D  🎍  pine decoration - bamboo | celebration | Japanese
+U+1F38E  🎎  Japanese dolls - celebration | doll | festival
+U+1F38F  🎏  carp streamer - celebration
+U+1F390  🎐  wind chime - bell | celebration
+U+1F391  🎑  moon viewing ceremony - celebration
+U+1F9E7  🧧  red envelope - gift | good luck | hóngbāo | lai see | money ║ v11.0
+U+1F380  🎀  ribbon - celebration
+U+1F381  🎁  wrapped gift - box | celebration | present
+U+1F397  🎗  reminder ribbon - celebration
+U+1F39F  🎟  admission tickets - ticket
+U+1F3AB  🎫  ticket - admission
 
 ===========
 award-medal
