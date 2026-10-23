@@ -1496,7 +1496,7 @@ U+1F4F0  📰  newspaper - news | paper
 U+1F5DE  🗞  rolled-up newspaper - news | paper | rolled
 U+1F4D1  📑  bookmark tabs - mark | marker
 U+1F516  🔖  bookmark - mark
-U+1F3F7  🏷  label
+U+1F3F7  🏷  label - (paper price tag | label | metadata marker) (🏷️)
 
 =====
 money
