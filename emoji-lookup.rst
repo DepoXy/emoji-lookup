@@ -3422,7 +3422,10 @@ U+21Dx	⇐	⇑	⇒	⇓	⇔	⇕	⇖	⇗	⇘	⇙	⇚	⇛	⇜	⇝	⇞	⇟
 U+21Ex	⇠	⇡	⇢	⇣	⇤	⇥	⇦	⇧	⇨	⇩	⇪	⇫	⇬	⇭	⇮	⇯
 U+21Fx	⇰	⇱	⇲	⇳	⇴	⇵	⇶	⇷	⇸	⇹	⇺	⇻	⇼	⇽	⇾	⇿
 
-(Neo)vim solid triangle arrow digraphs: │ UT ▲ │ Dt ▼ │ PR ▶ │ PL ◀ │
+((Neo)vim) solid triangle arrow digraphs: │ UT ▲ │ Dt ▼ │ PR ▶ │ PL ◀ │
+- MNEMO: Point Right and Point Left, Up Triangle and Down triangle.
+- Hollow triangle digraphs: uT △ │ Tr ▷ │ dT ▽ │ Tl ◁ │ LZ ◊ │ OS □ │ RO ▢ │
+  - MNEMO: Triangle right|left, up|down Tri., LoZenge, Open Square, Rounded Oval.
 
 Emoji variation sequences
 base+VS15 (text)	↔︎	↕︎	↖︎	↗︎	↘︎	↙︎	↩︎	↪︎
