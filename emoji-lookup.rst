@@ -958,7 +958,7 @@ U+1F6D8  🛘  landslide - avalanche | danger | disaster | earthquake | mountain
 place-building
 ==============
 
-U+1F3DF  🏟️  stadium - stadium ∦ 🏟
+U+1F3DF  🏟️  stadium - stadium ∦ 🏟 🏟︎
 U+1F3DB  🏛️  classical building - classical | classical building ∦ 🏛
 U+1F3D7  🏗️  building construction - building construction | construction ∦ 🏗
 U+1F9F1  🧱  brick - brick | bricks | clay | mortar | wall ║ v11.0
