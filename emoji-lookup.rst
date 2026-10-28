@@ -4237,6 +4237,7 @@ THANX:
   excited:                    ☜(⌒▽⌒)☞
   exorcism:                   ح(•̀ж•́)ง †
   eye-roll:                   ⥀.⥀
+  faces-uncategorized:        other-faces¹
   feel-perky:                 (`･ω･´)
   fido--dog--canine:          V•ᴥ•V
   fight:                      (ง̀-́)ง
@@ -4274,9 +4275,9 @@ THANX:
   mischievous:                (•̀ᴗ•́ )ゞ ‖ (๑>◡<๑)
   no-support:                 乁( ◔ ౪ ◔)「           ┑(￣Д ￣)┍
   opera:                      ヾ(´〇`)ﾉ♪♪♪ ‖ ヾ(´〇\`)ﾉ♪♪♪
-  other-faces:                ꧁⎝ 𓆩༺✧༻𓆪 ⎠꧂  ‖ ◝(ᵔᗜᵔ)◜ ‖ (っ˘ڡ˘ς) ‖ (ㅅ´ ˘ `) ‖ (๑>؂•̀๑) ‖ ૮◞ ‸ ◟ ა
+  other-faces [¹faces-unc.]:  ꧁⎝ 𓆩༺✧༻𓆪 ⎠꧂  ‖ ◝(ᵔᗜᵔ)◜ ‖ (っ˘ڡ˘ς) ‖ (ㅅ´ ˘ `) ‖ (๑>؂•̀๑) ‖ ૮◞ ‸ ◟ ა
                                 ‖ ◡̈  ‖ ツ ‖ ( ͡° ͜ʖ ͡°) ‖ ( ≖‿  ≖ ) ‖ ( ＾◡＾)っ✂ ╰⋃╯ [!?] ‖ („• ֊ •„)
-                                ‖ ( ˘ᴗ˘ )
+                                ‖ ( ˘ᴗ˘ ) ‖ (•؎ •) ‖ "૮₍  ˶•⤙•˶ ₎ა ‖ ૮₍ ˃ ⤙ ˂ ₎ა ‖ •⩊• ‖ (·•᷄ࡇ•᷅ )
   peepers:                    ಠಠ
   pointing:                   (☞ﾟ ヮﾟ)☞
   pretty-eyes:                ఠ_ఠ
@@ -4319,7 +4320,8 @@ THANX:
   tidy-up:                    ┬─┬⃰͡ (ᵔᵕᵔ͜ )
   tired:                      ( ͡ಠ ʖ̯ ͡ಠ)
   touchy-feely:               ԅ(≖‿≖ԅ)
-  tongues-out:                ˙𐃷˙ ‖ (˶˃𐃷˂˶)
+  tongues-out — 😜😋😝🤪:     ˙𐃷˙ ‖ (˶˃𐃷˂˶) ‖ ˆ𐃷ˆ ‖ ˙𐃷˙ ‖ >ᴗ< ‖ •𐃷• ‖ ˙𐃷˙ ‖ (˶˃𐃷˂˶) ‖ (˶•𐃷•˶)
+                                ‖ :Þ ‖ ᵔ𐃷ᵔ ‖ >ᴗ< ‖ (๑>◡<๑) ‖ (๑˃̵ᴗ˂̵) ‖ ^𐃷^ ‖ (  •̀ 𐃷 •́  ) ‖ >𐃷<⭑.ᐟ
   tripping-out:               q(❂‿❂)p
   trolling:                   ༼∵༽ ༼⍨༽ ༼⍢༽ ༼⍤༽
   uwu: †
